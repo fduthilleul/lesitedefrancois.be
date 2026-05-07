@@ -1,13 +1,16 @@
 ---
 title: "Indonésie: Bali & Java"
 date: 2025-07-28
-categories: ["Voyages"]
-tags: ["Asie", "Indonésie", "Bali", "Java"]
+categories: ["Voyages", "Asie"]
+tags: ["Indonésie", "Bali", "Java"]
 summary: "Cap sur l'Indonésie pour un séjour de 2 semaines entre l'Île des Dieux et l'Île de Feu. Au programme : ascensions de volcans, visites de temples majestueux, découverte de la culture hindoue, balades et détente au milieu des rizières,…sans oublier le mie goreng et le dardar gulung !"
 showTableOfContents: true
+hero: featured.jpeg
 ---
 
 Cap sur l'Indonésie pour un séjour de 2 semaines entre l'Île des Dieux et l'Île de Feu. Au programme : ascensions de volcans, visites de temples majestueux, découverte de la culture hindoue, balades et détente au milieu des rizières,…sans oublier le mie goreng et le dardar gulung !
+
+![Doha - Qatar Airways](images/doha.webp)
 
 ## Jour 1: Départ
 
@@ -23,6 +26,8 @@ Cap sur l'Indonésie pour un séjour de 2 semaines entre l'Île des Dieux et l'�
 - Briefing par Bali Passion
 - On profite de l'Afternoon Tea de l'hotel
 - Dépose des valises / Repos
+
+![Rizières de Bali](images/bali-riziere.webp)
 
 ## Jour 3: Ubud & Taman Ayun
 

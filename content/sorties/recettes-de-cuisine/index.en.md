@@ -1,66 +1,66 @@
 ---
-title: "Recettes de cuisine"
+title: "Cooking Recipes"
 date: 2025-11-01
-categories: ["Sorties", "Resto"]
-tags: ["Recettes", "Cuisine"]
-summary: "Voici quelques recettes que nous avons déjà essayées."
+categories: ["Outings", "Restaurants"]
+tags: ["Recipes", "Cooking"]
+summary: "Here are some recipes we have already tried."
 hero: /images/tajine.webp
 ---
 
-Voici quelques recettes que nous avons déjà essayées:
+Here are some recipes we have already tried:
 
-## Sauté de veau aux carottes, ras el hanout et citron confit
+## Veal sauté with carrots, ras el hanout and preserved lemon
 
 <https://www.papillesetpupilles.fr/2025/03/saute-de-veau-aux-carottes-ras-el-hanout-et-citron-confit.html/>
 
-## Fenouil rôti au miel et balsamique, parmesan et graines de courge
+## Roasted fennel with honey and balsamic, parmesan and pumpkin seeds
 
 <https://www.saveursfrance.com/fenouil-miel-et-balsamique-parmesan/>
 
-## Parmentier Végétarien au Curry, Patates Douces et Noix de Cajou
+## Vegetarian Curry Parmentier with Sweet Potatoes and Cashew Nuts
 
 <https://www.facebook.com/story.php?story_fbid=122144649746343633&id=61560308991103&mibextid=wwXIfr&rdid=Uozz15IAsYbQUSGv#>
 
-## Tajine aux hauts de cuisses de poulet et aux 6 légumes
+## Chicken thigh tagine with 6 vegetables
 
 <https://www.colruyt.be/fr/recettes/tajine-aux-hauts-de-cuisses-de-poulet-et-aux-6-legumes>
 
-## Tajine de légumes aux raisins
+## Vegetable tagine with raisins
 
 <https://www.delhaize.be/fr/recettes/recetteDetails/Tajine-de-legumes-aux-raisins/>
 
-## Tajine de boulettes aux tomates roties
+## Meatball tagine with roasted tomatoes
 
 <https://www.delhaize.be/fr/recettes/recetteDetails/Tajine-de-boulettes-aux-tomates-roties/>
 
-## Hachis parmentier aux légumes du Sud
+## Southern-style vegetable shepherd's pie
 
 <https://cuisine.journaldesfemmes.fr/recette/343510-hachis-parmentier-aux-legumes-du-sud>
 
-## Cannellonis farcis aux légumes
+## Vegetable-stuffed cannelloni
 
 <https://www.cuisineaz.com/recettes/cannellonis-farcis-aux-legumes-47033.aspx>
 
-## La recette de la véritable Tarte Tatin
+## The authentic Tarte Tatin recipe
 
 <https://www.youtube.com/watch?v=HFjTdgh_oKQ>
 
-## Pâtes à la courge Butternut et aux chipolatas
+## Butternut squash pasta with chipolatas
 
 <https://www.colruyt.be/fr/recettes/pates-a-la-courge-butternut-et-aux-chipolatas>
 
-## Cannellonis au saumon, ricotta et épinards
+## Salmon, ricotta and spinach cannelloni
 
 <https://www.cuisineactuelle.fr/culture-food/les-petits-plus-en-cuisine/actu-food/cannelloni-au-saumon-ricotta-et-epinards-la-recette-italienne-tres-facile-193217>
 
-## Pennes au fenouil, aux tomates et aux chipolatas de volaille
+## Penne with fennel, tomatoes and poultry chipolatas
 
 <https://www.colruyt.be/fr/recettes/pennes-au-fenouil-aux-tomates-et-aux-chipolatas-de-volaille>
 
-## Tarte poulet coco et noix de cajou
+## Coconut chicken and cashew nut tart
 
 <https://www.chefclub.tv/fr/recettes/daily/8d2cef3d-a6a8-47b9-b480-07b8f60a1b29/tarte-poulet-coco-et-noix-de-cajou-en-cuisine-avec-mc-au-naturel/>
 
-## Tarte poulet coco gingembre façon Tartes Françoise
+## Coconut ginger chicken tart, Tartes Françoise style
 
 <https://toquedechoc.com/2019/08/tarte-poulet-coco-gingembre-facon-tartes-francoise/>

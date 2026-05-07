@@ -1,0 +1,10 @@
+<!doctype html>
+<html
+  lang="{{ with site.Params.isoCode | default (site.Language.Locale | default `fr`) }}{{- . -}}{{ end }}"
+  dir="ltr"
+  class="scroll-smooth">
+  {{- partial "head.html" . -}}
+  <body style="margin:0;padding:0;overflow:hidden;">
+    {{ partial "home/custom.html" . }}
+  </body>
+</html>

@@ -5,6 +5,8 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
 
+logo = "images/logo.jpg"
+
 mainSections = ["voyages", "sorties"]
 
 disableImageOptimization = false
@@ -22,15 +24,11 @@ smartTOC = true
   showScrollToTop = true
 
 [homepage]
-  layout = "hero"
-  homepageImage = "/images/hero.jpg"
-  showRecent = true
-  showRecentItems = 6
-  showMoreLink = true
-  showMoreLinkDest = "voyages"
-  cardView = true
-  cardViewScreenWidth = false
-  layoutBackgroundBlur = true
+  layout = "custom"
+  homepageImage = "images/hero.jpg"
+  showRecent = false
+  cardView = false
+  layoutBackgroundBlur = false
 
 [article]
   showDate = true

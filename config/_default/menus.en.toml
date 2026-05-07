@@ -1,0 +1,55 @@
+[[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 5
+
+[[main]]
+  name = "Travels"
+  pageRef = "voyages"
+  weight = 10
+
+[[main]]
+  name = "Europe"
+  parent = "Travels"
+  url = "/categories/europe/"
+  weight = 1
+
+[[main]]
+  name = "Asia"
+  parent = "Travels"
+  url = "/categories/asia/"
+  weight = 2
+
+[[main]]
+  name = "America"
+  parent = "Travels"
+  url = "/categories/america/"
+  weight = 3
+
+[[main]]
+  name = "Outings"
+  pageRef = "sorties"
+  weight = 20
+
+[[main]]
+  name = "Music"
+  parent = "Outings"
+  url = "/categories/music/"
+  weight = 1
+
+[[main]]
+  name = "Restaurants"
+  parent = "Outings"
+  url = "/categories/restaurants/"
+  weight = 2
+
+[[main]]
+  name = "Parks"
+  parent = "Outings"
+  url = "/categories/parks/"
+  weight = 3
+
+[[main]]
+  name = "Must-Sees"
+  pageRef = "les-incontournables"
+  weight = 30

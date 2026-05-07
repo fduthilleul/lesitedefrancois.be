@@ -1,0 +1,16 @@
+locale = "en"
+label = "English"
+weight = 2
+title = "Le Site de François"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "January 2, 2006"
+  description = "Family outings and travel"
+
+[params.author]
+  name = "François"
+  headline = "Family outings and travel"
+  bio = "Family outings and travel"

@@ -1,12 +1,53 @@
 [[main]]
+  name = "Accueil"
+  pageRef = "/"
+  weight = 5
+
+[[main]]
   name = "Voyages"
   pageRef = "voyages"
   weight = 10
 
 [[main]]
+  name = "Europe"
+  parent = "Voyages"
+  url = "/categories/europe/"
+  weight = 1
+
+[[main]]
+  name = "Asie"
+  parent = "Voyages"
+  url = "/categories/asie/"
+  weight = 2
+
+[[main]]
+  name = "Amerique"
+  parent = "Voyages"
+  url = "/categories/amerique/"
+  weight = 3
+
+[[main]]
   name = "Sorties"
   pageRef = "sorties"
   weight = 20
+
+[[main]]
+  name = "Musique"
+  parent = "Sorties"
+  url = "/categories/musique/"
+  weight = 1
+
+[[main]]
+  name = "Resto"
+  parent = "Sorties"
+  url = "/categories/resto/"
+  weight = 2
+
+[[main]]
+  name = "Parcs"
+  parent = "Sorties"
+  url = "/categories/parcs/"
+  weight = 3
 
 [[main]]
   name = "Les Incontournables"
