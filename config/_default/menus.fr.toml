@@ -1,0 +1,14 @@
+[[main]]
+  name = "Voyages"
+  pageRef = "voyages"
+  weight = 10
+
+[[main]]
+  name = "Sorties"
+  pageRef = "sorties"
+  weight = 20
+
+[[main]]
+  name = "Les Incontournables"
+  pageRef = "les-incontournables"
+  weight = 30

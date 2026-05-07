@@ -1,0 +1,61 @@
+colorScheme = "blowfish"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = false
+
+mainSections = ["voyages", "sorties"]
+
+disableImageOptimization = false
+highlightCurrentMenuArea = true
+smartTOC = true
+
+[header]
+  layout = "fixed"
+
+[footer]
+  showMenu = false
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "hero"
+  homepageImage = "/images/hero.jpg"
+  showRecent = true
+  showRecentItems = 6
+  showMoreLink = true
+  showMoreLinkDest = "voyages"
+  cardView = true
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = true
+
+[article]
+  showDate = true
+  showDateOnlyInArticle = false
+  showAuthor = false
+  showHero = true
+  heroStyle = "big"
+  showBreadcrumbs = true
+  showPagination = true
+  showReadingTime = true
+  showTableOfContents = true
+  showRelatedContent = true
+  relatedContentLimit = 3
+  showTaxonomies = true
+  sharingLinks = ["whatsapp", "facebook", "email"]
+
+[list]
+  showHero = false
+  showBreadcrumbs = true
+  showSummary = true
+  showCards = true
+  cardView = true
+  cardViewScreenWidth = false
+  groupByYear = false
+
+[taxonomy]
+  showTermCount = true
+  cardView = true
