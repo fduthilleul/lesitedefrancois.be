@@ -6,6 +6,7 @@ enableSearch = true
 enableCodeCopy = false
 
 logo = "images/logo.jpg"
+disableTextInHeader = true
 
 mainSections = ["voyages", "sorties"]
 
@@ -32,17 +33,18 @@ smartTOC = true
 
 [article]
   showDate = true
-  showDateOnlyInArticle = false
+  showDateOnlyInArticle = true
   showAuthor = false
   showHero = true
   heroStyle = "big"
   showBreadcrumbs = true
   showPagination = true
-  showReadingTime = true
+  showReadingTime = false
+  showWordCount = false
   showTableOfContents = true
   showRelatedContent = true
   relatedContentLimit = 3
-  showTaxonomies = true
+  showTaxonomies = false
   sharingLinks = ["whatsapp", "facebook", "email"]
 
 [list]

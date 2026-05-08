@@ -87,6 +87,30 @@ h1, h2, h3, h4, h5, h6 {
   color: #333;
 }
 
+/* Match Elementor's 1200px container */
+.max-w-7xl {
+  max-width: 1200px !important;
+}
+
+@media (min-width: 1024px) {
+  .lg\:px-32 {
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .md\:px-24 {
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+  }
+}
+
+/* Card grid: 3 columns with 24px gap matching Elementor */
+section.grid {
+  gap: 24px !important;
+}
+
 /* Logo sizing */
 .logo.max-h-20 {
   max-height: 3.5rem;
