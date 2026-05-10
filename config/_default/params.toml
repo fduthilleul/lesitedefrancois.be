@@ -8,7 +8,7 @@ enableCodeCopy = false
 logo = "images/logo.jpg"
 disableTextInHeader = true
 
-mainSections = ["voyages", "sorties"]
+mainSections = ["voyages", "sorties", "divers"]
 
 disableImageOptimization = false
 highlightCurrentMenuArea = true

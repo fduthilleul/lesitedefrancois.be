@@ -1,25 +1,25 @@
 ---
 title: "Must-Sees"
-description: "Events and outings not to be missed"
+description: "The essentials not to be missed"
 ---
 
-## Must-Sees
+## Must-sees
 
-### Visit of the Royal Greenhouses of Laeken
+### Visit to the Royal Greenhouses of Laeken
 
-Booking date: April 1st (?)
+Booking date: 1 April (?)
 
-- From April 15 to May 8, 2022
-- Night visits every Friday, Saturday and Sunday (and April 18, Easter Monday).
+- From 15 April to 8 May 2022
+- Night visits every Friday, Saturday and Sunday (and on 18 April, Easter Monday).
 
 ### Les Saveurs de Silly
 
-Booking date: April 1st
+Booking date: 1 April
 
-### Sortilèges Rue et Vous!
+### Sortilèges Rue et Vous !
 
 [https://mcath.be/Sortileges.html](https://mcath.be/Sortileges.html)
 
-### My First Time at the Opera
+### My first time at the Opera
 
 [https://www.operadeparis.fr/programmation-et-billets/offres-spectateurs/ma-premiere-fois-a-lopera-5](https://www.operadeparis.fr/programmation-et-billets/offres-spectateurs/ma-premiere-fois-a-lopera-5)

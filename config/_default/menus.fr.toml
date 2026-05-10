@@ -53,3 +53,8 @@
   name = "Les Incontournables"
   pageRef = "les-incontournables"
   weight = 30
+
+[[main]]
+  name = "Divers"
+  pageRef = "divers"
+  weight = 40
