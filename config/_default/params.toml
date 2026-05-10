@@ -44,7 +44,7 @@ smartTOC = true
   showTableOfContents = true
   showRelatedContent = true
   relatedContentLimit = 3
-  showTaxonomies = false
+  showTaxonomies = true
   sharingLinks = ["whatsapp", "facebook", "email"]
 
 [list]
