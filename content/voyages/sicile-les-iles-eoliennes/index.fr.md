@@ -2,7 +2,7 @@
 title: "Sicile & Les îles éoliennes"
 date: 2024-04-14
 categories: ["Voyages", "Europe"]
-tags: ["Italie", "Sicile", "Iles Eoliennes"]
+tags: ["Italie", "2019"]
 summary: "19 jours entre Palerme, Scopello, Agrigente, Taormine, Lipari, Vulcano, le Stromboli et Cefalù."
 featureimage: /images/sicile.jpeg
 ---

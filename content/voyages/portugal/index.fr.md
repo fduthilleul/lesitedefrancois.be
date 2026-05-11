@@ -2,7 +2,7 @@
 title: "Portugal"
 date: 2024-03-10
 categories: ["Voyages", "Europe"]
-tags: ["Portugal", "Porto", "Lisbonne"]
+tags: ["Portugal", "2020"]
 summary: "Cette année, destination le Portugal. Au programme: Guimarães, Porto, la vallée du Douro, Coimbra, Sintra, Lisbonne et la Rota Vincentina."
 featureimage: /images/portugal.jpg
 ---

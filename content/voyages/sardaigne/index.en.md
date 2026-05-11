@@ -2,8 +2,23 @@
 title: "Sardinia"
 date: 2023-08-18
 categories: ["Voyages", "Europe"]
-tags: ["Italy", "Sardinia"]
-summary: "After much hesitation between many destinations, we finally decided to head to Sardinia. On the program: hikes, kayaking, nuragic sites, beaches and coves with crystal-clear waters, dolphin watching..."
+tags: ["Italy", "2023"]
+summary: "After weighing lots of destinations for a long time, we finally set our sights on Sardinia. On the agenda: hikes, kayaking, nuragic sites, beaches and coves with crystal-clear water, dolphin spotting..."
 ---
-Day 1: Cagliari - airport, car rental, walking tour, first accommodation in Ogliastra region
-Day 2: Arbatax & Porto Frailis - pool, Lido di Orri beach, Rocce Rosse, Torre di San Gemiliano
+
+After weighing lots of destinations (Jordan, Morocco,…) for a long time, we finally set our sights on Sardinia. On the agenda: hikes, kayaking, nuragic sites, beaches and coves with crystal-clear water, dolphin spotting…not to mention tasting local specialties like culurgiones, pane carasau, and pardulas.
+
+## Day 1: Cagliari
+
+- Departure from Brussels South Charleroi
+- Arrival at Cagliari Airport
+- Pickup of the rental car
+- Walking tour of Cagliari
+- On to our first accommodation in the Ogliastra region
+
+## Day 2: Arbatax & Porto Frailis
+
+- Pool
+- Lido di Orri beach
+- Visit to the village of Arbatax and its Rocce Rosse
+- Walk to Porto Frailis beach and the Torre di San Gemiliano

@@ -1,8 +1,8 @@
 ---
-title: "Puglia"
+title: "Les Pouilles"
 date: 2018-07-30
 categories: ["Voyages", "Europe"]
-tags: ["Italie", "Puglia", "Naples"]
+tags: ["Italie", "2018"]
 summary: "Cette année nous avons décidé de visiter l'Italie du Sud au départ de la trépidante ville de Naples. Au programme: pizzas, vespas, sites historiques, parc naturel, plages, glaces… Bref un programme bien chargé mais ô combien agréable !"
 featureimage: /images/puglia.jpg
 ---

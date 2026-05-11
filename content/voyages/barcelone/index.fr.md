@@ -2,7 +2,7 @@
 title: "Barcelone"
 date: 2023-11-05
 categories: ["Voyages", "Europe"]
-tags: ["Espagne", "2023", "City Trip"]
+tags: ["Espagne", "City Trip", "2023"]
 summary: "Envie d'un peu de ciel bleu à la Toussaint. Destination Barcelone pour un city trip haut en couleur. Programme: Sagrada Familia, Palais de la Musique Catalane, Recinte Modernista San Pau sans oublier les traditionnels tapas."
 featureimage: /images/barcelone.jpg
 ---

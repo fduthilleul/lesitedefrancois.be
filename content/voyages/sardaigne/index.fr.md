@@ -2,7 +2,7 @@
 title: "Sardaigne"
 date: 2023-08-18
 categories: ["Voyages", "Europe"]
-tags: ["Italie", "Sardaigne"]
+tags: ["Italie", "2023"]
 summary: "Après avoir longuement hésité entre de nombreuses destinations, nous avons finalement décidé de mettre le cap sur la Sardaigne. Au programme: randonnées, kayak, sites nuragiques, plages et criques aux eaux cristallines, observation des dauphins…"
 featureimage: /images/sardaigne.jpg
 ---

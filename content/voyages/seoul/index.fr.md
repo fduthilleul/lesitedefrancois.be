@@ -2,7 +2,7 @@
 title: "Seoul"
 date: 2024-06-01
 categories: ["Voyages", "Asie"]
-tags: ["Corée du Sud", "Seoul"]
+tags: ["Corée du Sud", "2024"]
 summary: "Moins de 48h pour visiter Seoul, la capitale du \"Pays du Matin Calme\"."
 featureimage: /images/seoul.jpg
 ---
