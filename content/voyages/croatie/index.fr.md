@@ -2,7 +2,7 @@
 title: "Croatie"
 date: 2024-03-26
 categories: ["Voyages", "Europe"]
-tags: ["Croatie", "Dubrovnik", "Plitvice"]
+tags: ["2022", "Dubrovnik", "Plitvice"]
 summary: "Découverte de la Croatie depuis Zadar jusqu'à Dubrovnik en commençant par les lacs de Plitvice. Petit séjour dans les îles Kornati et Korcula. Remparts de Ston sans oublier le parc national de Mlijet."
 featureimage: /images/croatie.jpg
 ---

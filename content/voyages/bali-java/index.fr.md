@@ -2,7 +2,7 @@
 title: "Indonésie: Bali & Java"
 date: 2025-07-28
 categories: ["Voyages", "Asie"]
-tags: ["Indonésie", "Bali", "Java"]
+tags: ["Indonésie", "2025"]
 summary: "Cap sur l'Indonésie pour un séjour de 2 semaines entre l'Île des Dieux et l'Île de Feu. Au programme : ascensions de volcans, visites de temples majestueux, découverte de la culture hindoue, balades et détente au milieu des rizières,…sans oublier le mie goreng et le dardar gulung !"
 showTableOfContents: true
 hero: featured.jpeg

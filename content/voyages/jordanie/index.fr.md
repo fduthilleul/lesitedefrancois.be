@@ -2,7 +2,7 @@
 title: "Jordanie"
 date: 2024-03-24
 categories: ["Voyages", "Asie"]
-tags: ["Jordanie", "Petra", "Wadi Rum"]
+tags: ["2024", "Petra", "Wadi Rum"]
 summary: "On nous a dit tant de bien sur la Jordanie que nous avons décidé d'aller visiter ce magnifique pays. Au programme: randonnées dans les Wadi, sites historiques, nuit dans le désert, plongée et snorkelling..."
 featureimage: /images/jordanie.jpeg
 ---
