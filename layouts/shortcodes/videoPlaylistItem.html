@@ -1,0 +1,8 @@
+{{- $id := .Get "id" -}}
+{{- $title := .Get "title" -}}
+{{- $duration := .Get "duration" -}}
+{{- $index := .Parent.Store.Get "vpl-index" | default 0 -}}
+
+{{- $items := .Parent.Store.Get "vpl-items" | default slice -}}
+{{- .Parent.Store.Set "vpl-items" ($items | append (dict "id" $id "title" $title "duration" $duration)) -}}
+{{- .Parent.Store.Set "vpl-index" (add 1 $index) -}}

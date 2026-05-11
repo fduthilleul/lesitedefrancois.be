@@ -1,0 +1,22 @@
+---
+description: Keep the website bilingual — when an index.fr.md file is edited, update or create the matching index.en.md translation
+globs: content/**/index.fr.md
+alwaysApply: false
+---
+
+# Bilingual Content Sync
+
+This Hugo site is bilingual (French / English). French (`index.fr.md`) is the primary language; English (`index.en.md`) is the translation.
+
+## When an `index.fr.md` is modified
+
+1. **Check** if a sibling `index.en.md` exists in the same directory.
+2. **If it exists** — update it so it reflects the latest French content.
+3. **If it doesn't exist** — create it with the full translation.
+
+## Translation rules
+
+- **Front matter**: translate `title`, `summary`, and `tags`. Keep `date`, `categories`, and other metadata identical. Drop `featureimage` only if the English version doesn't already have it.
+- **Body**: translate all Markdown content (headings, lists, paragraphs) into natural English while preserving the original Markdown structure, links, and image references.
+- **Proper nouns**: keep place names, venue names, and brand names in their original form (e.g. "Sagrada Familia", "Palais de la Musique Catalane" → "Palau de la Música Catalana"). Use the locally accepted English spelling when one exists.
+- **Tone**: match the casual, travel-blog tone of the French source.
