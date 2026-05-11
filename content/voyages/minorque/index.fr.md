@@ -2,7 +2,7 @@
 title: "Minorque"
 date: 2024-04-01
 categories: ["Voyages", "Europe"]
-tags: ["Espagne", "Minorque", "Baléares"]
+tags: ["Espagne","Baléares","2024"]
 summary: "Séjour d'une semaine à Minorque. Visite de Ciutadella, randonnées côtières et découverte de l'île."
 featureimage: /images/minorque.jpg
 ---
