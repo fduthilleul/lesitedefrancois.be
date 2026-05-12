@@ -2,7 +2,7 @@
 title: "Kyoto"
 date: 2025-06-22
 categories: ["Voyages", "Asie"]
-tags: ["Japon", "Kyoto"]
+tags: ["Japon", "2025"]
 summary: "Moins de 48h pour visiter une des villes emblématiques du Pays du Soleil-Levant…"
 featureimage: /images/kyoto.jpeg
 ---
