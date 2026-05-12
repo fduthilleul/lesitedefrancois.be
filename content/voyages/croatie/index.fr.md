@@ -19,26 +19,31 @@ Pour préparer son voyage en Croatie je vous conseille de consulter le site [htt
 - Visite à pied du centre historique de Zadar
 - Arrêt glaces chez aROMA gelato experience
 - Route vers le premier logement à Grabovac
+- Plongeon dans la piscine
+- Souper et découverte des ćevapčići
 
 ## Jour 2: Les Lacs de Plitvice
 
+- Petit-déjeuner sur la terrasse du logement
 - Accueil par l'ours des lacs de Plitvice (entrée 1)
 - Balade dans le parc (programme K)
 - Arrivée au second logement à Zadar
 
 ## Jour 3: L'île de Pag
 
+- Petit-déjeuner près de la piscine
 - On profite de la superbe piscine
 - En route vers l'île de Pag
 - Arrêt photo au Paški Most (le pont de Pag)
 - Visite de Pag et de Novalja
-- Balade dans le jardin des Oliviers
+- Balade dans le jardin des Oliviers « à l'extrême nord de l'île »
 - Arrêt pour acheter le fromage (réputé) de Pag
 
 ## Jour 4: Visite des Kornati
 
 - Départ en ferry à 8h15 vers Zaglav pour visiter le parc naturel de Telašćica
-- Lac de Mir: balade et baignade
+- Arrivée à Zaglav et bus vers Sali. Plus aucune voiture disponible. « On se rabat sur Taxi Frka… » qui nous dépose à l'entrée du lac de Mir
+- Beaux points de vue et balade jusqu'à la mer avec paysage de pierres empilées ; baignade au lac de Mir
 - Bateau du retour à 17h50
 
 ## Jour 5: Canoé-Kayak - Rivière Zrmanja
@@ -53,9 +58,10 @@ Pour préparer son voyage en Croatie je vous conseille de consulter le site [htt
 
 ## Jour 7: Canyoning - Rivière Cetina
 
+- Arrêt resto sur la route d'Omiš
 - Canyoning
-- Visite de Omis
-- Balade jusqu'à la forteresse Starigrad
+- Visite d'Omiš
+- Balade jusqu'à la forteresse Starigrad — « Un orage nous empêchera d'y arriver. »
 
 ## Jour 8: Split
 
@@ -66,6 +72,7 @@ Pour préparer son voyage en Croatie je vous conseille de consulter le site [htt
 - Petit-déjeuner à Trogir
 - Départ vers Korcula
 - Visite de la ville de Korcula
+- Piscine dans le quatrième logement
 
 ## Jour 10: Pupnatska Luka
 
@@ -80,6 +87,7 @@ Pour préparer son voyage en Croatie je vous conseille de consulter le site [htt
 - Visite de la petite île
 - Baignade dans les courants
 - On pédale jusqu'à Polače
+- Retour à Korčula
 
 ## Jour 12: Les remparts de Ston
 
@@ -87,7 +95,7 @@ Pour préparer son voyage en Croatie je vous conseille de consulter le site [htt
 - Arrivée à Ston
 - On grimpe jusqu'aux remparts
 - Vue sur les salines
-- Direction Plat
+- Direction Plat pour notre prochain logement
 
 ## Jour 13: Dubrovnik
 

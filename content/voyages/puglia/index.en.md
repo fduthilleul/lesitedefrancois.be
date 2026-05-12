@@ -3,97 +3,86 @@ title: "Puglia"
 date: 2018-07-30
 categories: ["Voyages", "Europe"]
 tags: ["Italy", "2018"]
-summary: "This year we decided to explore southern Italy, setting out from the buzzing city of Naples. On the agenda: pizza, Vespas, historic sites, a national park, beaches, gelato… In short, a packed schedule—and an absolutely lovely one!"
+summary: "This year we decided to explore southern Italy, starting from the buzzing city of Naples. On the agenda: pizza, Vespas, historic sights, a national park, beaches, gelato—in short, a packed schedule that was pure pleasure."
 ---
 
-This year we decided to explore southern Italy, setting out from the buzzing city of Naples. On the agenda: pizza, Vespas, historic sites, a national park, beaches, gelato… In short, a packed schedule—and an absolutely lovely one!
+This year we decided to explore southern Italy, starting from the buzzing city of Naples. On the agenda: pizza, Vespas, historic sights, a national park, beaches, gelato—in short, a packed schedule that was pure pleasure.
 
 ## Day 1: Naples
 
-- Arrival at Naples Airport
-- Walking tour of Naples
-- Visit to the Naples underground (Napoli Sotterranea)
-- Neapolitan pizza by the sea
+Flight into Naples, taxi to the apartment to drop the bags, then a walking tour of the city plus the Naples underground (*Napoli Sotterranea*). We wrapped up with Neapolitan pizza by the sea.
+
+It’s only about two hours in the air from Belgium; the taxi to our flat ran us something like €25–30. We’d booked via Abritel (HomeAway) and were greeted by Gaëtano. We wandered from Piazza del Gesù Nuovo through the centro storico. San Severo Chapel was closed—it’s shut on Tuesdays—so we headed underground instead on an English-language tour that was really worth it.
 
 ## Day 2: Ischia
 
-- Off to the island of Ischia
-- Afternoon at the Negombo thermal spa
-- Dinner at Trattoria da Concetta
+Breakfast at Il Chicco D’Oro, then off to Ischia. We docked at Casamicciola and spent the afternoon at the Negombo thermal baths. Back to Naples for dinner at *Trattoria da Concetta*.
 
 ## Day 3: Vesuvius & Pompeii
 
-- Hike up Vesuvius
-- Visit to Pompeii
-- Dinner at Pizzeria Al 22
+Breakfast at Bar Augustus, then up Vesuvius and through Pompeii. Dinner at pizzeria *Al 22*.
 
-## Day 4: Itria Valley & the trulli
+## Day 4: The Itria Valley & the trulli
 
-- Taxi to the airport to pick up a rental car
-- Arrival in Trito, near Locorotondo
-- Visit to Locorotondo
+Takeaway lunch, taxi to the airport to pick up the rental car, then on to Trito, just outside Locorotondo. We strolled Locorotondo and had dinner at *Pizza Casa Pinto*. We stayed at *Truddhi Casa e Cucina di Puglia* in Trito.
 
 ## Day 5: Martina Franca & Alberobello
 
-- Visit to Martina Franca
-- Alberobello
-- Dinner at Il Guercio (Pinseria)
+Morning in Martina Franca—pastry break during the Belgium–England match—then Alberobello. Dinner at *Il Guercio* (pinseria).
 
 ## Day 6: Cisternino
 
-- Pool time
-- Visit to Cisternino and gelato
+A slower day: pool time, Cisternino, and gelato.
 
 ## Day 7: Polignano a Mare
 
-- Visit to Polignano a Mare
-- Gelato at Caruso
+Again pool plus an outing—Polignano a Mare—with gelato at Caruso.
 
 ## Day 8: Bari & Monopoli
 
-- Visit to Bari
-- Visit to Monopoli
+Bari first, gelato at Martunicelli, then Monopoli; we had dinner there.
 
 ## Day 9: Matera
 
-- Visit to Matera’s Sassi (UNESCO World Heritage Site)
-- Grotta di Vico Solitario
-- Tasting heart-shaped Matera bread
+The Sassi di Matera (UNESCO World Heritage, European Capital of Culture 2019), Grotta di Vico Solitario, gelato at *I Vizi degli Angeli*, and a taste of the heart-shaped bread Matera is known for.
+
+Matera sits in Basilicata rather than Puglia proper, but the detour was worth it—the cave districts are UNESCO-listed and the city was ECOC in 2019, one of the stand-out stops of the trip.
 
 ## Day 10: Ostuni & Locorotondo
 
-- Visit to Ostuni
-- Dinner at Casa Pinto in Locorotondo
+Ostuni, gelato at Ciccio, then dinner at Casa Pinto in Locorotondo.
 
 ## Day 11: Salento
 
-- Arrival at Masseria Lu Iundulu near Lecce
-- Visit to Porto Cesareo
-- Beach time
+We checked into *Masseria Lu Iundulu* near Lecce, visited Porto Cesareo, beach time in the afternoon, dinner at *Cantine Don Carlo*.
 
 ## Day 12: Otranto & Lecce
 
-- Visit to Otranto
-- Visit to Lecce
+Otranto in the morning with excellent granita, then Lecce (near Porto Napoli). Dinner at *Dall’Antiquario*.
 
 ## Day 13: Gallipoli bay
 
-- Punta Pizzo
-- Visit to Gallipoli
+A hidden-feeling swim spot near Gallipoli, Punta Pizzo, then Gallipoli itself—spritz and fish antipasti at *La Spingula*, *Martinucci* gelato for the kids, dinner back at *Cantine Don Carlo* (Lequile).
 
 ## Day 14: Gargano National Park
 
-- Drive toward the Gargano
-- Stop in Trani
-- Arrival in Mattinata
+Road trip toward the Gargano, coffee (and pastry) stop in Trani, then on to Mattinata—dinner at *La Terraza*.
 
 ## Day 15: Mattinata to Vieste
 
-- Boat tour (Grotte Marine di Mattinata)
-- Road to Vieste (stop at Baia San Felice)
-- Visit to Vieste
+National-park focus: boat tour of the sea caves (*Grotte Marine di Mattinata*) with Matteo Silvestri, half an hour swimming break, drive toward Vieste with a pause at Baia San Felice, then Vieste (jellyfish in the water, *trabucci* offshore). Dinner at *La Scapetta d’Oro* back in Mattinata.
 
 ## Day 16: A Gargano beach
 
-- Beach at Vignanotica Beach
-- Departure for Caserta
+*Vignanotica Beach*—you can add a scenic walk—and gelato at Gabrielino in Mattinata. Then we pushed on toward Caserta for the night and dinner at *Tre Farine*.
+
+## Back to Belgium
+
+After looping through Campania, Puglia (and that Basilicata side-trip), one last meal in Caserta and a flight home with full memory cards—and stomachs.
+
+## What we would have liked to squeeze in
+
+- A visit to Castel del Monte  
+- The Castellana Caves  
+- The Tremiti Islands  
+- Hikes in the Murge  

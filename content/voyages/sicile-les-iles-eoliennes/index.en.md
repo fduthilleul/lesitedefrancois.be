@@ -8,50 +8,71 @@ summary: "19 days between Palermo, Scopello, Agrigento, Taormina, Lipari, Vulcan
 
 ## Day 1: Palermo
 
-- Arrival at Palermo airport at 6:40 p.m.
-- Train into central Palermo
-- Drop our bags at the apartment
-- Walk around the city
-- Trying brioche col tuppo with Sicilian gelato
+- landed at Palermo airport at **6:40 p.m.**
+- **Trinacria Express** train into the city centre (central station)
+- dropped our bags at the apartment on **Via Vittorio Emanuele**
+- watched the festive lights from the balcony
+- evening walk through the streets near the port
+- first taste of **brioche col tuppo** with Sicilian gelato at **Gelateria La Kala**
 
 ## Day 2: Palermo
 
-- Guided tour of Palermo (2 hours), starting from Piazza Bologni
-- Pasticceria Costa and our first cannoli
-- Foro Italico – Porta Felice – Piazza Marina – Corso Vittorio Emanuele – Piazza Pretoria – Quattro Canti – Ballarò
-- A glass of "Sangue" at Taverna Azzura (Vucciria)
-- Train to the airport to pick up the rental car
-- Arrival at our place in Scopello
+- left our bags somewhere safe, **2-hour** guided tour of Palermo via Airbnb, leaving from **Piazza Bologni**
+- stopped at **Pasticceria Costa** for cannoli
+- route: **Foro Italico** – **Porta Felice** – **Piazza Marina** – **Corso Vittorio Emanuele** – **Piazza Pretoria** – **Quattro Canti** – **Ballarò**
+- glass of « Sangue » (“Sicilian blood”) at **Taverna Azzura** (Vucciria)—a typical sweet wine somewhere between Marsala and Zibibbo
+- dinner and our first **caponata**
+- free time: **Villa Bonanno**
+- the kids had their first **granita**
+- train out to the airport to pick up the rental car
+- arrived at our place in **Scopello** (Visicari)
 
 ## Day 3: Zingaro Nature Reserve
 
-- Hike in the Zingaro nature reserve
-- Running into Peppe and his tuna sandwiches
-- Picnic near Cala del Varo
-- Dinner at Torre Bennistra
+- pool after breakfast
+- hike in **Zingaro** nature reserve
+- met **Peppe** and his tuna sandwiches (*panino con tonno affumicato*, orosicilia.com)
+- picnic near **Cala del Varo**, then on toward **Cala Berretta** and **Cala Disa**
+- dinner at **Torre Bennistra**, looking out over the **Tonnara di Scopello**
 
 ## Day 4: Segesta
 
-- Visit to the Segesta archaeological park: the temple and the Hellenistic theatre
+- pool in the morning
+- delicious **caponata** made by the owners’ family
+- visit to the **Segesta** archaeological park: the temple and the Hellenistic theatre
+- back to the pool and a barbecue
 
 ## Day 5: Favignana
 
-- Off to Trapani for the Egadi Islands
-- Bike rental on Favignana
-- Stunning coves and beaches
+- wandered the garden at our lodging
+- drove to **Trapani** for the **Egadi** islands
+- rented bikes on **Favignana**
+- stunning coves and beaches
+- ferry back around **6:30 p.m.**
+- dinner in Scopello at **Isonzo Cinque**
 
 ## Day 6: Erice
 
-- Cable car up to Erice
-- Lovely medieval hill town
-- Stop at Antica Pasticceria Del Convento (genovesi)
-- Stroll to Castello di Venere
-- Drive on to Agrigento
+- left Visicari
+- cable car up to **Erice** (on Mondays it opens at **1 p.m.**)
+- hillside views from the egg-shaped cabins
+- short loop (**3 km**) or longer one (**4 km**)
+- beautiful medieval hill town with sea views
+- pastries at **Antica Pasticceria Del Convento** (genovesi filled with custard, ricotta or hazelnuts)
+- walked up to **Castello di Venere**
+- cable car down around **4 p.m.**
+- drove on to **Agrigento**
+- quick swim in the pool
 
 ## Day 7: Agrigento & the Valley of the Temples
 
-- Visit to the Valley of the Temples archaeological park
-- Scala dei Turchi
+- breakfast by the pool
+- morning at the pool
+- visit to the **Valley of the Temples** park
+- **Scala dei Turchi**
+- drinks at bar **Acanthus**
+- fruit stop in **Gela**
+- arrived at **“La Dimora del Delcano”** around **9 p.m.**
 
 ## Day 8: Noto
 
@@ -63,20 +84,20 @@ summary: "19 days between Palermo, Scopello, Agrigento, Taormina, Lipari, Vulcan
 
 ## Day 13: Lipari
 
-- Exploring Lipari
+- exploring Lipari
 
 ## Day 14: Vulcano
 
-- Vulcano – thermal baths
+- Vulcano—mud baths / spa
 
 ## Day 16: Stromboli
 
-- Climbing Stromboli – 5 p.m. to 11 p.m.
+- ascent of **Stromboli**—**5 p.m.** to **11 p.m.**
 
 ## Day 17: Salina
 
-- Exploring Salina
+- exploring Salina
 
 ## Day 19: Back to Brussels
 
-- Leaving Cefalù to catch our flight from Palermo
+- leaving **Cefalù** to catch our flight from Palermo
