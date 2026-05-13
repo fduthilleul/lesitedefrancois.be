@@ -1,5 +1,5 @@
 ---
-title: "Indonesia: Bali & Java"
+title: "Bali & Java"
 date: 2025-07-28
 categories: ["Travels", "Asia"]
 tags: ["Indonesia", "Bali", "Java"]

@@ -1,5 +1,5 @@
 ---
-title: "Indonésie: Bali & Java"
+title: "Bali & Java"
 date: 2025-07-28
 categories: ["Voyages", "Asie"]
 tags: ["Indonésie", "2025"]
