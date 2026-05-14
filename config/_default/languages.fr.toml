@@ -12,5 +12,6 @@ title = "Le Site de François"
 
 [params.author]
   name = "François"
+  image = "images/author.jpeg"
   headline = "Le site des sorties en famille"
   bio = "Le site des sorties en famille"
