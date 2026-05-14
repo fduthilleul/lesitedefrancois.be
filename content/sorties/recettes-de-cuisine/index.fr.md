@@ -64,3 +64,26 @@ Voici quelques recettes que nous avons déjà essayées:
 ## Tarte poulet coco gingembre façon Tartes Françoise
 
 <https://toquedechoc.com/2019/08/tarte-poulet-coco-gingembre-facon-tartes-francoise/>
+
+## Biscuits noix ou noisette
+**Ingrédients**
+- 75 gr. farine blanche
+- 75 gr. farine complète
+- 30 gr. flocons d'avoine
+- 50 gr. sucre
+- 60 gr. chocolat noir
+- 75 gr. beurre
+- 2 c. à s. miel
+- 1 c. à s. lait
+- 1c. à s. s. vanillé 
+- noix ou noisettes
+
+**Recette**  
+Mélanger les ingrédients secs  
+Fondre le beurre + miel + lait  
+Faire un puits incorporer le beure fondu  
+Mélanger  
+Ajouter le chocolat et les noix  
+Former les biscuits  
+
+**Cuisson:** 10 min à 180°
