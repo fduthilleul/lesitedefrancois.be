@@ -1,7 +1,7 @@
 ---
 title: "Montréal & Ottawa"
 date: 2024-10-26
-categories: ["Voyages", "Amerique"]
+categories: ["Travels", "America"]
 tags: ["Canada", "City Trip", "2024"]
 summary: "A city trip between two Canadian capitals: the cobblestone streets of Old Montréal, the train to Ottawa and Parliament Hill. Bonus: a giant spider and a UNESCO-listed canal."
 ---

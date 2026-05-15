@@ -1,7 +1,7 @@
 ---
 title: "Croatia"
 date: 2024-03-26
-categories: ["Voyages", "Europe"]
+categories: ["Travels", "Europe"]
 tags: ["Croatia", "2022", "Dubrovnik"]
 summary: "Exploring Croatia from Zadar down to Dubrovnik, kicking off at Plitvice Lakes. Short hops through the Kornati and Korčula, Ston’s walls, and Mljet National Park."
 ---

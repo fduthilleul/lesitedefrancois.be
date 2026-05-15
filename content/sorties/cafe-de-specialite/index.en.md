@@ -1,7 +1,7 @@
 ---
 title: "Specialty Coffee"
 date: 2024-03-28
-categories: ["Sorties"]
+categories: ["Outings"]
 tags: ["Coffee", "Specialty Coffee"]
 summary: "Specialty coffee is a very high-quality coffee with full traceability."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Royalty-Free Photos and Videos"
 date: 2019-03-17
-categories: ["Divers"]
+categories: ["Miscellaneous"]
 tags: ["Photos", "Videos", "Web"]
 summary: "How to find royalty-free photos and videos for your website or blog."
 ---

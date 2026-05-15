@@ -1,7 +1,7 @@
 ---
 title: "Travel Journal"
 date: 2019-03-17
-categories: ["Divers"]
+categories: ["Miscellaneous"]
 tags: ["Photos", "Travel"]
 summary: "A website to try for printing holiday photos."
 ---

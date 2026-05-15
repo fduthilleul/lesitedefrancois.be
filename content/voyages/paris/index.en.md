@@ -1,7 +1,7 @@
 ---
 title: "Paris"
 date: 2025-01-08
-categories: ["Voyages", "Europe"]
+categories: ["Travels", "Europe"]
 tags: ["France", "Paris", "City Trip"]
 summary: "Useful tips for visiting Paris."
 ---

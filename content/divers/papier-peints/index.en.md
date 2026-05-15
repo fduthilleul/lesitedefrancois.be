@@ -1,7 +1,7 @@
 ---
 title: "Wallpapers"
 date: 2020-06-07
-categories: ["Divers"]
+categories: ["Miscellaneous"]
 tags: ["Decoration"]
 summary: "Some good addresses for wallpaper."
 ---

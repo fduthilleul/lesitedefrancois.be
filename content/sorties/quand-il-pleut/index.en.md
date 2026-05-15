@@ -1,7 +1,7 @@
 ---
 title: "When it rains..."
 date: 2023-01-01
-categories: ["Sorties"]
+categories: ["Outings"]
 tags: ["Activities", "Rain"]
 summary: "Activity ideas for rainy days."
 ---

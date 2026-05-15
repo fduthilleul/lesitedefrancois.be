@@ -11,19 +11,19 @@
 [[main]]
   name = "Europe"
   parent = "Travels"
-  url = "/categories/europe/"
+  url = "/en/categories/europe/"
   weight = 1
 
 [[main]]
   name = "Asia"
   parent = "Travels"
-  url = "/categories/asia/"
+  url = "/en/categories/asia/"
   weight = 2
 
 [[main]]
   name = "America"
   parent = "Travels"
-  url = "/categories/america/"
+  url = "/en/categories/america/"
   weight = 3
 
 [[main]]
@@ -34,19 +34,19 @@
 [[main]]
   name = "Music"
   parent = "Outings"
-  url = "/categories/music/"
+  url = "/en/categories/music/"
   weight = 1
 
 [[main]]
   name = "Restaurants"
   parent = "Outings"
-  url = "/categories/restaurants/"
+  url = "/en/categories/restaurants/"
   weight = 2
 
 [[main]]
   name = "Parks"
   parent = "Outings"
-  url = "/categories/parks/"
+  url = "/en/categories/parks/"
   weight = 3
 
 [[main]]

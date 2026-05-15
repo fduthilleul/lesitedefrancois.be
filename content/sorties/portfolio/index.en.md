@@ -1,7 +1,7 @@
 ---
 title: "Portfolio"
 date: 2018-06-19
-categories: ["Sorties", "Resto"]
+categories: ["Outings", "Restaurants"]
 tags: ["Restaurant"]
 summary: "A unique menu to discover the chef's creations. A festival of flavours with every dish."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Barcelona"
 date: 2023-11-05
-categories: ["Voyages", "Europe"]
+categories: ["Travels", "Europe"]
 tags: ["Spain", "City Trip", "2023"]
 summary: "Craving a bit of blue sky at All Saints' Day. Barcelona as the destination for a colourful city break. On the agenda: Sagrada Família, Palau de la Música Catalana, Recinte Modernista de Sant Pau, not to mention traditional tapas."
 ---

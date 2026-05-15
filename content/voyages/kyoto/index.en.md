@@ -1,7 +1,7 @@
 ---
 title: "Kyoto"
 date: 2025-06-22
-categories: ["Voyages", "Asie"]
+categories: ["Travels", "Asia"]
 tags: ["Japan", "Kyoto"]
 summary: "Less than 48 hours to visit one of the iconic cities of the Land of the Rising Sun…"
 ---

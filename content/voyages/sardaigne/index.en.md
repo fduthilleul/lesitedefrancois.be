@@ -1,7 +1,7 @@
 ---
 title: "Sardinia"
 date: 2023-08-18
-categories: ["Voyages", "Europe"]
+categories: ["Travels", "Europe"]
 tags: ["Italy", "2023"]
 summary: "After going back and forth between lots of destinations for ages, we finally decided to set our course for Sardinia. On the agenda: hikes, kayaking, nuragic sites, beaches and coves with crystal-clear water, dolphin watching…"
 ---

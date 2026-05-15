@@ -1,7 +1,7 @@
 ---
 title: "Jordan"
 date: 2024-03-24
-categories: ["Voyages", "Asie"]
+categories: ["Travels", "Asia"]
 tags: ["Jordan", "2024"]
 summary: "Everyone kept telling us how great Jordan is, so we went to see for ourselves. On the itinerary: hikes in the wadis, historic sites, a night in the desert, diving and snorkelling…"
 ---

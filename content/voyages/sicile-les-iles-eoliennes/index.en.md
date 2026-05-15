@@ -1,7 +1,7 @@
 ---
 title: "Sicily & the Aeolian Islands"
 date: 2024-04-14
-categories: ["Voyages", "Europe"]
+categories: ["Travels", "Europe"]
 tags: ["Italy", "2019"]
 summary: "19 days between Palermo, Scopello, Agrigento, Taormina, Lipari, Vulcano, Stromboli and Cefalù."
 ---

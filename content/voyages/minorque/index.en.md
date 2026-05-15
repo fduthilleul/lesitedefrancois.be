@@ -1,7 +1,7 @@
 ---
 title: "Minorca"
 date: 2024-04-01
-categories: ["Voyages", "Europe"]
+categories: ["Travels", "Europe"]
 tags: ["Spain", "Minorca", "Balearic Islands"]
 summary: "A week-long stay in Minorca. Visit to Ciutadella, coastal hikes and discovering the island."
 ---

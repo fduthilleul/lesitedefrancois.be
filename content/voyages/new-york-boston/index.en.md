@@ -1,7 +1,7 @@
 ---
 title: "New York & Boston"
 date: 2023-11-05
-categories: ["Voyages", "Amerique"]
+categories: ["Travels", "America"]
 tags: ["New York", "City Trip","2023"]
 summary: "A weekend discovering the Big Apple and a week in Boston"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Shaka Ponk"
 date: 2024-03-31
-categories: ["Sorties", "Musique"]
+categories: ["Outings", "Music"]
 tags: ["Concert", "Forest National"]
 summary: "The last Shaka Ponk concert at the Forest National arena."
 ---

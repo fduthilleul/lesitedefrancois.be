@@ -1,7 +1,7 @@
 ---
 title: "Portugal"
 date: 2024-03-10
-categories: ["Voyages", "Europe"]
+categories: ["Travels", "Europe"]
 tags: ["Portugal", "2020"]
 summary: "This year, our destination was Portugal. On the itinerary: Guimarães, Porto, the Douro Valley, Coimbra, Sintra, Lisbon, and the Rota Vicentina."
 ---

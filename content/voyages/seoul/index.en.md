@@ -1,7 +1,7 @@
 ---
 title: "Seoul"
 date: 2024-06-01
-categories: ["Voyages", "Asie"]
+categories: ["Travels", "Asia"]
 tags: ["South Korea", "2024"]
 summary: "Less than 48 hours to visit Seoul, capital of the \"Land of the Morning Calm\"."
 ---

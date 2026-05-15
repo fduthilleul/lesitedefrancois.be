@@ -1,7 +1,7 @@
 ---
 title: "Puglia"
 date: 2018-07-30
-categories: ["Voyages", "Europe"]
+categories: ["Travels", "Europe"]
 tags: ["Italy", "2018"]
 summary: "This year we decided to explore southern Italy, starting from the buzzing city of Naples. On the agenda: pizza, Vespas, historic sights, a national park, beaches, gelato—in short, a packed schedule that was pure pleasure."
 ---

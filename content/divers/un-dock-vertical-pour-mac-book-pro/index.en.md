@@ -1,7 +1,7 @@
 ---
 title: "A Vertical Dock for MacBook Pro"
 date: 2018-06-19
-categories: ["Divers"]
+categories: ["Miscellaneous"]
 tags: ["Mac", "Accessory"]
 summary: "A very stylish vertical dock for MacBook Pro."
 ---

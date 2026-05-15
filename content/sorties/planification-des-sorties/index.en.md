@@ -1,7 +1,7 @@
 ---
 title: "Planning Outings"
 date: 2023-09-03
-categories: ["Sorties"]
+categories: ["Outings"]
 tags: ["Theatre", "Concerts", "Planning"]
 summary: "Bookings, theatres and concerts in Belgium, Lille and Paris."
 ---
