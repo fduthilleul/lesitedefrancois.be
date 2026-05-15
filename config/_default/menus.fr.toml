@@ -44,9 +44,9 @@
   weight = 2
 
 [[main]]
-  name = "Parcs"
+  name = "Théâtre"
   parent = "Sorties"
-  url = "/categories/parcs/"
+  pageRef = "sorties/theatres-de-paris"
   weight = 3
 
 [[main]]
