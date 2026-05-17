@@ -50,6 +50,12 @@
   weight = 3
 
 [[main]]
+  name = "Craft Beer"
+  parent = "Outings"
+  pageRef = "sorties/craft-beer"
+  weight = 4
+
+[[main]]
   name = "Must-Sees"
   pageRef = "les-incontournables"
   weight = 30
