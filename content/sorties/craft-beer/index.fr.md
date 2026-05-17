@@ -27,7 +27,7 @@ Mon profil : [untappd.com/user/fduthill](https://untappd.com/user/fduthill)
 
 Brasserie artisanale fondée en 2019 à Gatineau, au Québec. Spécialisée dans les IPA et DIPA aux houblons généreux, elle est reconnue pour ses bières juteuses, tropicales et intensément aromatiques. Une des meilleures brasseries du Canada.
 
-- **Site :** [https://brasseriedubascanada.com](https://brasseriedubascanada.com)
+- **Site :** [https://www.brasseriebascanada.com](https://www.brasseriebascanada.com)
 
 ---
 
@@ -75,7 +75,7 @@ Brasserie artisanale canadienne spécialisée dans les IPA et les bières houblo
 
 Brasserie canadienne qui porte bien son nom : des bières équilibrées, des IPA soignées et des saveurs maîtrisées. Un artisan du houblon discret mais redoutable.
 
-- **Site :** [https://www.finebalancebrewing.com](https://www.finebalancebrewing.com)
+- **Site :** [https://finebalancebrewing.ca](https://finebalancebrewing.ca)
 
 ---
 
@@ -83,7 +83,7 @@ Brasserie canadienne qui porte bien son nom : des bières équilibrées, des IPA
 
 Brasserie artisanale canadienne proposant des IPA et des pale ales créatives. Une approche artisanale et authentique de la craft beer.
 
-- **Site :** [https://www.willsbrewing.com](https://www.willsbrewing.com)
+- **Site :** [https://www.wills.beer](https://www.wills.beer)
 
 ---
 
@@ -91,7 +91,7 @@ Brasserie artisanale canadienne proposant des IPA et des pale ales créatives. U
 
 Brasserie de ferme canadienne installée dans un cadre champêtre. Willibald propose des bières artisanales brassées avec des ingrédients locaux, alliant tradition agricole et créativité brassicole.
 
-- **Site :** [https://www.willibald.com](https://www.willibald.com)
+- **Site :** [https://www.drinkwillibald.com](https://www.drinkwillibald.com)
 
 ---
 
@@ -435,7 +435,7 @@ Fondée en 2014 à Corfou, Seven Island est une référence de la craft beer gre
 
 Fondée en 2012 à Göteborg, Stigbergets est la brasserie de référence en Scandinavie. Ses IPA, ses lagers et ses stouts vieillis en fût ont été récompensés à de nombreuses reprises. Régulièrement classée parmi les meilleures brasseries d'Europe.
 
-- **Site :** [https://www.stigbergets.se](https://www.stigbergets.se)
+- **Site :** [https://stigbergetsbryggeri.se/](https://stigbergetsbryggeri.se/)
 
 ---
 

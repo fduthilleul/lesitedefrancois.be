@@ -27,7 +27,7 @@ My profile: [untappd.com/user/fduthill](https://untappd.com/user/fduthill)
 
 A craft brewery founded in 2019 in Gatineau, Quebec. Specialising in generously hopped IPAs and DIPAs, it is renowned for its juicy, tropical and intensely aromatic beers. One of the best breweries in Canada.
 
-- **Website:** [https://brasseriedubascanada.com](https://brasseriedubascanada.com)
+- **Website:** [https://www.brasseriebascanada.com](https://www.brasseriebascanada.com)
 
 ---
 
@@ -43,7 +43,7 @@ Founded in 2017 in Montréal, Messorem Bracitorium (Latin for "the reaper") is a
 
 Founded in 2018 in Milton, Ontario, Third Moon is renowned for its hazy IPAs and rich stouts. A limited-distribution brewery, its releases often sell out within minutes.
 
-- **Website:** [https://www.thirdmoonbrewing.com](https://www.thirdmoonbrewing.com)
+- **Website:** [https://thirdmoonbrewing.com](https://thirdmoonbrewing.com)
 
 ---
 
@@ -59,7 +59,7 @@ Founded in 2020 in Caledon, Ontario, Badlands stands out with its creative IPAs 
 
 Founded in 2019 in Canada, Wood Brothers is a family brewery specialising in pale ales and IPAs. Their fresh, fruity beers have become benchmarks on the Canadian craft scene.
 
-- **Website:** [https://www.woodbrothersbrewing.com](https://www.woodbrothersbrewing.com)
+- **Website:** [https://www.woodbrothersbrewingtogo.com](https://www.woodbrothersbrewingtogo.com)
 
 ---
 
@@ -75,7 +75,7 @@ A Canadian craft brewery specialising in IPAs and characterful hopped beers. A r
 
 A Canadian brewery that lives up to its name: balanced beers, polished IPAs and mastered flavours. A discreet but formidable hop artisan.
 
-- **Website:** [https://www.finebalancebrewing.com](https://www.finebalancebrewing.com)
+- **Website:** [https://finebalancebrewing.ca](https://finebalancebrewing.ca)
 
 ---
 
@@ -83,7 +83,7 @@ A Canadian brewery that lives up to its name: balanced beers, polished IPAs and 
 
 A Canadian craft brewery offering creative IPAs and pale ales. An artisanal and authentic approach to craft beer.
 
-- **Website:** [https://www.willsbrewing.com](https://www.willsbrewing.com)
+- **Website:** [https://www.wills.beer](https://www.wills.beer)
 
 ---
 
@@ -91,7 +91,7 @@ A Canadian craft brewery offering creative IPAs and pale ales. An artisanal and 
 
 A Canadian farm brewery set in a bucolic landscape. Willibald offers craft beers brewed with local ingredients, blending farming tradition and brewing creativity.
 
-- **Website:** [https://www.willibald.com](https://www.willibald.com)
+- **Website:** [https://www.drinkwillibald.com](https://www.drinkwillibald.com)
 
 ---
 
