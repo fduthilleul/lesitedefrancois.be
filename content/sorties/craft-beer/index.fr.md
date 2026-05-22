@@ -43,7 +43,7 @@ Fondée en 2017 à Montréal, Messorem Bracitorium (du latin « le moissonneur �
 
 Fondée en 2018 à Milton, en Ontario, Third Moon est réputée pour ses IPA brumeuses et ses stouts riches. Brasserie à distribution limitée, ses releases se vendent souvent en quelques minutes.
 
-- **Site :** [https://www.thirdmoonbrewing.com](https://www.thirdmoonbrewing.com)
+- **Site :** [https://thirdmoonbrewing.com](https://thirdmoonbrewing.com)
 
 ---
 
@@ -59,7 +59,7 @@ Fondée en 2020 à Caledon, en Ontario, Badlands se distingue par ses IPA et sou
 
 Fondée en 2019 au Canada, Wood Brothers est une brasserie familiale spécialisée dans les pale ales et IPA. Leurs bières fraîches et fruitées sont devenues des références sur la scène craft canadienne.
 
-- **Site :** [https://www.woodbrothersbrewing.com](https://www.woodbrothersbrewing.com)
+- **Site :** [https://www.woodbrothersbrewingtogo.com](https://www.woodbrothersbrewingtogo.com)
 
 ---
 
