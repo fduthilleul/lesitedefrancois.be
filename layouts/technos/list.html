@@ -1,0 +1,231 @@
+{{ define "main" }}
+
+{{ $topics := where .Site.RegularPages "Section" "technos" }}
+
+<div style="display:flex;gap:0;min-height:80vh;border:1px solid #e5e5e5;border-radius:12px;overflow:hidden;font-family:inherit;">
+
+  {{/* ── LEFT SIDEBAR ── */}}
+  <aside style="width:300px;flex-shrink:0;background:#f7f6f3;border-right:1px solid #e5e5e5;padding:1.5rem 1rem;overflow-y:auto;">
+
+    <p style="font-size:11px;font-weight:700;letter-spacing:.1em;color:#888;margin-bottom:1rem;">A–Z INDEX</p>
+
+    {{/* A–Z grid */}}
+    <div id="az-grid" style="display:grid;grid-template-columns:repeat(6,1fr);gap:4px;margin-bottom:1.5rem;">
+      {{ $letters := slice "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" }}
+      {{ range $letters }}
+        {{ $l := . }}
+        {{ $has := false }}
+        {{ range $topics }}
+          {{ if eq (upper (substr .Title 0 1)) $l }}{{ $has = true }}{{ end }}
+        {{ end }}
+        <button
+          onclick="selectLetter('{{ $l }}')"
+          id="az-{{ $l }}"
+          style="padding:4px;border-radius:5px;border:1px solid transparent;font-size:13px;font-weight:500;cursor:{{ if $has }}pointer{{ else }}default{{ end }};color:{{ if $has }}#111{{ else }}#ccc{{ end }};background:transparent;"
+          {{ if not $has }}disabled{{ end }}>
+          {{ $l }}
+        </button>
+      {{ end }}
+    </div>
+
+    {{/* Filter indicator */}}
+    <div id="tag-filter-bar" style="display:none;margin-bottom:.75rem;padding:5px 10px;background:#eff6ff;border-radius:6px;font-size:12px;color:#1d4ed8;display:flex;align-items:center;justify-content:space-between;">
+      <span>Tag : <strong id="active-tag-label"></strong></span>
+      <button onclick="clearTagFilter()" style="border:none;background:none;cursor:pointer;font-size:14px;color:#1d4ed8;padding:0;line-height:1;">✕</button>
+    </div>
+
+    <p style="font-size:11px;font-weight:700;letter-spacing:.1em;color:#888;margin-bottom:.75rem;" id="under-label">UNDER —</p>
+
+    <ul id="topic-ul" style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:2px;">
+      {{ range $topics }}
+      <li
+        data-letter="{{ upper (substr .Title 0 1) }}"
+        data-id="{{ .File.UniqueID }}"
+        data-tags="{{ delimit .Params.tags "," }}"
+        onclick="selectTopic('{{ .File.UniqueID }}')"
+        style="display:none;align-items:center;gap:8px;padding:6px 10px;border-radius:7px;cursor:pointer;font-size:14px;color:#444;"
+        class="topic-li">
+        <span class="topic-dot" style="width:7px;height:7px;border-radius:50%;background:#ccc;flex-shrink:0;display:inline-block;"></span>
+        {{ .Title }}
+      </li>
+      {{ end }}
+    </ul>
+
+  </aside>
+
+  {{/* ── RIGHT DETAIL PANEL ── */}}
+  <main style="flex:1;padding:2rem 2.5rem;overflow-y:auto;min-width:0;">
+
+    <div id="detail-empty" style="display:flex;align-items:center;justify-content:center;height:100%;color:#aaa;font-size:15px;">
+        Select a letter then a subject
+    </div>
+
+    {{ range $topics }}
+    {{ $uid := .File.UniqueID }}
+    {{ $letter := upper (substr .Title 0 1) }}
+    <div id="detail-{{ $uid }}" style="display:none;">
+
+      {{/* Breadcrumb */}}
+      <p style="font-size:13px;color:#888;margin-bottom:1.5rem;">
+        <a href="#" onclick="showEmpty();return false;" style="color:#3b82f6;">Index</a>
+        <span style="margin:0 4px;">›</span>
+        <span style="color:#3b82f6;cursor:pointer;" onclick="selectLetter('{{ $letter }}')">{{ $letter }}</span>
+        <span style="margin:0 4px;">›</span>
+        {{ .Title }}
+      </p>
+
+      {{/* Big letter + title — title is a link to full page */}}
+      <div style="display:flex;align-items:center;gap:16px;margin-bottom:1.5rem;padding-bottom:1.5rem;border-bottom:1px solid #eee;">
+        <span style="font-size:48px;font-weight:700;color:#ddd;line-height:1;">{{ $letter }}</span>
+        <div>
+          <a href="{{ .Permalink }}" style="font-size:28px;font-weight:700;color:#111;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">
+            {{ .Title }}
+          </a>
+          <p style="font-size:12px;color:#aaa;margin:4px 0 0;">
+            <i class="ti ti-external-link" style="font-size:12px;"></i> Cliquez le titre pour la page complète
+          </p>
+        </div>
+      </div>
+
+      {{/* Summary card */}}
+      <div style="border:1px solid #e5e5e5;border-radius:10px;padding:1.5rem;background:#fff;">
+
+        {{/* Short description — highlighted summary */}}
+        {{ with .Params.description }}
+        <p style="font-size:15px;font-weight:500;color:#374151;line-height:1.6;margin:0 0 1rem">
+          {{ . }}
+        </p>
+        {{ end }}
+
+        {{ if or .Params.tags .Params.website }}
+        <div style="margin-top:1.25rem;padding-top:1rem;border-top:1px solid #f0f0f0;display:flex;flex-wrap:wrap;gap:6px;align-items:center;">
+          {{ with .Params.tags }}
+          <span style="font-size:11px;color:#aaa;margin-right:4px;">Tags :</span>
+          {{ range . }}
+          <button
+            onclick="filterByTag('{{ . }}')"
+            style="font-size:12px;padding:3px 10px;border-radius:5px;border:1px solid #e0e0e0;color:#3b82f6;background:#eff6ff;cursor:pointer;transition:background .15s;"
+            onmouseover="this.style.background='#dbeafe'"
+            onmouseout="this.style.background='#eff6ff'">
+            {{ . }}
+          </button>
+          {{ end }}
+          {{ end }}
+          {{ with .Params.website }}
+          <a href="{{ . }}" target="_blank" rel="noopener noreferrer"
+             style="display:inline-flex;align-items:center;gap:4px;font-size:12px;padding:3px 10px;border-radius:5px;border:1px solid #bbf7d0;color:#15803d;background:#f0fdf4;text-decoration:none;transition:background .15s;"
+             onmouseover="this.style.background='#dcfce7'"
+             onmouseout="this.style.background='#f0fdf4'">
+            <i class="ti ti-external-link" style="font-size:12px;"></i>
+            Site officiel
+          </a>
+          {{ end }}
+        </div>
+        {{ end }}
+
+      </div>
+    </div>
+    {{ end }}
+
+  </main>
+</div>
+
+<script>
+let activeLetter  = null;
+let activeTopic   = null;
+let activeTagFilter = null;
+
+const topics = [
+  {{ range $topics }}
+  {
+    id:     "{{ .File.UniqueID }}",
+    letter: "{{ upper (substr .Title 0 1) }}",
+    title:  "{{ .Title }}",
+    tags:   [{{ range .Params.tags }}"{{ . }}",{{ end }}]
+  },
+  {{ end }}
+];
+
+function selectLetter(l) {
+  activeTagFilter = null;
+  document.getElementById('tag-filter-bar').style.display = 'none';
+  activeLetter = l;
+
+  document.querySelectorAll('#az-grid button').forEach(btn => {
+    btn.style.background = 'transparent';
+    btn.style.border     = '1px solid transparent';
+    btn.style.fontWeight = '500';
+  });
+  const ab = document.getElementById('az-' + l);
+  if (ab) { ab.style.background = '#fff'; ab.style.border = '1px solid #ccc'; ab.style.fontWeight = '700'; }
+
+  document.getElementById('under-label').textContent = 'UNDER ' + l;
+
+  document.querySelectorAll('.topic-li').forEach(li => {
+    li.style.display = li.dataset.letter === l ? 'flex' : 'none';
+  });
+
+  const first = topics.find(t => t.letter === l);
+  if (first) selectTopic(first.id); else showEmpty();
+}
+
+function selectTopic(id) {
+  activeTopic = id;
+  document.querySelectorAll('.topic-li').forEach(li => {
+    const on = li.dataset.id === id;
+    li.style.background = on ? '#fff'    : 'transparent';
+    li.style.color      = on ? '#111'    : '#444';
+    li.style.fontWeight = on ? '600'     : '400';
+    li.querySelector('.topic-dot').style.background = on ? '#3b82f6' : '#ccc';
+  });
+  document.getElementById('detail-empty').style.display = 'none';
+  document.querySelectorAll('[id^="detail-"]:not(#detail-empty)').forEach(d => d.style.display = 'none');
+  const p = document.getElementById('detail-' + id);
+  if (p) p.style.display = 'block';
+}
+
+function filterByTag(tag) {
+  activeTagFilter = tag;
+  activeLetter    = null;
+
+  document.querySelectorAll('#az-grid button').forEach(btn => {
+    btn.style.background = 'transparent';
+    btn.style.border     = '1px solid transparent';
+    btn.style.fontWeight = '500';
+  });
+
+  document.getElementById('under-label').textContent = 'TAG : ' + tag;
+  document.getElementById('active-tag-label').textContent = tag;
+  document.getElementById('tag-filter-bar').style.display = 'flex';
+
+  const matching = topics.filter(t => t.tags.includes(tag));
+  document.querySelectorAll('.topic-li').forEach(li => {
+    li.style.display = matching.some(t => t.id === li.dataset.id) ? 'flex' : 'none';
+  });
+
+  if (matching.length) selectTopic(matching[0].id); else showEmpty();
+}
+
+function clearTagFilter() {
+  activeTagFilter = null;
+  document.getElementById('tag-filter-bar').style.display = 'none';
+  const first = topics.length ? topics[0].letter : null;
+  if (first) selectLetter(first);
+}
+
+function showEmpty() {
+  activeTopic = null;
+  document.getElementById('detail-empty').style.display = 'flex';
+  document.querySelectorAll('[id^="detail-"]:not(#detail-empty)').forEach(d => d.style.display = 'none');
+  document.querySelectorAll('.topic-li').forEach(li => {
+    li.style.background = 'transparent';
+    li.style.fontWeight = '400';
+    li.querySelector('.topic-dot').style.background = '#ccc';
+  });
+}
+
+const firstLetter = topics.length ? topics[0].letter : null;
+if (firstLetter) selectLetter(firstLetter);
+</script>
+
+{{ end }}

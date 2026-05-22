@@ -56,11 +56,12 @@
   weight = 4
 
 [[main]]
-  name = "Must-Sees"
-  pageRef = "les-incontournables"
+  name = "Technos"
+  pageRef = "technos"
   weight = 30
 
 [[main]]
-  name = "Miscellaneous"
-  pageRef = "divers"
-  weight = 40
+  name = "Index"
+  parent = "Technos"
+  pageRef = "technos/index"
+  weight = 1
