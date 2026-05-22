@@ -1,16 +1,12 @@
 ---
-title: "GRUB"
-description: "GRand Unified Bootloader — chargeur d'amorçage standard sur les systèmes Linux x86, supportant BIOS et UEFI."
-tags: ["bootloader", "uefi", "bios", "security"]
+title: "GRUB (GNU GRand Unified Bootloader)"
+description: "The dominant bootloader on x86 Linux systems, responsible for locating and loading the kernel and initrd from a variety of filesystems and storage configurations, with optional support for measured boot via TPM."
+tags: ["boot", "linux", "bootloader", "uefi", "bios"]
+website: https://www.gnu.org/software/grub/
 ---
 
-GRUB (GRand Unified Bootloader) est le chargeur d'amorçage le plus répandu sur les distributions Linux. Il prend en charge les modes BIOS legacy et UEFI, et est capable de charger de multiples systèmes d'exploitation via un menu configurable.
+**GRUB (GNU GRand Unified Bootloader)** is the bootloader used by the majority of Linux distributions on x86 and x86-64 systems. Its role is to bridge the gap between what firmware hands control to and what the Linux kernel needs: firmware (BIOS or UEFI) loads GRUB, and GRUB locates the kernel image and initrd on disk, assembles a kernel command line, and transfers control to the kernel. Because GRUB understands a wide range of filesystem formats — ext4, XFS, Btrfs, FAT, and more — it can read its own configuration and the kernel directly from the root or boot partition without any intermediate step, which is what distinguishes it from simpler bootloaders that can only read from FAT.
 
-Points clés :
+On UEFI systems, GRUB is installed as a PE-signed EFI binary on the EFI System Partition and is loaded directly by firmware (or, on distributions that use **Secure Boot** with Microsoft's signing infrastructure, via **shim**). Its runtime configuration lives in `grub.cfg`, which GRUB reads from disk and executes as a small scripting language; the config specifies which kernel and initrd to load, any kernel command line arguments, and optional menus for selecting between entries. This dynamic, script-driven model is powerful and flexible — GRUB can discover kernels automatically via `grub-mkconfig` and `os-prober`, handle encrypted boot partitions, and support chainloading other bootloaders — but it also means the boot configuration is assembled at runtime from files on disk, making it harder to sign and attest as a unit compared to a static **UKI**.
 
-- **Configuration** : générée automatiquement par `grub-mkconfig` à partir de `/etc/default/grub`
-- **Secure Boot** : GRUB doit être signé par une clé reconnue par le firmware UEFI — c'est là qu'intervient le **shim**
-- **Modules** : GRUB charge des modules dynamiquement (`grub-install` les copie dans `/boot/grub/`)
-- **GRUB2** : la version actuelle, incompatible avec GRUB Legacy (0.x)
-
-La chaîne de démarrage typique en UEFI Secure Boot est : `firmware → shim → GRUB → noyau`.
+When GRUB's `tpm` module is loaded, it participates in **measured boot**: every command it executes and every file it reads — the config file, kernel image, initrd — is hashed and extended into TPM PCR registers, contributing to the platform's boot measurement log. GRUB measures kernel command line arguments into **PCR 8** and all files it loads (including the kernel and initrd) into **PCR 9**. This gives TPM-based attestation and LUKS PCR-sealing visibility into what GRUB actually loaded, not just that GRUB ran. However, because GRUB's configuration is mutable and assembled at runtime, pre-calculating the expected PCR values after a config or kernel update is significantly more complex than with UKIs, where the entire payload is a single signed blob with a stable, predictable measurement. This operational friction is one of the primary reasons the Linux ecosystem is gradually shifting toward **systemd-boot** and UKI-based boot on systems where measured boot and attestation are requirements.
