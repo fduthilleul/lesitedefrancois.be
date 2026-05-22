@@ -2,10 +2,123 @@
 
 {{ $topics := where .Site.RegularPages "Section" "technos" }}
 
-<div style="display:flex;gap:0;min-height:80vh;border:1px solid #e5e5e5;border-radius:12px;overflow:hidden;font-family:inherit;">
+<style>
+  .technos-index {
+    display: flex;
+    gap: 0;
+    min-height: 80vh;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    border: 1px solid #e5e5e5;
+    border-radius: 12px;
+    overflow: hidden;
+    font-family: inherit;
+  }
+  .technos-index__sidebar {
+    width: 300px;
+    flex-shrink: 0;
+    background: #f7f6f3;
+    border-right: 1px solid #e5e5e5;
+    padding: 1.5rem 1rem;
+    overflow-y: auto;
+  }
+  .technos-index__main {
+    flex: 1;
+    padding: 2rem 2.5rem;
+    overflow-y: auto;
+    min-width: 0;
+  }
+  .technos-index__back {
+    display: none;
+    align-items: center;
+    gap: 6px;
+    margin-bottom: 1rem;
+    padding: 0;
+    border: none;
+    background: none;
+    font-size: 14px;
+    font-weight: 600;
+    color: #3b82f6;
+    cursor: pointer;
+  }
+  .technos-index__title-row {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #eee;
+  }
+  .technos-index__letter {
+    font-size: 48px;
+    font-weight: 700;
+    color: #ddd;
+    line-height: 1;
+    flex-shrink: 0;
+  }
+  .technos-index__title {
+    font-size: 28px;
+    font-weight: 700;
+    color: #111;
+    text-decoration: none;
+    word-break: break-word;
+  }
+
+  @media (max-width: 767px) {
+    .technos-index {
+      flex-direction: column;
+      min-height: auto;
+      border-radius: 8px;
+    }
+    .technos-index__sidebar {
+      width: 100%;
+      max-height: none;
+      border-right: none;
+      border-bottom: 1px solid #e5e5e5;
+      padding: 1rem 0.75rem;
+    }
+    .technos-index__main {
+      padding: 1rem 0.75rem;
+    }
+    .technos-index:not(.technos-index--detail) .technos-index__main {
+      display: none;
+    }
+    .technos-index--detail .technos-index__sidebar {
+      display: none;
+    }
+    .technos-index--detail .technos-index__main {
+      display: block;
+    }
+    .technos-index__back {
+      display: inline-flex;
+    }
+    .technos-index__letter {
+      font-size: 36px;
+    }
+    .technos-index__title {
+      font-size: 22px;
+    }
+    .technos-index__title-row {
+      gap: 12px;
+      margin-bottom: 1rem;
+      padding-bottom: 1rem;
+    }
+    #az-grid {
+      grid-template-columns: repeat(7, 1fr) !important;
+    }
+    #detail-empty {
+      min-height: 8rem;
+      padding: 1rem;
+      text-align: center;
+    }
+  }
+</style>
+
+<div id="technos-index" class="technos-index">
 
   {{/* ── LEFT SIDEBAR ── */}}
-  <aside style="width:300px;flex-shrink:0;background:#f7f6f3;border-right:1px solid #e5e5e5;padding:1.5rem 1rem;overflow-y:auto;">
+  <aside class="technos-index__sidebar">
 
     <p style="font-size:11px;font-weight:700;letter-spacing:.1em;color:#888;margin-bottom:1rem;">A–Z INDEX</p>
 
@@ -54,7 +167,7 @@
   </aside>
 
   {{/* ── RIGHT DETAIL PANEL ── */}}
-  <main style="flex:1;padding:2rem 2.5rem;overflow-y:auto;min-width:0;">
+  <main class="technos-index__main">
 
     <div id="detail-empty" style="display:flex;align-items:center;justify-content:center;height:100%;color:#aaa;font-size:15px;">
         Select a letter then a subject
@@ -65,8 +178,12 @@
     {{ $letter := upper (substr .Title 0 1) }}
     <div id="detail-{{ $uid }}" style="display:none;">
 
-      {{/* Breadcrumb */}}
-      <p style="font-size:13px;color:#888;margin-bottom:1.5rem;">
+      <button type="button" class="technos-index__back" onclick="backToIndex()">
+        ← Index
+      </button>
+
+      {{/* Breadcrumb — hidden on mobile (back button replaces it) */}}
+      <p class="technos-index__breadcrumb" style="font-size:13px;color:#888;margin-bottom:1.5rem;">
         <a href="#" onclick="showEmpty();return false;" style="color:#3b82f6;">Index</a>
         <span style="margin:0 4px;">›</span>
         <span style="color:#3b82f6;cursor:pointer;" onclick="selectLetter('{{ $letter }}')">{{ $letter }}</span>
@@ -74,11 +191,10 @@
         {{ .Title }}
       </p>
 
-      {{/* Big letter + title — title is a link to full page */}}
-      <div style="display:flex;align-items:center;gap:16px;margin-bottom:1.5rem;padding-bottom:1.5rem;border-bottom:1px solid #eee;">
-        <span style="font-size:48px;font-weight:700;color:#ddd;line-height:1;">{{ $letter }}</span>
-        <div>
-          <a href="{{ .Permalink }}" style="font-size:28px;font-weight:700;color:#111;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">
+      <div class="technos-index__title-row">
+        <span class="technos-index__letter">{{ $letter }}</span>
+        <div style="min-width:0;">
+          <a href="{{ .Permalink }}" class="technos-index__title" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">
             {{ .Title }}
           </a>
           <p style="font-size:12px;color:#aaa;margin:4px 0 0;">
@@ -90,7 +206,6 @@
       {{/* Summary card */}}
       <div style="border:1px solid #e5e5e5;border-radius:10px;padding:1.5rem;background:#fff;">
 
-        {{/* Short description — highlighted summary */}}
         {{ with .Params.description }}
         <p style="font-size:15px;font-weight:500;color:#374151;line-height:1.6;margin:0 0 1rem">
           {{ . }}
@@ -130,6 +245,15 @@
   </main>
 </div>
 
+<style>
+  @media (max-width: 767px) {
+    .technos-index__breadcrumb { display: none; }
+    .technos-index [style*="padding:1.5rem"] {
+      padding: 1rem !important;
+    }
+  }
+</style>
+
 <script>
 let activeLetter  = null;
 let activeTopic   = null;
@@ -145,6 +269,21 @@ const topics = [
   },
   {{ end }}
 ];
+
+function isMobileView() {
+  return window.matchMedia('(max-width: 767px)').matches;
+}
+
+function setDetailOpen(open) {
+  const el = document.getElementById('technos-index');
+  if (open) el.classList.add('technos-index--detail');
+  else el.classList.remove('technos-index--detail');
+}
+
+function backToIndex() {
+  setDetailOpen(false);
+  showEmpty();
+}
 
 function selectLetter(l) {
   activeTagFilter = null;
@@ -165,6 +304,12 @@ function selectLetter(l) {
     li.style.display = li.dataset.letter === l ? 'flex' : 'none';
   });
 
+  if (isMobileView()) {
+    setDetailOpen(false);
+    showEmpty();
+    return;
+  }
+
   const first = topics.find(t => t.letter === l);
   if (first) selectTopic(first.id); else showEmpty();
 }
@@ -182,6 +327,7 @@ function selectTopic(id) {
   document.querySelectorAll('[id^="detail-"]:not(#detail-empty)').forEach(d => d.style.display = 'none');
   const p = document.getElementById('detail-' + id);
   if (p) p.style.display = 'block';
+  if (isMobileView()) setDetailOpen(true);
 }
 
 function filterByTag(tag) {
@@ -203,6 +349,12 @@ function filterByTag(tag) {
     li.style.display = matching.some(t => t.id === li.dataset.id) ? 'flex' : 'none';
   });
 
+  if (isMobileView()) {
+    setDetailOpen(false);
+    showEmpty();
+    return;
+  }
+
   if (matching.length) selectTopic(matching[0].id); else showEmpty();
 }
 
@@ -215,7 +367,7 @@ function clearTagFilter() {
 
 function showEmpty() {
   activeTopic = null;
-  document.getElementById('detail-empty').style.display = 'flex';
+  document.getElementById('detail-empty').style.display = isMobileView() ? 'none' : 'flex';
   document.querySelectorAll('[id^="detail-"]:not(#detail-empty)').forEach(d => d.style.display = 'none');
   document.querySelectorAll('.topic-li').forEach(li => {
     li.style.background = 'transparent';
