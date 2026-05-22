@@ -16,7 +16,8 @@ buildFuture = false
 [taxonomies]
   tag = "tags"
   category = "categories"
-
+  topic = "topics"
+  
 [sitemap]
   changefreq = 'weekly'
   filename = 'sitemap.xml'
