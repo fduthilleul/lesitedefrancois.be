@@ -61,7 +61,7 @@
   weight = 30
 
 [[main]]
-  name = "Index"
+  name = "Security"
   parent = "Technos"
   pageRef = "technos/index"
   weight = 1
