@@ -177,11 +177,11 @@ Fondée en 2018 à Avon, dans l'État de New York, Mortalis s'est rapidement imp
 
 ---
 
-### All My Friends Beer Co (2019) — Los Angeles, CA {.brewery}
+### All My Friends Beer Co — Bloomfield, ON {.brewery}
 
-Fondée en 2019 à Los Angeles, All My Friends est une brasserie nomade qui collabore avec les meilleurs brasseurs du monde. Ses IPA tropicales et ses stouts pâtissiers sont devenus des références sur la scène craft californienne.
+Microbrasserie artisanale située à Bloomfield, dans le magnifique comté de Prince Edward, en Ontario. Reconnue pour ses Hazy IPA, ses lagers bien nettes et ses bières généreusement fruitées, brassées avec soin et passion. Le taproom est un lieu de rencontre détendu pour les résidents, les voyageurs et les amateurs de bonne bière.
 
-- **Site :** [https://www.allmyfriendsbeer.com](https://www.allmyfriendsbeer.com)
+- **Website :** [https://amfbeer.com](https://amfbeer.com)
 
 ---
 
