@@ -87,6 +87,17 @@
       return text.replace(/\s*\(\d{4}\)\s*$/, '').trim()
     }
 
+    function countryTitleWithCount(title, count) {
+      const base = title.replace(/\s*\(\d+\)\s*$/, '').trim()
+      return `${base} (${count})`
+    }
+
+    function updateCountryHeading(h2, count) {
+      const textNode = h2.firstChild
+      if (textNode?.nodeType !== Node.TEXT_NODE) return
+      textNode.textContent = countryTitleWithCount(textNode.textContent.trim(), count)
+    }
+
     function buildNav(container) {
       if (container.dataset.built === 'true') return
       const article = document.querySelector('.article-content')
@@ -94,8 +105,6 @@
 
       const countries = [...article.querySelectorAll('h2')]
       countries.forEach((h2) => {
-        const countryAnchor = h2.querySelector('.anchor')
-        const countryId = countryAnchor?.id
         const countryTitle =
           h2.childNodes[0]?.textContent?.trim() || h2.textContent.trim()
 
@@ -104,7 +113,6 @@
 
         const summary = document.createElement('summary')
         summary.className = 'craft-beer-country-summary'
-        summary.textContent = countryTitle
 
         const ul = document.createElement('ul')
         ul.className = 'craft-beer-breweries'
@@ -134,6 +142,11 @@
           }
           el = el.nextElementSibling
         }
+
+        const breweryCount = ul.children.length
+        const titledWithCount = countryTitleWithCount(countryTitle, breweryCount)
+        summary.textContent = titledWithCount
+        updateCountryHeading(h2, breweryCount)
 
         details.addEventListener('toggle', () => {
           if (details.open) {

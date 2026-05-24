@@ -21,7 +21,7 @@ My profile: [untappd.com/user/fduthill](https://untappd.com/user/fduthill)
 
 ---
 
-## 🇨🇦 Canada (14)
+## 🇨🇦 Canada
 
 ### Brasserie du Bas-Canada (2019) — Gatineau, QC {.brewery}
 
@@ -135,7 +135,15 @@ Founded in 2022 in Lachute, Laurentides, Sir John is an independent brewery insp
 
 ---
 
-## 🇺🇸 United States (19)
+### All My Friends Beer Co — Bloomfield, ON {.brewery}
+
+A small-batch brewery located in beautiful Bloomfield, Prince Edward County, Ontario. Known for some of Ontario's best Hazy IPAs, crisp lagers, and fruit-forward beers, brewed with care, curiosity, and a love for flavour. Their taproom is a relaxed gathering spot for locals, travellers, and beer lovers alike.
+
+- **Website:** [https://amfbeer.com](https://amfbeer.com)
+
+---
+
+## 🇺🇸 United States
 
 ### The Alchemist (2003) — Stowe, VT {.brewery}
 
@@ -174,14 +182,6 @@ Founded in 2012 in Torrance, California, Monkish is the benchmark for Hazy IPAs 
 Founded in 2018 in Avon, New York State, Mortalis quickly made a name for itself with its smoothie sours and creative IPAs. Its limited-edition releases create a buzz with every drop.
 
 - **Website:** [https://www.mortalisbrewing.com](https://www.mortalisbrewing.com)
-
----
-
-### All My Friends Beer Co (2019) — Los Angeles, CA {.brewery}
-
-Founded in 2019 in Los Angeles, All My Friends is a gypsy brewery collaborating with top brewers worldwide. Its tropical IPAs and pastry stouts have become benchmarks on the Californian craft scene.
-
-- **Website:** [https://www.allmyfriendsbeer.com](https://www.allmyfriendsbeer.com)
 
 ---
 
@@ -289,7 +289,7 @@ Commercially brewing since 2016 in Middletown, New York State, Equilibrium appli
 
 ---
 
-## 🇬🇧 United Kingdom (5)
+## 🇬🇧 United Kingdom
 
 ### Cloudwater Brew Co. (2014) — Manchester, Greater Manchester {.brewery}
 
@@ -331,7 +331,7 @@ Founded in late 2021 in Liverpool, Azvex is an independent brewery specialising 
 
 ---
 
-## 🇧🇪 Belgium (3)
+## 🇧🇪 Belgium
 
 ### La Source Beer Co. (2019) — Brussels {.brewery}
 
@@ -357,7 +357,7 @@ Opened in 2019 in Brussels' Dansaert district, Brasserie Surréaliste occupies a
 
 ---
 
-## 🇨🇭 Switzerland (1)
+## 🇨🇭 Switzerland
 
 ### Hoppy People (2016) — Sierre, VS {.brewery}
 
@@ -367,7 +367,7 @@ Founded in 2016 in Sierre, Valais, Hoppy People is a Swiss craft brewery special
 
 ---
 
-## 🇪🇸 Spain (1)
+## 🇪🇸 Spain
 
 ### SOMA Beer (2016) — Girona, Catalonia {.brewery}
 
@@ -377,7 +377,7 @@ Founded in 2016 near Girona, SOMA is an independent brewery specialising in NEIP
 
 ---
 
-## 🇫🇷 France (5)
+## 🇫🇷 France
 
 ### Prizm Brewing (2019) — Vendargues, Occitanie {.brewery}
 
@@ -419,7 +419,7 @@ Founded in 2020 in Ahuy, north of Dijon, 90 BPM is a microbrewery and beer bar s
 
 ---
 
-## 🇬🇷 Greece (1)
+## 🇬🇷 Greece
 
 ### Seven Island Brewery (2014) — Corfu, Ionian Islands {.brewery}
 
@@ -429,7 +429,7 @@ Founded in 2014 in Corfu, Seven Island is the benchmark for Greek craft beer. Sp
 
 ---
 
-## 🇸🇪 Sweden (1)
+## 🇸🇪 Sweden
 
 ### Stigbergets Bryggeri (2012) — Gothenburg, Västra Götaland {.brewery}
 
@@ -439,7 +439,7 @@ Founded in 2012 in Gothenburg, Stigbergets is the benchmark brewery in Scandinav
 
 ---
 
-## 🇧🇷 Brazil (1)
+## 🇧🇷 Brazil
 
 ### Spartacus Brewing (2015) — Juiz de Fora, Minas Gerais {.brewery}
 
@@ -449,7 +449,7 @@ Founded in 2015 in Brazil, Spartacus Brewing is a pioneering brewery on the Lati
 
 ---
 
-## 🇱🇻 Latvia (1)
+## 🇱🇻 Latvia
 
 ### Ārpus Brewing Co. (2017) — Ādaži, Riga {.brewery}
 
@@ -459,7 +459,7 @@ Founded in 2017 on the outskirts of Riga, Ārpus is an independent Latvian micro
 
 ---
 
-## 🇷🇴 Romania (1)
+## 🇷🇴 Romania
 
 ### Hop Hooligans (2016) — Jilava, Ilfov {.brewery}
 
@@ -469,7 +469,7 @@ Founded in 2016 in Jilava, near Bucharest, Hop Hooligans is one of the most infl
 
 ---
 
-## 🇫🇮 Finland (1)
+## 🇫🇮 Finland
 
 ### Factory Brewing (2022) — Kerava, Uusimaa {.brewery}
 
@@ -479,7 +479,7 @@ Launched in 2022 in Kerava, near Helsinki, Factory is the bold brand of ETKO Bre
 
 ---
 
-## 🇰🇷 South Korea (3)
+## 🇰🇷 South Korea
 
 ### Magpie Brewing Co. (2011) — Seoul, Yongsan {.brewery}
 
@@ -505,7 +505,7 @@ Founded in 2017 on Korea's west coast, Chillhops brews beers inspired by Austral
 
 ---
 
-## 🇯🇵 Japan (1)
+## 🇯🇵 Japan
 
 ### Uchu Brewing (2016) — Hokuto, Yamanashi {.brewery}
 

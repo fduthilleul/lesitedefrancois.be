@@ -4,7 +4,7 @@ weight = 2
 title = "Le Site de François"
 
 [params]
-  displayName = "English"
+  displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "January 2, 2006"
