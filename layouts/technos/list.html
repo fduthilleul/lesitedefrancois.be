@@ -1,6 +1,15 @@
 {{ define "main" }}
 
 {{ $topics := where .Site.RegularPages "Section" "technos" }}
+{{ $topicEntries := slice }}
+{{ range $topics }}
+  {{ $topicEntries = $topicEntries | append (dict
+    "id" .File.UniqueID
+    "letter" (upper (substr .Title 0 1))
+    "title" .Title
+    "tags" (.Params.tags | default slice)
+  ) }}
+{{ end }}
 
 <style>
   .technos-index {
@@ -63,6 +72,25 @@
     color: #111;
     text-decoration: none;
     word-break: break-word;
+  }
+  html.dark .technos-index__title {
+    color: #f5f5f5;
+  }
+  #az-grid .az-btn {
+    padding: 4px;
+    border-radius: 5px;
+    border: 1px solid transparent;
+    font-size: 13px;
+    font-weight: 500;
+    background: transparent;
+  }
+  #az-grid .az-btn:not(:disabled) {
+    cursor: pointer;
+    color: #111;
+  }
+  #az-grid .az-btn:disabled {
+    cursor: default;
+    color: #ccc;
   }
 
   @media (max-width: 767px) {
@@ -132,9 +160,10 @@
           {{ if eq (upper (substr .Title 0 1)) $l }}{{ $has = true }}{{ end }}
         {{ end }}
         <button
+          type="button"
+          class="az-btn"
           onclick="selectLetter('{{ $l }}')"
           id="az-{{ $l }}"
-          style="padding:4px;border-radius:5px;border:1px solid transparent;font-size:13px;font-weight:500;cursor:{{ if $has }}pointer{{ else }}default{{ end }};color:{{ if $has }}#111{{ else }}#ccc{{ end }};background:transparent;"
           {{ if not $has }}disabled{{ end }}>
           {{ $l }}
         </button>
@@ -254,21 +283,13 @@
   }
 </style>
 
+<script id="technos-topics-data" type="application/json">{{ $topicEntries | jsonify }}</script>
 <script>
 let activeLetter  = null;
 let activeTopic   = null;
 let activeTagFilter = null;
 
-const topics = [
-  {{ range $topics }}
-  {
-    id:     "{{ .File.UniqueID }}",
-    letter: "{{ upper (substr .Title 0 1) }}",
-    title:  "{{ .Title }}",
-    tags:   [{{ range .Params.tags }}"{{ . }}",{{ end }}]
-  },
-  {{ end }}
-];
+const topics = JSON.parse(document.getElementById('technos-topics-data').textContent);
 
 function isMobileView() {
   return window.matchMedia('(max-width: 767px)').matches;
