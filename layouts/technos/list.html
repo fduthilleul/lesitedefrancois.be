@@ -382,8 +382,9 @@ function filterByTag(tag) {
 function clearTagFilter() {
   activeTagFilter = null;
   document.getElementById('tag-filter-bar').style.display = 'none';
-  const first = topics.length ? topics[0].letter : null;
-  if (first) selectLetter(first);
+  selectLetter('A')
+  // const first = topics.length ? topics[0].letter : null;
+  // if (first) selectLetter(first);
 }
 
 function showEmpty() {
@@ -397,8 +398,9 @@ function showEmpty() {
   });
 }
 
-const firstLetter = topics.length ? topics[0].letter : null;
-if (firstLetter) selectLetter(firstLetter);
+// const firstLetter = topics.length ? topics[0].letter : null;
+// if (firstLetter) selectLetter(firstLetter);
+selectLetter('A')
 </script>
 
 {{ end }}
