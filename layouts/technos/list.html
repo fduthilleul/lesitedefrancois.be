@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ $topics := where .Site.RegularPages "Section" "technos" }}
+{{ $topics := where (where .Site.RegularPages "Section" "technos") "Params.layout" "ne" "list" }}
 {{ $topicEntries := slice }}
 {{ range $topics }}
   {{ $topicEntries = $topicEntries | append (dict
@@ -171,7 +171,7 @@
     </div>
 
     {{/* Filter indicator */}}
-    <div id="tag-filter-bar" style="display:none;margin-bottom:.75rem;padding:5px 10px;background:#eff6ff;border-radius:6px;font-size:12px;color:#1d4ed8;display:flex;align-items:center;justify-content:space-between;">
+    <div id="tag-filter-bar" style="display:none;margin-bottom:.75rem;padding:5px 10px;background:#eff6ff;border-radius:6px;font-size:12px;color:#1d4ed8;align-items:center;justify-content:space-between;">
       <span>Tag : <strong id="active-tag-label"></strong></span>
       <button onclick="clearTagFilter()" style="border:none;background:none;cursor:pointer;font-size:14px;color:#1d4ed8;padding:0;line-height:1;">✕</button>
     </div>
@@ -247,10 +247,13 @@
           <span style="font-size:11px;color:#aaa;margin-right:4px;">Tags :</span>
           {{ range . }}
           <button
-            onclick="filterByTag('{{ . }}')"
+            type="button"
+            class="technos-tag-pill"
+            data-tag="{{ . }}"
+            onclick="filterByTag(this.dataset.tag)"
             style="font-size:12px;padding:3px 10px;border-radius:5px;border:1px solid #e0e0e0;color:#3b82f6;background:#eff6ff;cursor:pointer;transition:background .15s;"
             onmouseover="this.style.background='#dbeafe'"
-            onmouseout="this.style.background='#eff6ff'">
+            onmouseout="if (!this.classList.contains('technos-tag-pill--active')) this.style.background='#eff6ff'">
             {{ . }}
           </button>
           {{ end }}
@@ -283,13 +286,55 @@
   }
 </style>
 
-<script id="technos-topics-data" type="application/json">{{ $topicEntries | jsonify }}</script>
+<script id="technos-topics-data" type="application/json">{{ $topicEntries | jsonify | safeHTML }}</script>
 <script>
 let activeLetter  = null;
 let activeTopic   = null;
 let activeTagFilter = null;
 
-const topics = JSON.parse(document.getElementById('technos-topics-data').textContent);
+function loadTopics() {
+  const parsed = JSON.parse(document.getElementById('technos-topics-data').textContent.trim());
+  return typeof parsed === 'string' ? JSON.parse(parsed) : parsed;
+}
+
+const topics = loadTopics();
+
+function topicTags(topic) {
+  return Array.isArray(topic.tags) ? topic.tags : [];
+}
+
+function topicsWithTag(tag) {
+  return topics
+    .filter((t) => topicTags(t).includes(tag))
+    .sort((a, b) => a.title.localeCompare(b.title));
+}
+
+function matchingIdsSet(matching) {
+  return new Set(matching.map((t) => t.id));
+}
+
+function updateTagPillStyles() {
+  document.querySelectorAll('.technos-tag-pill').forEach((pill) => {
+    const on = activeTagFilter && pill.dataset.tag === activeTagFilter;
+    pill.classList.toggle('technos-tag-pill--active', on);
+    if (on) {
+      pill.style.border = '1px solid #3b82f6';
+      pill.style.background = '#dbeafe';
+      pill.style.fontWeight = '600';
+    } else {
+      pill.style.border = '1px solid #e0e0e0';
+      pill.style.background = '#eff6ff';
+      pill.style.fontWeight = '400';
+    }
+  });
+}
+
+function applySidebarList(matching) {
+  const ids = matchingIdsSet(matching);
+  document.querySelectorAll('.topic-li').forEach((li) => {
+    li.style.display = ids.has(li.dataset.id) ? 'flex' : 'none';
+  });
+}
 
 function isMobileView() {
   return window.matchMedia('(max-width: 767px)').matches;
@@ -309,6 +354,7 @@ function backToIndex() {
 function selectLetter(l) {
   activeTagFilter = null;
   document.getElementById('tag-filter-bar').style.display = 'none';
+  updateTagPillStyles();
   activeLetter = l;
 
   document.querySelectorAll('#az-grid button').forEach(btn => {
@@ -337,6 +383,7 @@ function selectLetter(l) {
 
 function selectTopic(id) {
   activeTopic = id;
+  updateTagPillStyles();
   document.querySelectorAll('.topic-li').forEach(li => {
     const on = li.dataset.id === id;
     li.style.background = on ? '#fff'    : 'transparent';
@@ -363,12 +410,12 @@ function filterByTag(tag) {
 
   document.getElementById('under-label').textContent = 'TAG : ' + tag;
   document.getElementById('active-tag-label').textContent = tag;
-  document.getElementById('tag-filter-bar').style.display = 'flex';
+  const tagBar = document.getElementById('tag-filter-bar');
+  tagBar.style.display = 'flex';
 
-  const matching = topics.filter(t => t.tags.includes(tag));
-  document.querySelectorAll('.topic-li').forEach(li => {
-    li.style.display = matching.some(t => t.id === li.dataset.id) ? 'flex' : 'none';
-  });
+  const matching = topicsWithTag(tag);
+  applySidebarList(matching);
+  updateTagPillStyles();
 
   if (isMobileView()) {
     setDetailOpen(false);
@@ -376,15 +423,15 @@ function filterByTag(tag) {
     return;
   }
 
-  if (matching.length) selectTopic(matching[0].id); else showEmpty();
+  if (matching.length) selectTopic(matching[0].id);
+  else showEmpty();
 }
 
 function clearTagFilter() {
   activeTagFilter = null;
   document.getElementById('tag-filter-bar').style.display = 'none';
-  selectLetter('A')
-  // const first = topics.length ? topics[0].letter : null;
-  // if (first) selectLetter(first);
+  updateTagPillStyles();
+  selectLetter('A');
 }
 
 function showEmpty() {
