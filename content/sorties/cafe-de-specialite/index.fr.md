@@ -10,17 +10,19 @@ Pour découvrir plus de bonnes adresses où acheter ou déguster un café de qua
 - **Coffee Insurrection :** [https://www.coffeeinsurrection.com/the-best-specialty-coffee-in-europe.html](https://www.coffeeinsurrection.com/)
 - **European Coffee Trip :** [https://europeancoffeetrip.com/](https://europeancoffeetrip.com/)
 
-## 🇫🇷 Belgique
+En voyage ? Jetez un oeil sur le classement des 100 meilleurs coffee shops: [https://www.instagram.com/theworlds100bestcoffeeshops/](https://www.instagram.com/theworlds100bestcoffeeshops/)
+
+## 🇧🇪 Belgique
 
 ### Alchemists Coffee - Ixelles, Bruxelles
 
 - **Site :** [https://alchemists.coffee/](https://alchemists.coffee/)
 
-### DRACHE Specialty Coffee Bar - 
+### DRACHE Specialty Coffee Bar - Bruxelles
 
 - **Site :** [https://www.instagram.com/drache.bxl/](https://www.instagram.com/drache.bxl/)
 
-### Gust Coffee Roasters - 
+### Gust Coffee Roasters - Beersel
 
 - **Site :** [https://gust.coffee/](https://gust.coffee/)
 
@@ -51,6 +53,18 @@ Pour découvrir plus de bonnes adresses où acheter ou déguster un café de qua
 
 ---
 
+## 🇨🇦 Canada
+
+### Café Différance — Montréal
+
+- **Site :** [https://www.instagram.com/cafedifferance/](https://www.instagram.com/cafedifferance/)
+
+### Little Victories — Ottawa
+
+- **Site :** []()
+
+---
+
 ## 🇰🇷 Corée du Sud
 
 ### tonti — Séoul
@@ -61,11 +75,9 @@ Pour découvrir plus de bonnes adresses où acheter ou déguster un café de qua
 
 ### Cha.ddeul — Séoul
 
-Adresse coup de coeur pour l'ambiance et la vue mais soyons clai il s'agit plutôt un salon de thé traditionnel qu'un café de spécialité. Chatteul est l’une des adresses les plus paisibles de Bukchon. Caché dans une hanok traditionnelle au détour des ruelles en pente du village, ce salon de thé semble suspendu hors du temps. Dès l’entrée, on découvre une cour intérieure silencieuse entourée de bois ancien et de toits coréens traditionnels, où l’on vient surtout pour ralentir après l’agitation de Séoul.
+Adresse coup de coeur pour l'ambiance et la vue mais soyons clair il s'agit plutôt un salon de thé traditionnel qu'un café de spécialité. Chatteul est l’une des adresses les plus paisibles de Bukchon. Caché dans une hanok traditionnelle au détour des ruelles en pente du village, ce salon de thé semble suspendu hors du temps. Dès l’entrée, on découvre une cour intérieure silencieuse entourée de bois ancien et de toits coréens traditionnels, où l’on vient surtout pour ralentir après l’agitation de Séoul.
 
-À seulement quelques minutes de la station Anguk, Chatteul propose une expérience plus contemplative que les cafés modernes du quartier : thés coréens traditionnels, desserts délicats et café filtre servis dans un véritable hanok préservé. Beaucoup recommandent de s’installer dans la cour centrale, surtout à l’automne lorsque les feuilles tombent doucement dans le jardin.
-
-L’atmosphère y est particulièrement calme — presque méditative — avec des tables basses en bois et une lumière tamisée qui accentuent le charme traditionnel du lieu. 
+À seulement quelques minutes de la station Anguk, Chatteul propose une expérience plus contemplative que les cafés modernes du quartier : thés coréens traditionnels, desserts délicats et café filtre servis dans un véritable hanok préservé. Beaucoup recommandent de s’installer dans la cour centrale, surtout à l’automne lorsque les feuilles tombent doucement dans le jardin. L'atmosphère y est particulièrement calme — presque méditative — avec des tables basses en bois et une lumière tamisée qui accentuent le charme traditionnel du lieu. 
 
 Entre une visite du palais de Changdeokgung et une promenade dans Bukchon Hanok Village, Chatteul est l’endroit idéal pour découvrir la culture coréenne du thé dans un cadre authentique et intimiste.
 
