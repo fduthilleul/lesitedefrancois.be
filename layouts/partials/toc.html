@@ -1,5 +1,8 @@
-{{ $isCraftBeer := eq .File.Dir "sorties/craft-beer/" }}
-{{ if $isCraftBeer }}
+{{ $useVenueNav := or
+  (eq .File.Dir "sorties/craft-beer/")
+  (eq .File.Dir "sorties/cafe-de-specialite/")
+}}
+{{ if $useVenueNav }}
   {{ partial "toc-craft-beer.html" . }}
 {{ else }}
 <details

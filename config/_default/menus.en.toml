@@ -56,6 +56,12 @@
   weight = 4
 
 [[main]]
+  name = "Speciality Coffee"
+  parent = "Outings"
+  pageRef = "sorties/cafe-de-specialite"
+  weight = 5
+
+[[main]]
   name = "Technos"
   pageRef = "technos"
   weight = 30

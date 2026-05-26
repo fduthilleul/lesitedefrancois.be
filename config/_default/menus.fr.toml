@@ -50,10 +50,16 @@
   weight = 3
 
 [[main]]
-  name = "Craft Beer"
+  name = "Bières Artisanales"
   parent = "Sorties"
   pageRef = "sorties/craft-beer"
   weight = 4
+
+[[main]]
+  name = "Café de spécialité"
+  parent = "Sorties"
+  pageRef = "sorties/cafe-de-specialite"
+  weight = 5
 
 [[main]]
   name = "Les Incontournables"
