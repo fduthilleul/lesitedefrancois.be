@@ -10,7 +10,7 @@ Pour découvrir plus de bonnes adresses où acheter ou déguster un café de qua
 - **Coffee Insurrection :** [https://www.coffeeinsurrection.com/the-best-specialty-coffee-in-europe.html](https://www.coffeeinsurrection.com/)
 - **European Coffee Trip :** [https://europeancoffeetrip.com/](https://europeancoffeetrip.com/)
 
-En voyage ? Jetez un oeil sur le classement des 100 meilleurs coffee shops: [https://www.instagram.com/theworlds100bestcoffeeshops/](https://www.instagram.com/theworlds100bestcoffeeshops/)
+En voyage ? Jetez un oeil sur le classement des 100 meilleurs coffee shops: [https://theworlds100bestcoffeeshops.com/](https://theworlds100bestcoffeeshops.com/)
 
 ## 🇧🇪 Belgique
 
@@ -61,7 +61,7 @@ En voyage ? Jetez un oeil sur le classement des 100 meilleurs coffee shops: [htt
 
 ### Little Victories — Ottawa
 
-- **Site :** []()
+- **Site :** [https://www.lvcoffee.ca/](https://www.lvcoffee.ca/pages/visit)
 
 ---
 
