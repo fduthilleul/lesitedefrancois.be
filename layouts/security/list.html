@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ $topics := where (where .Site.RegularPages "Section" "technos") "Params.layout" "ne" "list" }}
+{{ $topics := where (where .Site.RegularPages "Section" .Section) "Params.layout" "ne" "list" }}
 {{ $topicEntries := slice }}
 {{ range $topics }}
   {{ $topicEntries = $topicEntries | append (dict
@@ -223,7 +223,7 @@
       <div class="technos-index__title-row">
         <span class="technos-index__letter">{{ $letter }}</span>
         <div style="min-width:0;">
-          <a href="{{ .Permalink }}" class="technos-index__title" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">
+          <a href="{{ .RelPermalink }}" class="technos-index__title" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">
             {{ .Title }}
           </a>
           <p style="font-size:12px;color:#aaa;margin:4px 0 0;">

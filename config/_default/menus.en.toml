@@ -62,12 +62,18 @@
   weight = 5
 
 [[main]]
-  name = "Technos"
-  pageRef = "technos"
+  name = "Tech"
+  pageRef = "security"
   weight = 30
 
 [[main]]
   name = "Security"
-  parent = "Technos"
-  pageRef = "technos/index"
+  parent = "Tech"
+  pageRef = "security/index"
   weight = 1
+
+[[main]]
+  name = "Telco"
+  parent = "Tech"
+  pageRef = "telco/index"
+  weight = 2
