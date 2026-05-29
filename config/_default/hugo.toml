@@ -7,6 +7,9 @@ summaryLength = 30
 buildDrafts = false
 buildFuture = false
 
+# Hidden until reintegrated; content files kept in repo
+ignoreFiles = ['content/divers/', 'content/les-incontournables']
+
 [pagination]
   pagerSize = 20
 

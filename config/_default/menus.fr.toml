@@ -62,11 +62,18 @@
   weight = 5
 
 [[main]]
-  name = "Les Incontournables"
-  pageRef = "les-incontournables"
+  name = "Tech"
+  url = "/en/security/"
   weight = 30
 
 [[main]]
-  name = "Divers"
-  pageRef = "divers"
-  weight = 40
+  name = "Security"
+  parent = "Tech"
+  url = "/en/security/"
+  weight = 1
+
+[[main]]
+  name = "Telco"
+  parent = "Tech"
+  url = "/en/telco/"
+  weight = 2
