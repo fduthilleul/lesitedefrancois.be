@@ -28,4 +28,5 @@ In the confidential computing stack, Vault occupies a different niche from **Tru
 ## Additional Information
 - [Evolving Kubernetes security with Vault and OpenShift](https://www.youtube.com/watch?v=JiO5TBt_648) (Oct 15, 2025)
 - [Automate Secure Secrets in OpenShift with Vault & VSO](https://www.youtube.com/watch?v=G7Fvo4UBaHI) (Dec 16, 2025) 
-- [Security model for Vault Kubernetes KMS](https://github.com/hashicorp/web-unified-docs/blob/ab6191e4856b52a59a87fe0f17703671a7317ec6/content/vault/v1.21.x/content/docs/deploy/kubernetes/kms/security.mdx) 
+- [Security model for Vault Kubernetes KMS](https://github.com/hashicorp/web-unified-docs/blob/ab6191e4856b52a59a87fe0f17703671a7317ec6/content/vault/v1.21.x/content/docs/deploy/kubernetes/kms/security.mdx)
+- [Understand available Vault editions](https://developer.hashicorp.com/vault/tutorials/get-started/available-editions)
