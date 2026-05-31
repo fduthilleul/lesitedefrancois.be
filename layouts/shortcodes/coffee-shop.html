@@ -67,19 +67,22 @@
 
   {{ with $image }}
     {{ $resource := $.Page.Resources.GetMatch . }}
+    {{ if not $resource }}
+      {{ $resource = $.Page.Resources.GetMatch (printf "**/%s" (path.Base .)) }}
+    {{ end }}
     {{ if $resource }}
       <figure class="mt-6 mb-0">
         {{ if or $disableImageOptimization (eq $resource.MediaType.SubType "svg") }}
           <img
-            class="my-0 w-full rounded-2xl object-cover"
+            class="my-0 max-h-96 object-contain mx-auto rounded-2xl"
             src="{{ $resource.RelPermalink }}"
             alt="{{ $name }}"
             loading="lazy"
             decoding="async" />
         {{ else }}
-          {{ $img := $resource.Fit "1200x675" }}
+          {{ $img := $resource.Resize "2400x" }}
           <img
-            class="my-0 w-full rounded-2xl object-cover"
+            class="my-0 max-h-96 object-contain mx-auto rounded-2xl"
             src="{{ $img.RelPermalink }}"
             alt="{{ $name }}"
             width="{{ $img.Width }}"

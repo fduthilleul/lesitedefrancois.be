@@ -42,7 +42,7 @@ Torréfacteur pionnier du café de spécialité en Belgique, fondé à Louvain e
 *Autres adresses : Diestsestraat 165, 3000 Louvain · Rue Saint-Laurent 36, 1000 Bruxelles (MOK Studio).*
 {{< /coffee-shop >}}
 
-{{< coffee-shop name="Tulipe" location="Avenue Albert-Elisabeth 35, 1200 Woluwe-Saint-Lambert" url="https://www.tulipe.coffee/" >}}
+{{< coffee-shop name="Tulipe" location="Avenue Albert-Elisabeth 35, 1200 Woluwe-Saint-Lambert" url="https://www.tulipe.coffee/" image="images/tulipe.jpeg" >}}
 Café de spécialité né d'une envie simple : un espace de qualité et accessible à Woluwe-Saint-Lambert. Grains sélectionnés avec soin, torréfacteurs partenaires, traçabilité complète et accueil sans chichi — petits producteurs, espresso et filtres dans une ambiance chaleureuse.
 {{< /coffee-shop >}}
 
@@ -52,7 +52,7 @@ Torréfacteur contemporain bruxellois qui source, torréfie et sert des cafés d
 
 ## 🇫🇷 France
 
-{{< coffee-shop name="Coffee Makers" location="151 Rue de Paris, 59800 Lille" url="https://coffeemakers.fr/" >}}
+{{< coffee-shop name="Coffee Makers" location="151 Rue Pierre Mauroy, 59800 Lille" url="https://coffeemakers.fr/" >}}
 Institution lilloise depuis 2013 : espresso bar, salon de thé et torréfacteur artisanal certifié bio (Ludovic Fiers). Petits-déjeuners, brunchs du samedi, pâtisseries maison, matcha et chocolats chauds dans un coffee shop cosy du centre-ville.
 {{< /coffee-shop >}}
 

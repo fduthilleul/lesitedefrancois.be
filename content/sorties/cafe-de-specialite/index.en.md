@@ -43,7 +43,7 @@ A pioneering Belgian specialty roaster, founded in Leuven in 2012 by Jens Crabb�
 *Also at Diestsestraat 165, 3000 Leuven · Rue Saint-Laurent 36, 1000 Brussels (MOK Studio).*
 {{< /coffee-shop >}}
 
-{{< coffee-shop name="Tulipe" location="Avenue Albert-Elisabeth 35, 1200 Woluwe-Saint-Lambert" url="https://www.tulipe.coffee/" >}}
+{{< coffee-shop name="Tulipe" location="Avenue Albert-Elisabeth 35, 1200 Woluwe-Saint-Lambert" url="https://www.tulipe.coffee/" image="images/tulipe.jpeg" >}}
 A specialty café born from a simple idea: quality coffee that's accessible in Woluwe-Saint-Lambert. Carefully selected beans, partner roasters, full traceability and a welcoming atmosphere — small producers, espresso and filter in a friendly setting.
 {{< /coffee-shop >}}
 
@@ -53,7 +53,7 @@ A contemporary Brussels roaster sourcing, roasting and serving exceptional coffe
 
 ## 🇫🇷 France
 
-{{< coffee-shop name="Coffee Makers" location="151 Rue de Paris, 59800 Lille" url="https://coffeemakers.fr/" >}}
+{{< coffee-shop name="Coffee Makers" location="151 Rue Pierre Mauroy, 59800 Lille" url="https://coffeemakers.fr/" >}}
 A Lille institution since 2013: espresso bar, tea room and certified organic artisan roaster (Ludovic Fiers). Breakfast, Saturday brunch, homemade pastries, matcha and hot chocolate in a cosy city-centre coffee shop.
 {{< /coffee-shop >}}
 
