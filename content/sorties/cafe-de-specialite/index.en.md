@@ -78,3 +78,18 @@ A favourite for atmosphere and views — but to be clear: it's more of a traditi
 
 Between Changdeokgung Palace and a stroll through Bukchon Hanok Village, the perfect place to slow down after Seoul's bustle — especially in autumn when leaves fall in the garden.
 {{< /coffee-shop >}}
+
+## 🇯🇴 Jordan
+
+{{< coffee-shop name="Mosaic Specialty Coffee" location="Princess Haya Street, Madaba" url="https://www.instagram.com/mosaicspecialtycoffee/" >}}
+What a lovely surprise to stumble upon Mosaic Specialty Coffee down a side street in Madaba! Cosy, modern decor — this charming spot opened in early 2024, run by barista Iskandar and his wife. We received a warm welcome and enjoyed filter coffee prepared with real care. The rest of the family went for iced teas and homemade pastry. I highly recommend stopping by before or after visiting St. John the Baptist Church.
+
+<!-- gallery -->
+{{< gallery >}}
+  <img src="images/madaba-1.jpeg" class="grid-w50" />
+  <img src="images/madaba-2.jpeg" class="grid-w50" />
+  <img src="images/madaba-3.jpeg" class="grid-w50" />
+  <img src="images/madaba-4.jpeg" class="grid-w50" />
+  <img src="images/madaba-5.jpeg" class="grid-w100" />
+{{< /gallery >}}
+{{< /coffee-shop >}}

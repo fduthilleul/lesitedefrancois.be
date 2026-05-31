@@ -24,7 +24,7 @@ En voyage ? Jetez un oeil sur le classement des 100 meilleurs coffee shops : [ht
 Laboratoire ouvert et torréfacteur de quartier à Ixelles, où Xavier Beressy et son équipe torréfient sur place des cafés de spécialité soigneusement sourcés. Ambiance simple et conviviale, filtres remarquables et ateliers barista pour les curieux. Champion de Belgique Aeropress 2024.
 {{< /coffee-shop >}}
 
-{{< coffee-shop name="DRACHE Specialty Coffee Bar" location="Quai au Bois à Brûler 11, 1000 Bruxelles" url="https://www.instagram.com/drache.bxl/" >}}
+{{< coffee-shop name="DRACHE Specialty Coffee Bar" location="Quai au Bois à Brûler 11, 1000 Bruxelles" url="https://www.instagram.com/drache.bxl/" image="images/drache.jpeg" >}}
 Coffee shop cosy au bord du Marché aux Poissons (Vismet), connu pour sa carte créative : espressos classiques, cold brew, et lattes originales (bleuet, betterave, ube, sésame noir…). Petite sélection de pâtisseries, options véganes.
 {{< /coffee-shop >}}
 
@@ -76,4 +76,19 @@ Petit torréfacteur indépendant d'Ottawa, co-fondé par un roaster et un barist
 Adresse coup de cœur pour l'ambiance et la vue — mais soyons clairs : c'est plutôt un salon de thé traditionnel qu'un café de spécialité. Cha.ddeul est l'une des adresses les plus paisibles de Bukchon, installée dans une hanok au détour des ruelles en pente. Cour intérieure silencieuse, thés coréens, desserts délicats et café filtre dans un cadre préservé, presque méditatif.
 
 Entre une visite du palais de Changdeokgung et une promenade dans Bukchon Hanok Village, l'endroit idéal pour ralentir après l'agitation de Séoul — surtout en automne, lorsque les feuilles tombent dans le jardin.
+{{< /coffee-shop >}}
+
+## 🇯🇴 Jordanie
+
+{{< coffee-shop name="Mosaic Specialty Coffee" location="Princess Haya Street, Madaba" url="https://www.instagram.com/mosaicspecialtycoffee/" >}}
+Quelle belle surprise de découvrir Mosaic Specialty Coffee au détour d'une rue de Madaba ! Déco cosy et moderne, ce charmant endroit a ouvert début 2024 par le barista Iskandar et son épouse. Nous avons été accueillis chaleureusement et avons pu déguster un café filtre préparé dans les règles de l'art. Le reste de la famille a opté pour des thés glacés et une pâtisserie maison. Je recommande vivement de vous y arrêter avant ou après la visite de l'église Saint-Jean-Baptiste.
+
+<!-- gallery -->
+{{< gallery >}}
+  <img src="images/madaba-1.jpeg" class="grid-w50" />
+  <img src="images/madaba-2.jpeg" class="grid-w50" />
+  <img src="images/madaba-3.jpeg" class="grid-w50" />
+  <img src="images/madaba-4.jpeg" class="grid-w50" />
+  <img src="images/madaba-5.jpeg" class="grid-w100" />
+{{< /gallery >}}
 {{< /coffee-shop >}}

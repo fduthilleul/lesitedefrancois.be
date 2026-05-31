@@ -39,15 +39,42 @@
 {{ .Page.Store.Set "coffee-shop-styles" true }}
 {{ end }}
 
+{{ $desc := .Inner }}
+{{ $gallery := "" }}
+
+{{ $parts := split .Inner "<!-- gallery -->" }}
+{{ if ge (len $parts) 2 }}
+  {{ $desc = strings.TrimSpace (index $parts 0) }}
+  {{ $gallery = strings.TrimSpace (index $parts 1) }}
+{{ else if strings.Contains .Inner `class="gallery"` }}
+  {{ $galleryStart := strings.Index .Inner `<div id="gallery-` }}
+  {{ if lt $galleryStart 0 }}
+    {{ $galleryStart = strings.Index .Inner `<div class="gallery"` }}
+  {{ end }}
+  {{ if ge $galleryStart 0 }}
+    {{ $patch := `<div class="width-patch"></div>` }}
+    {{ $before := slicestr .Inner 0 $galleryStart }}
+    {{ if strings.HasSuffix (strings.TrimSpace $before) $patch }}
+      {{ $galleryStart = strings.Index $before $patch }}
+    {{ end }}
+    {{ $desc = strings.TrimSpace (slicestr .Inner 0 $galleryStart) }}
+    {{ $gallery = strings.TrimSpace (slicestr .Inner $galleryStart) }}
+  {{ end }}
+{{ end }}
+
 <div class="not-prose coffee-shop-card my-10 rounded-2xl p-8">
   <h3 class="brewery relative group mt-0 mb-4 text-3xl font-bold leading-tight text-neutral-800">
     {{ $name }}
     <div id="{{ $anchor }}" class="anchor"></div>
   </h3>
 
-  {{ with .Inner }}
-    <div class="mb-4 max-w-prose text-base leading-relaxed text-neutral-700">
-      {{ . | markdownify }}
+  {{ with $desc }}
+    <div class="coffee-shop-content mb-4 max-w-prose text-base leading-relaxed text-neutral-700">
+      {{ if findRE `^\s*<` . }}
+        {{ . | safeHTML }}
+      {{ else }}
+        {{ . | $.Page.RenderString }}
+      {{ end }}
     </div>
   {{ end }}
 
@@ -92,5 +119,9 @@
         {{ end }}
       </figure>
     {{ end }}
+  {{ end }}
+
+  {{ with $gallery }}
+    <div class="mt-6">{{ . | safeHTML }}</div>
   {{ end }}
 </div>
