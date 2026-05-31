@@ -4,81 +4,76 @@ date: 2024-03-28
 categories: ["Sorties"]
 tags: ["Café", "Specialty Coffee"]
 summary: "Le café de spécialité (ou Speciality Coffee) est un café de très grande qualité avec une traçabilité totale."
+showTableOfContents: true
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 2
 ---
 
-Pour découvrir plus de bonnes adresses où acheter ou déguster un café de qualité en Belgique ou ailleurs:
+Pour découvrir plus de bonnes adresses où acheter ou déguster un café de qualité en Belgique ou ailleurs :
+
 - **Coffee Insurrection :** [https://www.coffeeinsurrection.com/the-best-specialty-coffee-in-europe.html](https://www.coffeeinsurrection.com/)
 - **European Coffee Trip :** [https://europeancoffeetrip.com/](https://europeancoffeetrip.com/)
 
-En voyage ? Jetez un oeil sur le classement des 100 meilleurs coffee shops: [https://theworlds100bestcoffeeshops.com/](https://theworlds100bestcoffeeshops.com/)
+En voyage ? Jetez un oeil sur le classement des 100 meilleurs coffee shops : [https://theworlds100bestcoffeeshops.com/](https://theworlds100bestcoffeeshops.com/)
 
 ## 🇧🇪 Belgique
 
-### Alchemists Coffee - Ixelles, Bruxelles
+{{< coffee-shop name="Alchemists Coffee" location="Rue de la Crèche 21, 1050 Ixelles" url="https://alchemists.coffee/" >}}
+Laboratoire ouvert et torréfacteur de quartier à Ixelles, où Xavier Beressy et son équipe torréfient sur place des cafés de spécialité soigneusement sourcés. Ambiance simple et conviviale, filtres remarquables et ateliers barista pour les curieux. Champion de Belgique Aeropress 2024.
+{{< /coffee-shop >}}
 
-- **Site :** [https://alchemists.coffee/](https://alchemists.coffee/)
+{{< coffee-shop name="DRACHE Specialty Coffee Bar" location="Quai au Bois à Brûler 11, 1000 Bruxelles" url="https://www.instagram.com/drache.bxl/" >}}
+Coffee shop cosy au bord du Marché aux Poissons (Vismet), connu pour sa carte créative : espressos classiques, cold brew, et lattes originales (bleuet, betterave, ube, sésame noir…). Petite sélection de pâtisseries, options véganes.
+{{< /coffee-shop >}}
 
-### DRACHE Specialty Coffee Bar - Bruxelles
+{{< coffee-shop name="Gust Coffee Roasters" location="A. Vaucampslaan 28, 1654 Beersel" url="https://gust.coffee/" >}}
+Micro-torréfacteur belge au sud de Bruxelles, fondé par Tanguy en 2020. Cafés saisonniers, traçables et éthiques, torréfiés pour révéler clarté et caractère de chaque origine — sans les standardiser. Vente en ligne et abonnements depuis la roasterie.
+{{< /coffee-shop >}}
 
-- **Site :** [https://www.instagram.com/drache.bxl/](https://www.instagram.com/drache.bxl/)
+{{< coffee-shop name="Jolicoeur" location="Rue d'Enghien 3, 7000 Mons" url="https://jolicoeurcoffee.be/" >}}
+Petit coffee shop chaleureux près de la Grand-Place de Mons, tenu par Ludovic Pirrera : barista globe-trotter qui torréfie lui-même ses grains dans son atelier de Ghlin. Espresso corsé, V60 et Aeropress, grains en vente et ateliers cupping. Grains sourcés auprès de coopératives traceables.
+{{< /coffee-shop >}}
 
-### Gust Coffee Roasters - Beersel
+{{< coffee-shop name="MOK Coffee" location="Rue Antoine Dansaert 196, 1000 Bruxelles" url="https://mokcoffee.be/" >}}
+Torréfacteur pionnier du café de spécialité en Belgique, fondé à Louvain en 2012 par Jens Crabbé, double champion belge Cup Tasters. L'adresse bruxelloise du Dansaert — installée dans une ancienne galerie d'art — combine torréfaction, bar ouvert, deux espressos et quatre filtres en rotation. Classé 67e au palmarès [The World's 100 Best Coffee Shops](https://theworlds100bestcoffeeshops.com/locales/mok-coffee/).
 
-- **Site :** [https://gust.coffee/](https://gust.coffee/)
+*Autres adresses : Diestsestraat 165, 3000 Louvain · Rue Saint-Laurent 36, 1000 Bruxelles (MOK Studio).*
+{{< /coffee-shop >}}
 
-### Jolicoeur - Mons
+{{< coffee-shop name="Tulipe" location="Avenue Albert-Elisabeth 35, 1200 Woluwe-Saint-Lambert" url="https://www.tulipe.coffee/" >}}
+Café de spécialité né d'une envie simple : un espace de qualité et accessible à Woluwe-Saint-Lambert. Grains sélectionnés avec soin, torréfacteurs partenaires, traçabilité complète et accueil sans chichi — petits producteurs, espresso et filtres dans une ambiance chaleureuse.
+{{< /coffee-shop >}}
 
-- **Site :** [https://jolicoeurcoffee.be/](https://jolicoeurcoffee.be/)
-
-### MOK Coffee - Leuven & Bruxelles
-
-- **Site :** [https://mokcoffee.be/](https://mokcoffee.be/)
-
-### Tulipe - Bruxelles
-
-- **Site :** [https://www.tulipe.coffee/](https://www.tulipe.coffee/)
-
-### Wide Awake — Bruxelles
-
-- **Site :** [https://wideawake.coffee/](https://wideawake.coffee/?)
-
----
+{{< coffee-shop name="Wide Awake" location="Rue Sainte-Catherine 2, 1000 Bruxelles" url="https://wideawake.coffee/" >}}
+Torréfacteur contemporain bruxellois qui source, torréfie et sert des cafés d'exception. Flagship au centre-ville (Sainte-Catherine), avec aussi Flagey (Lesbroussart) et Dansaert (rue de Flandre). Série « Released on 12 », abonnements et vente wholesale.
+{{< /coffee-shop >}}
 
 ## 🇫🇷 France
 
-### Coffee Makers - Lille
-
-- **Site :** [https://coffeemakers.fr/](https://coffeemakers.fr/)
-<!-- - **Site :** []() -->
-
----
+{{< coffee-shop name="Coffee Makers" location="151 Rue de Paris, 59800 Lille" url="https://coffeemakers.fr/" >}}
+Institution lilloise depuis 2013 : espresso bar, salon de thé et torréfacteur artisanal certifié bio (Ludovic Fiers). Petits-déjeuners, brunchs du samedi, pâtisseries maison, matcha et chocolats chauds dans un coffee shop cosy du centre-ville.
+{{< /coffee-shop >}}
 
 ## 🇨🇦 Canada
 
-### Café Différance — Montréal
+{{< coffee-shop name="Café Différance" location="449 Avenue Viger Ouest, Montréal" url="https://www.instagram.com/cafedifferance/" >}}
+Pause-café de qualité dans le Vieux-Montréal, à deux pas du Square-Victoria. Torréfacteurs canadiens en rotation (dont Bows & Arrows), ambiance conviviale et pâtisseries de Hof Kelsten et Godley & Creme. Le nom est un clin d'œil philosophique — avec un « A », pas un « E ».
+{{< /coffee-shop >}}
 
-- **Site :** [https://www.instagram.com/cafedifferance/](https://www.instagram.com/cafedifferance/)
-
-### Little Victories — Ottawa
-
-- **Site :** [https://www.lvcoffee.ca/](https://www.lvcoffee.ca/pages/visit)
-
----
+{{< coffee-shop name="Little Victories" location="44 Elgin Street, Ottawa" url="https://www.lvcoffee.ca/pages/visit" >}}
+Petit torréfacteur indépendant d'Ottawa, co-fondé par un roaster et un barista, avec trois cafés et une activité wholesale. Culture café soignée, hospitalité chaleureuse et engagement pour élever la scène canadienne. Classé 71e au palmarès [The World's 100 Best Coffee Shops](https://theworlds100bestcoffeeshops.com/locales/little-victories-coffee/).
+{{< /coffee-shop >}}
 
 ## 🇰🇷 Corée du Sud
 
-### tonti — Séoul
+{{< coffee-shop name="tonti" location="6-8 Bukchon-ro, Jongno-gu, Séoul" url="https://www.instagram.com/tonti_coffee/" >}}
+À deux pas de la station Anguk et du palais de Changdeokgung, tonti se cache dans les ruelles paisibles au pied du village traditionnel de Bukchon. Café filtre crémeux, Dubancho et Banko Gotti d'Éthiopie, cookies moelleux — une adresse abordable et photogénique entre hanok et ruelles en pente.
+{{< /coffee-shop >}}
 
-À deux pas de la station Anguk et du palais de Changdeokgung, tonti se cache dans les petites ruelles paisibles au pied du village traditionnel de Bukchon.
+{{< coffee-shop name="Cha.ddeul" location="Séoul (Bukchon)" url="https://www.instagram.com/cha.ddeul" >}}
+Adresse coup de cœur pour l'ambiance et la vue — mais soyons clairs : c'est plutôt un salon de thé traditionnel qu'un café de spécialité. Cha.ddeul est l'une des adresses les plus paisibles de Bukchon, installée dans une hanok au détour des ruelles en pente. Cour intérieure silencieuse, thés coréens, desserts délicats et café filtre dans un cadre préservé, presque méditatif.
 
-- **Site :** [https://www.instagram.com/tonti_coffee/](https://www.instagram.com/tonti_coffee/)
-
-### Cha.ddeul — Séoul
-
-Adresse coup de coeur pour l'ambiance et la vue mais soyons clair il s'agit plutôt un salon de thé traditionnel qu'un café de spécialité. Chatteul est l’une des adresses les plus paisibles de Bukchon. Caché dans une hanok traditionnelle au détour des ruelles en pente du village, ce salon de thé semble suspendu hors du temps. Dès l’entrée, on découvre une cour intérieure silencieuse entourée de bois ancien et de toits coréens traditionnels, où l’on vient surtout pour ralentir après l’agitation de Séoul.
-
-À seulement quelques minutes de la station Anguk, Chatteul propose une expérience plus contemplative que les cafés modernes du quartier : thés coréens traditionnels, desserts délicats et café filtre servis dans un véritable hanok préservé. Beaucoup recommandent de s’installer dans la cour centrale, surtout à l’automne lorsque les feuilles tombent doucement dans le jardin. L'atmosphère y est particulièrement calme — presque méditative — avec des tables basses en bois et une lumière tamisée qui accentuent le charme traditionnel du lieu. 
-
-Entre une visite du palais de Changdeokgung et une promenade dans Bukchon Hanok Village, Chatteul est l’endroit idéal pour découvrir la culture coréenne du thé dans un cadre authentique et intimiste.
-
-- **Site :** [https://www.instagram.com/cha.ddeul](https://www.instagram.com/cha.ddeul)
+Entre une visite du palais de Changdeokgung et une promenade dans Bukchon Hanok Village, l'endroit idéal pour ralentir après l'agitation de Séoul — surtout en automne, lorsque les feuilles tombent dans le jardin.
+{{< /coffee-shop >}}

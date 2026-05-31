@@ -1,0 +1,93 @@
+{{ $name := .Get "name" }}
+{{ if not $name }}{{ errorf "coffee-shop: name is required" }}{{ end }}
+{{ $address := .Get "address" | default (.Get "location") }}
+{{ $url := .Get "url" }}
+{{ $image := .Get "image" }}
+{{ $anchor := anchorize $name }}
+{{ $isFr := eq .Page.Lang "fr" }}
+{{ $btnLabel := cond $isFr "Site web" "Website" }}
+{{ $disableImageOptimization := .Site.Params.disableImageOptimization | default false }}
+
+{{ if not (.Page.Store.Get "coffee-shop-styles") }}
+<style>
+  .coffee-shop-card {
+    background-color: #ffffff;
+  }
+  html.dark .coffee-shop-card {
+    background-color: #ffffff;
+  }
+  .coffee-shop-card a.coffee-shop-card__btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    padding: 0.625rem 1.25rem;
+    border-radius: 9999px;
+    font-size: 0.875rem;
+    font-weight: 500;
+    text-decoration: none !important;
+    background-color: #ffffff !important;
+    color: #171717 !important;
+    border: none;
+    box-shadow: none;
+    transition: background-color 0.15s ease;
+  }
+  .coffee-shop-card a.coffee-shop-card__btn:hover {
+    background-color: #f5f5f5 !important;
+    color: #171717 !important;
+  }
+</style>
+{{ .Page.Store.Set "coffee-shop-styles" true }}
+{{ end }}
+
+<div class="not-prose coffee-shop-card my-10 rounded-2xl p-8">
+  <h3 class="brewery relative group mt-0 mb-4 text-3xl font-bold leading-tight text-neutral-800">
+    {{ $name }}
+    <div id="{{ $anchor }}" class="anchor"></div>
+  </h3>
+
+  {{ with .Inner }}
+    <div class="mb-4 max-w-prose text-base leading-relaxed text-neutral-700">
+      {{ . | markdownify }}
+    </div>
+  {{ end }}
+
+  {{ with $address }}
+    <p class="mb-5 text-sm text-neutral-600">{{ . }}</p>
+  {{ end }}
+
+  {{ with $url }}
+    <a
+      href="{{ . }}"
+      target="_blank"
+      rel="noopener noreferrer"
+      class="coffee-shop-card__btn">
+      {{ $btnLabel }} →
+    </a>
+  {{ end }}
+
+  {{ with $image }}
+    {{ $resource := $.Page.Resources.GetMatch . }}
+    {{ if $resource }}
+      <figure class="mt-6 mb-0">
+        {{ if or $disableImageOptimization (eq $resource.MediaType.SubType "svg") }}
+          <img
+            class="my-0 w-full rounded-2xl object-cover"
+            src="{{ $resource.RelPermalink }}"
+            alt="{{ $name }}"
+            loading="lazy"
+            decoding="async" />
+        {{ else }}
+          {{ $img := $resource.Fit "1200x675" }}
+          <img
+            class="my-0 w-full rounded-2xl object-cover"
+            src="{{ $img.RelPermalink }}"
+            alt="{{ $name }}"
+            width="{{ $img.Width }}"
+            height="{{ $img.Height }}"
+            loading="lazy"
+            decoding="async" />
+        {{ end }}
+      </figure>
+    {{ end }}
+  {{ end }}
+</div>

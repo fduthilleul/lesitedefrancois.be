@@ -119,14 +119,20 @@
 
         let el = h2.nextElementSibling
         while (el && el.tagName !== 'H2') {
-          if (el.tagName === 'H3') {
-            const breweryAnchor = el.querySelector('.anchor')
+          const h3 =
+            el.tagName === 'H3'
+              ? el
+              : el.classList?.contains('coffee-shop-card')
+                ? el.querySelector('h3')
+                : null
+          if (h3) {
+            const breweryAnchor = h3.querySelector('.anchor')
             const id = breweryAnchor?.id
             if (id) {
               const li = document.createElement('li')
               const a = document.createElement('a')
               a.href = '#' + id
-              a.textContent = breweryLabel(el)
+              a.textContent = breweryLabel(h3)
               a.className = 'craft-beer-brewery-link'
               a.addEventListener('click', () => {
                 container

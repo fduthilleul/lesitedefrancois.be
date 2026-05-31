@@ -15,7 +15,7 @@ Cette année, après avoir longuement hésité entre de nombreuses destinations 
 - Arrivée à l'aéroport de Cagliari
 - Récupération de la voiture de location
 - Visite à pied de Cagliari
-- Direction notre premier logement situé dans la région de l'Ogliastra
+- Direction notre premier logement [Dimore Santa Justa](https://dimoresantajusta.com/en/) situé à Tortoli dans la région de l'Ogliastra
 
 La Sardaigne n'est qu'à un peu plus de 2 heures de vol de la Belgique ce qui permet d'être rapidement dépaysé. Le vol Ryanair se passe sans encombre et nous débarquons vers 11h40 à l'aéroport de Cagliari. Le temps de récupérer les bagages et la voiture de location (une Opel Crossland blanche) et il est déjà 13h30… Direction la capitale sarde pour une visite rapide avant de découvrir notre premier logement. En cherchant un circuit touristique, j'ai découvert l'application Navaway. On démarre au niveau de l'Hôtel de Ville, l'église Sainte-Anne, la Torre dell'Elefante, la Cathédrale Sainte-Marie, le Bastion Saint-Remy,…
 
