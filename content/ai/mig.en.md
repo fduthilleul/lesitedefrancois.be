@@ -1,0 +1,12 @@
+---
+title: "MIG (Multi-Instance GPU)"
+description: "NVIDIA A100/H100 feature that partitions one physical GPU into isolated instances with dedicated compute and memory—improving utilization for multi-tenant inference on Kubernetes without separate cards per workload."
+tags: ["ai", "mig", "nvidia", "gpu", "kubernetes", "multi-tenancy", "inference"]
+website: https://docs.nvidia.com/datacenter/tesla/mig-user-guide/
+---
+
+**MIG (Multi-Instance GPU)** is an NVIDIA **GPU** partitioning mode on datacenter accelerators (e.g. **A100**, **H100**) that splits one physical card into up to seven **GPU instances (GIs)**, each with isolated **streaming multiprocessors**, memory bandwidth, and **HBM** capacity. The objective is **higher utilization** in multi-tenant environments: several smaller models or dev/test workloads share one expensive GPU without time-slicing contention as severe as full-card sharing. Each MIG instance appears to the OS and **CUDA** as a separate GPU with fixed resources; workloads cannot oversubscribe another instance’s memory. MIG suits **inference** and modest training more often than massive single-job training that needs the entire GPU and **NVLink** domain.
+
+Architecturally, MIG is a **hardware partition**, not a **CPU** hypervisor: the host still runs Linux and Kubernetes, but the NVIDIA driver exposes multiple minor devices. **Kubernetes** schedules pods with `nvidia.com/mig-1g.5gb`-style extended resources via the **GPU Operator** and device plugin. Compared with whole-GPU assignment, MIG caps per-tenant VRAM and compute—large LLMs may not fit a small profile. Compared with **time-slicing**, MIG provides stronger isolation and predictable performance. MIG does not replace **tensor parallelism** across cards; it partitions **within** one card. **NCCL** groups are typically scoped per instance, not across MIG slices on the same GPU for multi-GPU jobs.
+
+**Red Hat** supports MIG on **RHEL** and **OpenShift** through documented NVIDIA driver and **GPU Operator** flows: enabling MIG profiles on nodes, labeling profiles in **OpenShift AI**, and sizing **vLLM**/**NIM** deployments per instance memory. Reference architectures describe multi-tenant inference namespaces where each tenant receives a MIG slice rather than a full H100. Operators must plan profiles at node provisioning time (reboot may be required to change geometry) and align **KV cache** / model size with the instance’s fixed HBM quota.

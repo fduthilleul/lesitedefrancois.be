@@ -1,0 +1,12 @@
+---
+title: "Prefill"
+description: "The inference phase that processes the full input prompt in parallel—building the KV cache and dominating time-to-first-token—before autoregressive decode generates output tokens one by one."
+tags: ["ai", "prefill", "inference", "llm", "kv-cache", "vllm", "llm-d", "latency"]
+website: https://docs.vllm.ai/en/latest/serving/performance.html
+---
+
+**Prefill** is the first stage of **LLM inference** after a user (or **RAG** pipeline) submits a prompt: the model runs a forward pass over **all input tokens at once** (or in chunked blocks for very long contexts) to compute hidden states and populate the **KV cache** for every layer. Its objective is to prepare context the model will attend to during generation; the user-visible metric is often **time to first token (TTFT)**, which is dominated by prefill for long prompts. Prefill is **compute-intensive** (large matrix multiplies across the full sequence) compared with **decode**, which adds one token at a time. In chat, each new user message typically triggers a new prefill over the accumulated conversation (unless caching optimizations apply).
+
+Architecturally, prefill uses **GPU** tensor cores heavily; the **CPU** tokenizes text and submits batches to **vLLM** or **NIM**. Long prompts (big **RAG** retrievals, large system instructions) inflate prefill FLOPs and **VRAM** for the **KV cache** linearly with sequence length. **llm-d** can route requests to replicas with overlapping **prefix cache** so prefill work is skipped or shortened. **Disaggregated inference** assigns prefill to dedicated “prefill workers” and ships KV tensors to decode workers over **RDMA**, because prefill and decode have different optimal hardware profiles. A **CPU**-only server cannot prefill a large **LLM** at production speed; prefill is why context length and batching matter as much as decode tuning.
+
+**Red Hat** addresses prefill sizing in **OpenShift AI** and **llm-d** reference architectures: GPU memory for prompt + cache, network bandwidth for disaggregated KV transfer, and SLO dashboards for TTFT. **Guardrails** and input filters run before or around prefill, adding latency that must be budgeted. On **OpenShift**, horizontal scale adds replicas; **llm-d** improves per-cluster efficiency via cache-aware routing rather than only adding GPUs. Operators benchmark prefill separately from decode when tuning **vLLM** batch limits and **MIG** profiles.

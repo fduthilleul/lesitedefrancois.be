@@ -1,0 +1,12 @@
+---
+title: "RDMA (Remote Direct Memory Access)"
+description: "Network technology that lets one host read or write another's memory with minimal CPU involvement—used for distributed training, KV transfer in disaggregated inference, storage (NVMe-oF), and DPU offload."
+tags: ["ai", "rdma", "networking", "infiniband", "roce", "gpu", "dpu", "distributed-training"]
+website: https://docs.nvidia.com/networking/display/RDMAv
+---
+
+**RDMA (Remote Direct Memory Access)** allows a network adapter to transfer data between the memory of two machines with **little CPU overhead**, low latency, and often **kernel bypass** (userspace stacks such as **verbs** on InfiniBand or RoCE). Its objective in AI infrastructure is to keep **GPUs** fed and synchronized: **distributed training** exchanges gradients quickly, **disaggregated inference** (**llm-d**) moves **KV cache** blocks between prefill and decode nodes, and **NVMe-oF** storage delivers checkpoints without the host spending cycles copying every byte. **DPUs** and **SmartNICs** also use RDMA paths for storage and east-west traffic while the host CPU runs models.
+
+Architecturally, RDMA differs from plain TCP on a **CPU**-centric socket API: queues and memory regions are registered in advance; the NIC performs DMA after a one-sided or two-sided operation is posted. **InfiniBand** is RDMA-native; **RoCE** (RDMA over Converged Ethernet) carries RDMA on lossless Ethernet with **PFC/ECN** tuning. Without lossless fabric or correct switch config, RoCE performance collapses. RDMA is not a substitute for **NVLink** inside a server (GPU–GPU) but extends similar “remote memory” semantics across the cluster. Security and ops require partitioning (PKeys, VPC isolation), monitoring of retransmits, and coordination with **Kubernetes** CNI/multus where RDMA devices are passed through to pods.
+
+**Red Hat** supports RDMA on **RHEL** and **OpenShift** through drivers (Mellanox/NVIDIA ConnectX, etc.), **SR-IOV**, device plugins, and telco/cloud networking docs that overlap AI clusters. OpenShift AI and **llm-d** reference designs assume RDMA-capable networks for prefill/decode disaggregation and large-scale training. **DOCA** on **BlueField DPUs** exposes RDMA for offload scenarios. Customers enable RDMA in the same supported RHEL kernel and firmware matrix as other high-performance networking, with Red Hat handling platform integration while hardware vendors document topology and cable plans.

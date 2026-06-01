@@ -73,7 +73,13 @@
   weight = 1
 
 [[main]]
+  name = "AI"
+  parent = "Tech"
+  pageRef = "ai/index"
+  weight = 2
+
+[[main]]
   name = "Telco"
   parent = "Tech"
   pageRef = "telco/index"
-  weight = 2
+  weight = 3

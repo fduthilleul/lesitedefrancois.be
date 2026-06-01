@@ -1,0 +1,12 @@
+---
+title: "Fine-tuning / LoRA"
+description: "Adapting a pretrained LLM to a domain or task by updating weights—fully or via Low-Rank Adaptation (LoRA) adapters—on GPU clusters, with workflows on RHEL AI and OpenShift AI."
+tags: ["ai", "fine-tuning", "lora", "training", "llm", "peft", "openshift-ai", "rhel-ai"]
+website: https://huggingface.co/docs/peft/en/package_reference/lora
+---
+
+**Fine-tuning** is **training** continued from a pretrained **LLM** (or other model) on a smaller, task-specific dataset so behavior matches a domain—support tone, internal jargon, classification format, or tool-use style—without pretraining from scratch. **LoRA (Low-Rank Adaptation)** is a **parameter-efficient** fine-tuning method: instead of updating all billions of weights, small low-rank matrices are inserted into attention (and sometimes MLP) layers and only those adapters are trained, drastically cutting VRAM and checkpoint size. The objective is better task accuracy or alignment at lower cost than full fine-tuning; adapters can be swapped per tenant while a frozen base model stays shared. Fine-tuning differs from **RAG**, which injects external facts at inference time without changing weights.
+
+Architecturally, fine-tuning is **GPU**-bound like pretraining but uses smaller learning rates, shorter schedules, and often **BF16**/**FP8** mixed precision. The **CPU** runs dataloaders, tokenization, and checkpoint I/O. Full fine-tuning updates every parameter—feasible only for smaller models or large multi-GPU jobs. **LoRA** keeps the base weights fixed (or merged later), so one 70B base can serve many adapter files loaded by **vLLM** at **inference**. Compared with **inference** decode, fine-tuning runs forward *and* backward passes over many epochs; **NCCL** scales multi-GPU jobs. Poor data hygiene (PII, poisoned samples) embeds into weights—unlike RAG, mistakes are baked in until retrained.
+
+**Red Hat** offers **RHEL AI** with **InstructLab** for alignment-style fine-tuning and lab workflows on supported GPU **RHEL** nodes, and **OpenShift AI** for team-scale training jobs (notebooks, pipelines, distributed **PyTorch** on OpenShift). Documentation covers when to choose LoRA vs full fine-tuning vs RAG-only, storage for datasets and adapters, and promoting artifacts to **inference** (vLLM LoRA slots, custom serving images). Red Hat does not replace Hugging Face **PEFT** or PyTorch; it provides the supported Linux/Kubernetes substrate and curated paths for enterprise customers.

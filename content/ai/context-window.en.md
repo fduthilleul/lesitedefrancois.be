@@ -1,0 +1,12 @@
+---
+title: "Context window"
+description: "The maximum number of tokens (prompt plus generated output) an LLM can attend to in one session—fixed by architecture and VRAM, and a primary limit for RAG, agents, and long documents."
+tags: ["ai", "context-window", "llm", "tokens", "kv-cache", "inference", "rag"]
+website: https://huggingface.co/docs/transformers/main/en/model_doc/llama2#transformers.LlamaConfig.max_position_embeddings
+---
+
+The **context window** is the maximum span of tokens—input prompt plus model-generated output—that an **LLM** can process in a single forward pass chain without truncating or sliding attention. It is set by **model architecture** (positional encoding limit, e.g. 8K, 128K, 1M+ in newer models) and by practical **VRAM** on the serving **GPU**, because the **KV cache** scales with total sequence length. Its objective is to bound memory and compute: longer windows enable whole documents, multi-turn chat history, and large **RAG** payloads in one shot, but cost more on every **prefill** and **decode** step. APIs expose this as `max_tokens`, context limits, or model cards; exceeding it yields errors or silent truncation.
+
+Architecturally, context length is the bridge between user-facing features and hardware. A **CPU** can assemble a 200K-token string, but the **GPU** must store KV states for each layer × each token; beyond **context window**, frameworks drop middle sections (**sliding window** models), summarize, or fail. **RAG** often fights the window by retrieving only top-k chunks; **fine-tuning** does not extend window unless the architecture supports it (e.g. **YaRN**, rope scaling). **Quantization** frees VRAM so more tokens fit in the same window. **llm-d** prefix caching helps when many requests share the same long system prompt within the window. Window size is unrelated to training corpus size—it is an inference-time limit per request.
+
+**Red Hat** documents context planning on **OpenShift AI** and **RHEL AI**: matching model SKU (8K vs 128K) to use cases, GPU **HBM** sizing with **vLLM**/**NIM**, and **MIG** profiles too small for long-context models. **Guardrails** may reject oversize prompts before they hit the GPU. Reference architectures for **RAG** recommend chunking and reranking so retrieved text fits comfortably inside the window with room for the answer. Operators validate SLOs at worst-case prompt lengths, not only average chat size.

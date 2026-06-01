@@ -1,0 +1,12 @@
+---
+title: "MCP (Model Context Protocol)"
+description: "An open protocol for connecting LLM applications to tools, data sources, and services through standardized clients and servers—enabling agent workflows beyond plain chat completion APIs."
+tags: ["ai", "mcp", "agents", "llm", "tools", "integration", "api"]
+website: https://modelcontextprotocol.io/
+---
+
+**MCP (Model Context Protocol)** is an open standard for how **LLM applications** discover and invoke **tools**, read structured **resources**, and exchange **prompts** with external systems through MCP **servers** and **clients**. The objective is interchangeable integrations: instead of every chat product implementing bespoke plugins for Git, databases, or ticketing, a tool provider ships an MCP server and any compatible client (IDE, assistant, agent runtime) can use it with consistent auth and capability negotiation. MCP complements HTTP **inference** APIs—it sits at the orchestration layer where the model decides which tool to call, not inside **vLLM**’s token loop. It is widely associated with **agentic** workflows (multi-step plans, code execution, retrieval).
+
+Architecturally, MCP is **control-plane and I/O** heavy relative to **GPU** matmuls. The **CPU** runs the host application, MCP client library, and often local or remote MCP servers (stdio, SSE, or streamable HTTP transports). The **LLM** still runs on GPU via **vLLM**, cloud API, or **NIM**; MCP messages carry tool definitions, arguments, and results back into the prompt context. That increases **prefill** size and token cost versus single-shot chat. Security matters: tools equate to arbitrary code or data access, so enterprises pair MCP with policy, sandboxing, and identity—similar concerns to **RAG** connectors. MCP does not replace **Kubernetes** scheduling; it standardizes application wiring above the platform.
+
+**Red Hat** discusses MCP in the context of **AI agents** on **OpenShift** and **RHEL AI**—connecting models to cluster APIs, observability, and developer workflows without locking to one vendor IDE. Blog and documentation themes include operationalizing agents with the same **Linux**, **OpenShift** security (SCCs, routes, secrets), and **Guardrails**-style safety layers used for raw LLM serving. Red Hat does not own the protocol (Anthropic-originated, community ecosystem); the platform value is running MCP servers and inference backends on a supported, auditable stack customers already operate.

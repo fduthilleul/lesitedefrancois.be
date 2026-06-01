@@ -1,0 +1,12 @@
+---
+title: "Quantization"
+description: "Reducing numeric precision of model weights and activations (FP16, BF16, FP8, INT8, INT4) to cut VRAM and increase inference throughput—implemented in vLLM, TensorRT-LLM, and NIM with trade-offs in accuracy."
+tags: ["ai", "quantization", "fp8", "int8", "inference", "llm", "gpu", "nim", "vllm"]
+website: https://docs.vllm.ai/en/latest/features/quantization.html
+---
+
+**Quantization** is the process of representing a model’s **weights** and/or **activations** with fewer bits than full **FP32** training precision—commonly **FP16**, **BF16**, **FP8**, **INT8**, or **INT4** (GPTQ, AWQ, GGUF-style formats). The objective is lower **GPU memory** (larger models or more concurrent sessions per card), higher **throughput**, and sometimes faster kernels on hardware with native low-precision units, at the cost of possible quality degradation if pushed too aggressively. Quantization can be applied **post-training** (calibration on a sample dataset) or during **training** (quantization-aware training). For **inference**, serving engines **vLLM** and **NIM** load quantized checkpoints and dispatch to vendor libraries (TensorRT-LLM, CUTLASS, etc.) that implement fused low-precision matmuls.
+
+Architecturally, quantization changes the **memory/compute** balance on the accelerator, not the role of the **CPU**. Weights shrink (e.g. 70B FP16 → much less VRAM with INT4), so models that could not fit on one GPU may serve without tensor parallel sharding; decode may become more compute-bound on tensor cores supporting FP8. A **CPU** fallback for INT4 LLMs is generally impractical at useful speeds. Different schemes matter: **weight-only** vs **activation** quantization, per-channel scales, and dynamic vs static scales affect accuracy on reasoning and code tasks. Quantized models are not interchangeable binaries—each format requires matching runtime support in **CUDA**/**ROCm** stacks and the serving engine.
+
+**Red Hat** documents quantized **inference** on **OpenShift AI** and **RHEL** GPU nodes: validated driver stacks, container images with **vLLM** or **NVIDIA NIM**, and capacity guidance (how many users per GPU at FP8 vs FP16). Red Hat does not define a proprietary quant format; customers use Hugging Face–published AWQ/GPTQ models or vendor NIMs with pre-quantized artifacts. Platform teams treat quantization as a **release and test** decision—benchmark perplexity and task accuracy after quant—within the same GitOps and model-promotion workflows as full-precision deployments.

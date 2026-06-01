@@ -1,0 +1,12 @@
+---
+title: "cuDNN (CUDA Deep Neural Network library)"
+description: "NVIDIA's GPU-accelerated library of primitives for deep learning—convolutions, attention, normalization, and RNN ops—used by PyTorch, TensorRT, and inference runtimes on top of CUDA."
+tags: ["ai", "cudnn", "nvidia", "cuda", "gpu", "deep-learning", "inference", "training"]
+website: https://developer.nvidia.com/cudnn
+---
+
+**cuDNN (CUDA Deep Neural Network library)** is NVIDIA’s library of highly optimized **GPU kernels** for operations that dominate deep learning: convolutions, matrix multiplies used in attention, pooling, normalization (batch/layer), activations, and recurrent cells. Its objective is to deliver near-peak performance on **CUDA**-capable GPUs without every framework author hand-writing assembly-tuned kernels. **PyTorch**, TensorFlow, and many **inference** engines call cuDNN (directly or via cuBLAS) under the hood for training and serving. cuDNN sits between raw **CUDA** and application code; version alignment with the CUDA toolkit and driver is mandatory for supported deployments.
+
+Architecturally, cuDNN targets **GPU** execution only: the **CPU** submits operator descriptors (tensor layouts, dtypes, algorithm choices such as Winograd vs implicit GEMM for convolutions) and cuDNN selects or autotunes implementations on the device. Compared with naive CUDA loops, cuDNN exploits tensor cores, fusion opportunities, and memory layout (NCHW vs NHWC) for **FP16**, **BF16**, and **FP8** where supported. It is not an alternative to **NCCL** (collectives across GPUs) or **TensorRT** (full-graph inference compilation)—it provides **building blocks**. On AMD hardware, **ROCm** uses MIOpen instead; cuDNN is NVIDIA-specific. LLM stacks increasingly lean on custom attention kernels, but cuDNN and cuBLAS still underpin many layers and legacy CV/NLP paths inside unified frameworks.
+
+**Red Hat** supports cuDNN indirectly through validated **RHEL** stacks with NVIDIA drivers and CUDA/cuDNN versions listed in release notes for **OpenShift AI**, GPU workloads, and partner matrices. Containers for **NIM**, **vLLM**, and PyTorch training images pull cuDNN-bearing layers from NVIDIA or framework publishers; Red Hat documents compatible driver/CUDA combinations on certified GPU servers rather than shipping cuDNN as a separate product. Operators treat cuDNN like any CUDA dependency: pin versions in images, test upgrades on staging clusters, and align subscription support with NVIDIA’s and Red Hat’s joint hardware guidance.

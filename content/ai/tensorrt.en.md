@@ -1,0 +1,12 @@
+---
+title: "TensorRT"
+description: "NVIDIA's SDK for optimizing and deploying trained models on GPUs—graph fusion, precision calibration, and kernel autotuning—often powering NIM and high-performance LLM inference backends."
+tags: ["ai", "tensorrt", "nvidia", "inference", "optimization", "nim", "gpu", "tensorrt-llm"]
+website: https://developer.nvidia.com/tensorrt
+---
+
+**TensorRT** is NVIDIA’s SDK for **optimizing and deploying** trained neural networks for **inference** on NVIDIA **GPUs**. Its objective is minimum latency and maximum throughput: it ingests a model (ONNX, TensorFlow, PyTorch export, or framework-specific parsers), applies graph optimizations (layer fusion, constant folding, kernel autotuning), selects precisions (**FP32**, **FP16**, **INT8**, **FP8**), and produces a **serialized engine** executed by a lightweight runtime. For LLMs, **TensorRT-LLM** extends this with attention-specific fusions, inflight batching, and multi-GPU serving patterns; many **NIM** microservices bundle TensorRT-LLM–optimized engines rather than raw PyTorch loops.
+
+Architecturally, TensorRT shifts work from interpretive framework execution on the **CPU** orchestrating many small GPU kernels to a **compiled plan** tuned for specific GPU SKUs and batch shapes. Build time can be minutes (engine compilation is shape- and profile-sensitive); runtime is fast but less flexible than **vLLM**’s fully dynamic Python path unless built with dynamic shape profiles. Compared with **cuDNN** alone (operator library), TensorRT owns the **whole graph** and memory scheduling. Compared with **CPU** inference, TensorRT still requires GPU VRAM for weights and **KV cache**; optimizations do not remove LLM memory laws. Rebuilding engines is required when models, GPUs, or precision policies change.
+
+**Red Hat** customers deploy TensorRT inside **NVIDIA NIM** containers and partner images on **OpenShift AI** and **RHEL** GPU nodes—Red Hat supports the platform (Kubernetes, drivers, security), while NVIDIA maintains TensorRT releases tied to CUDA versions. Documentation describes running NIM and validated inference stacks on OpenShift with GPU operators and **MIG** sizing. Teams choosing TensorRT/NIM trade some openness (versus open **vLLM**) for vendor-tuned performance; Red Hat reference architectures often present both paths on the same **OpenShift** cluster for different SLAs and compliance needs.
