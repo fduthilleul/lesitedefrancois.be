@@ -1,11 +1,15 @@
 {{ define "main" }}
 
+{{ $az := "ABCDEFGHIJKLMNOPQRSTUVWXYZ" }}
+
 {{ $topics := where (where .Site.RegularPages "Section" .Section) "Params.layout" "ne" "list" }}
 {{ $topicEntries := slice }}
 {{ range $topics }}
+  {{ $first := upper (substr .Title 0 1) }}
+  {{ $indexLetter := cond (strings.Contains $az $first) $first "#" }}
   {{ $topicEntries = $topicEntries | append (dict
     "id" .File.UniqueID
-    "letter" (upper (substr .Title 0 1))
+    "letter" $indexLetter
     "title" .Title
     "tags" (.Params.tags | default slice)
   ) }}
@@ -150,14 +154,15 @@
 
     <p style="font-size:11px;font-weight:700;letter-spacing:.1em;color:#888;margin-bottom:1rem;">A–Z INDEX</p>
 
-    {{/* A–Z grid */}}
+    {{/* A–Z grid + # bucket (non-alphabetic titles) */}}
     <div id="az-grid" style="display:grid;grid-template-columns:repeat(6,1fr);gap:4px;margin-bottom:1.5rem;">
       {{ $letters := slice "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" }}
       {{ range $letters }}
         {{ $l := . }}
         {{ $has := false }}
         {{ range $topics }}
-          {{ if eq (upper (substr .Title 0 1)) $l }}{{ $has = true }}{{ end }}
+          {{ $first := upper (substr .Title 0 1) }}
+          {{ if and (strings.Contains $az $first) (eq $first $l) }}{{ $has = true }}{{ end }}
         {{ end }}
         <button
           type="button"
@@ -168,6 +173,19 @@
           {{ $l }}
         </button>
       {{ end }}
+      {{ $hasHash := false }}
+      {{ range $topics }}
+        {{ $first := upper (substr .Title 0 1) }}
+        {{ if not (strings.Contains $az $first) }}{{ $hasHash = true }}{{ end }}
+      {{ end }}
+      <button
+        type="button"
+        class="az-btn"
+        onclick="selectLetter('#')"
+        id="az-hash"
+        {{ if not $hasHash }}disabled{{ end }}>
+        #
+      </button>
     </div>
 
     {{/* Filter indicator */}}
@@ -180,8 +198,10 @@
 
     <ul id="topic-ul" style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:2px;">
       {{ range $topics }}
+      {{ $first := upper (substr .Title 0 1) }}
+      {{ $indexLetter := cond (strings.Contains $az $first) $first "#" }}
       <li
-        data-letter="{{ upper (substr .Title 0 1) }}"
+        data-letter="{{ $indexLetter }}"
         data-id="{{ .File.UniqueID }}"
         data-tags="{{ delimit .Params.tags "," }}"
         onclick="selectTopic('{{ .File.UniqueID }}')"
@@ -204,7 +224,8 @@
 
     {{ range $topics }}
     {{ $uid := .File.UniqueID }}
-    {{ $letter := upper (substr .Title 0 1) }}
+    {{ $first := upper (substr .Title 0 1) }}
+    {{ $letter := cond (strings.Contains $az $first) $first "#" }}
     <div id="detail-{{ $uid }}" style="display:none;">
 
       <button type="button" class="technos-index__back" onclick="backToIndex()">
@@ -299,6 +320,10 @@ function loadTopics() {
 
 const topics = loadTopics();
 
+function letterButtonId(l) {
+  return l === '#' ? 'az-hash' : 'az-' + l;
+}
+
 function topicTags(topic) {
   return Array.isArray(topic.tags) ? topic.tags : [];
 }
@@ -362,7 +387,7 @@ function selectLetter(l) {
     btn.style.border     = '1px solid transparent';
     btn.style.fontWeight = '500';
   });
-  const ab = document.getElementById('az-' + l);
+  const ab = document.getElementById(letterButtonId(l));
   if (ab) { ab.style.background = '#fff'; ab.style.border = '1px solid #ccc'; ab.style.fontWeight = '700'; }
 
   document.getElementById('under-label').textContent = 'UNDER ' + l;
