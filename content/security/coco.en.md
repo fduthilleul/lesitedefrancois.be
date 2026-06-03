@@ -18,4 +18,5 @@ Attestation and secret delivery are handled by **Trustee**, CoCo's attestation s
 - [Use cases and ecosystem for OpenShift confidential containers](https://www.redhat.com/en/blog/use-cases-and-ecosystem-openshift-confidential-containers) (Sep 8, 2024)
 - [Secure AI inferencing: POC with NVIDIA NIM on CoCo with OpenShift AI](https://www.redhat.com/en/blog/secure-ai-inferencing-poc-nvidia-nim-coco-openshift-ai) (Mar 18, 2025)
 - [Deploy sensitive workloads with OpenShift confidential containers](https://www.redhat.com/en/blog/deploy-sensitive-workloads-with-openshift-confidential-containers) (Jul 30, 2025)
+- [Red Hat OpenShift sandboxed containers 1.12 and Red Hat build of Trustee 1.1 bring confidential computing to bare metal and AI workloads](https://www.redhat.com/en/blog/red-hat-openshift-sandboxed-containers-112-and-red-hat-build-trustee-11-bring-confidential-computing-bare-metal-and-ai-workloads) (Apr 13,2026)
 - [Confidential Containers workshop on Microsoft Azure Red Hat OpenShift: Learn interactively](https://www.redhat.com/en/blog/confidential-containers-workshop-microsoft-azure-red-hat-openshift-learn-interactively) (Apr 17, 2026)

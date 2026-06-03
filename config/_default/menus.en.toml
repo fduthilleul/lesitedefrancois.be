@@ -67,19 +67,19 @@
   weight = 30
 
 [[main]]
-  name = "Security"
-  parent = "Tech"
-  pageRef = "security/index"
-  weight = 1
-
-[[main]]
   name = "AI"
   parent = "Tech"
   pageRef = "ai/index"
-  weight = 2
+  weight = 1
 
 [[main]]
   name = "Telco"
   parent = "Tech"
   pageRef = "telco/index"
+  weight = 2
+
+  [[main]]
+  name = "Security"
+  parent = "Tech"
+  pageRef = "security/index"
   weight = 3

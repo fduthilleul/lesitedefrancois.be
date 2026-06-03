@@ -15,4 +15,5 @@ The other defining property of a CVM is **attestability**: the TEE hardware can 
 
 - [Confidential computing use cases](https://www.redhat.com/en/blog/confidential-computing-use-cases) (May 16, 2023)
 - [Introduction to confidential virtual machines](https://www.redhat.com/en/blog/introduction-confidential-virtual-machines) (June 8, 2023)
+- [Confidential virtual machines versus VMs: Latency analysis](https://developers.redhat.com/articles/2025/07/28/confidential-virtual-machines-versus-vms-latency-analysis#) (Jul 28, 2026)
 - [Confidential VMs: The core of confidential containers](https://developers.redhat.com/articles/2025/09/15/confidential-vms-core-confidential-containers) (Sep 15, 2025)
