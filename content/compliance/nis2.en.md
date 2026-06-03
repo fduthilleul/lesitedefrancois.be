@@ -14,3 +14,4 @@ Red Hat is not itself a "NIS2 entity" in the direct sense — it is a software v
 - [Red Hat Statement on NIS2 Compliance](https://access.redhat.com/articles/rh_statement_nis2compliance)
 - [Red Hat Strategic Approach to Compliance, Sovereignty, and Lifecycle](https://access.redhat.com/security/strategic-approach-compliance)
 - [NIS2 Directive - European Commission](https://digital-strategy.ec.europa.eu/en/policies/nis2-directive)
+- [ANSSI & NIS2](https://cyber.gouv.fr/reglementation/cybersecurite-systemes-dinformation/directives-nis-nis2-et-dispositif-saiv/directive-nis-2/)
