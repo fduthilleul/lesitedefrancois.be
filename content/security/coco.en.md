@@ -1,5 +1,5 @@
 ---
-title: "CoCo (Confidential Containers)"
+title: "Confidential Containers (CoCo)"
 description: "A CNCF project that brings hardware-backed confidential computing to Kubernetes, wrapping each pod in a TEE and treating the Kubernetes control plane itself as untrusted."
 tags: ["security", "confidential-computing", "kubernetes", "attestation", "containers", "cncf"]
 website: https://confidentialcontainers.org

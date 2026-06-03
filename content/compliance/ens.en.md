@@ -14,3 +14,4 @@ Red Hat software is deployed across Spanish public administration and the privat
 - [ENS - Administración Electrónica](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Seguridad_Inicio/pae_Esquema_Nacional_de_Seguridad.html)
 - [Real Decreto 311/2022 - BOE](https://boe.es/buscar/doc.php?id=BOE-A-2022-7191)
 - [CCN-STIC 808 - Verification Guide](https://www.ccn-cert.cni.es/es/800-guia-esquema-nacional-de-seguridad/518-ccn-stic-808-verificacion-del-cumplimiento-de-las-medidas-en-el-ens/file.html)
+- [Strengthening Spain's digital sovereignty: Red Hat Enterprise Linux achieves top-tier ENS security certification](https://www.redhat.com/en/blog/strengthening-spains-digital-sovereignty-red-hat-enterprise-linux-achieves-top-tier-ens-security-certification) (Mar 30, 2026)
