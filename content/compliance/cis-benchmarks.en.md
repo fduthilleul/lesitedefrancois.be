@@ -1,0 +1,17 @@
+---
+title: "CIS Benchmarks"
+description: "CIS Benchmarks are consensus-based, prescriptive security configuration guidelines published by the Center for Internet Security for operating systems, cloud platforms, containers, and network devices, widely used as hardening baselines."
+tags: ["compliance", "cis", "hardening", "configuration", "international"]
+website: https://www.cisecurity.org/cis-benchmarks
+---
+
+**CIS Benchmarks** are detailed, prescriptive security configuration guidelines published by the **Center for Internet Security (CIS)**, a US-based non-profit organization. They are developed through a consensus process involving cybersecurity practitioners, vendors, and government agencies, and cover over 100 technology families — operating systems (Linux, Windows, macOS), cloud platforms (AWS, Azure, GCP), container orchestrators (Kubernetes, Docker), databases, web servers, and network devices. CIS Benchmarks are **international** in applicability — they are not tied to any single jurisdiction — and are referenced by regulatory frameworks worldwide (NIST, PCI-DSS, HIPAA, FedRAMP, NIS2 national implementations). Each benchmark provides two recommendation levels: **Level 1** (practical hardening that does not significantly impact functionality) and **Level 2** (defense-in-depth settings for high-security environments). CIS Benchmarks are **voluntary** — no law mandates CIS compliance directly — but they are frequently required by procurement contracts, industry standards, and as evidence of "reasonable security measures" in regulatory audits. The CIS also offers **CIS Controls** (formerly the SANS Top 20), a prioritized set of cybersecurity best practices, and the **CIS Hardened Images** program for pre-configured virtual machine images.
+
+Red Hat has a deep, official relationship with CIS Benchmarks. The **CIS Red Hat Enterprise Linux Benchmark** is one of the most widely deployed CIS profiles in enterprise environments, and Red Hat ships SCAP (Security Content Automation Protocol) content that automates assessment against CIS recommendations directly within RHEL using `oscap`. For OpenShift, the **CIS OpenShift Container Platform Benchmark** (currently v1.9.0) is natively supported by the **Compliance Operator**, which can scan cluster nodes and the Kubernetes API against CIS profiles (`ocp4-cis`, `ocp4-cis-node`), report findings, and auto-remediate non-compliant settings. Red Hat also publishes **CIS Hardened Images** for RHEL on AWS, Azure, and GCP marketplaces — pre-built virtual machine images that ship already configured to CIS Level 1 or Level 2 specifications. The practical value for customers is that CIS compliance is not an afterthought but an integrated, automatable property of the platform: a new OpenShift cluster can be scanned against CIS benchmarks within minutes of deployment, drift is continuously monitored, and remediation is applied declaratively through the operator lifecycle — reducing what was traditionally weeks of manual hardening work to a policy-as-code workflow.
+
+## Additional Information
+
+- [CIS Benchmarks - Official](https://www.cisecurity.org/cis-benchmarks)
+- [CIS RHEL Benchmark](https://www.cisecurity.org/benchmark/red_hat_linux)
+- [OpenShift Compliance Operator - CIS profiles](https://docs.redhat.com/en/documentation/openshift_container_platform/4.17/html/security_and_compliance/compliance-operator)
+- [Red Hat CIS Hardened Images](https://www.redhat.com/en/partners/cis)

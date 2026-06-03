@@ -78,8 +78,14 @@
   url = "/en/telco/"
   weight = 2
 
-  [[main]]
+[[main]]
   name = "Security"
   parent = "Tech"
   url = "/en/security/"
   weight = 3
+
+[[main]]
+  name = "Compliance"
+  parent = "Tech"
+  url = "/en/compliance/"
+  weight = 4

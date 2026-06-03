@@ -78,8 +78,14 @@
   pageRef = "telco/index"
   weight = 2
 
-  [[main]]
+[[main]]
   name = "Security"
   parent = "Tech"
   pageRef = "security/index"
   weight = 3
+
+[[main]]
+  name = "Compliance"
+  parent = "Tech"
+  pageRef = "compliance/index"
+  weight = 4
