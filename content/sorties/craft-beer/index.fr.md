@@ -33,7 +33,7 @@ Brasserie artisanale fondée en 2019 à Gatineau, au Québec. Spécialisée dans
 
 ### Messorem (2017) — Montréal, QC {.brewery}
 
-Fondée en 2017 à Montréal, Messorem Bracitorium (du latin « le moissonneur ») est une brasserie artisanale culte spécialisée dans les IPA, DIPA et TIPA. Connue pour sa série Temporalis et ses can arts distinctifs, c'est une référence incontournable de la scène craft québécoise.
+Fondée en 2017 à Montréal, Messorem Bracitorium (du latin « le moissonneur ») est une brasserie artisanale culte spécialisée dans les IPA, DIPA et TIPA. Connue pour sa série Temporalis et ses can arts distinctifs, c'est une référence incontournable de la scène craft québécoise et ma brasserie préférée.
 
 - **Site :** [https://www.messorem.co](https://www.messorem.co)
 
