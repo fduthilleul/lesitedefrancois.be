@@ -32,8 +32,8 @@ smartTOC = true
   layoutBackgroundBlur = false
 
 [article]
-  showDate = true
-  showDateOnlyInArticle = true
+  showDate = false
+  showDateOnlyInArticle = false
   showAuthor = false
   showHero = true
   heroStyle = "big"

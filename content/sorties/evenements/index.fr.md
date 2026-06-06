@@ -142,3 +142,23 @@ Cinq jours de musique éclectique dans le Hainaut — hip-hop, électro, rock, r
 **Période :** Mi-juillet (16-19 juillet 2026)
 **Ouverture des réservations :** Printemps
 {{< /coffee-shop >}}
+
+## 🌷 Keukenhof
+
+{{< coffee-shop location="Stationsweg 166A, 2161 AM Lisse, Pays-Bas" url="https://keukenhof.nl/en/" >}}
+Le plus célèbre jardin de tulipes au monde : 32 hectares, 7 millions de bulbes en fleurs, pavillons thématiques (orchidées, lys), jardins d'inspiration et le Bloemencorso (corso fleuri de Noordwijk à Haarlem, le 18 avril). L'exposition florale est installée au cœur du domaine historique de Keukenhof (260 ha, 16 monuments classés) dont le jardin paysager anglais date de 1857. Une expérience visuelle et olfactive unique au printemps.
+
+**Période :** 19 mars – 10 mai 2026 (tous les jours, 8h–19h)
+**Réservation :** Obligatoire en ligne — jauge quotidienne limitée, prévoir à l'avance pour le Bloemencorso (18 avril), Pâques et Koningsdag (27 avril)
+**Depuis la Belgique :** ~2h de route depuis Bruxelles
+{{< /coffee-shop >}}
+
+## 🎭 Festival d'Avignon
+
+{{< coffee-shop location="Palais des Papes & 40+ lieux, 84000 Avignon" url="https://festival-avignon.com/" >}}
+Le plus grand festival de théâtre et arts vivants au monde — 80e édition en 2026. La Cour d'Honneur du Palais des Papes se transforme en théâtre sous les étoiles. Le Festival IN propose ~42 productions dans 40 lieux (théâtre, danse contemporaine, performances interdisciplinaires), tandis que le Festival OFF explose avec plus de 1.000 spectacles indépendants dans 140+ lieux — des grandes scènes aux cours intérieures et coins de rue inattendus. Focus 2026 : les arts de la scène coréens.
+
+**Période :** 4-25 juillet 2026
+**Ouverture des réservations :** Juin — les places en Cour d'Honneur partent très vite
+**Bon à savoir :** Festival IN + Festival OFF en simultané (rare), créant une effervescence unique dans toute la ville
+{{< /coffee-shop >}}
