@@ -23,3 +23,4 @@ Attestation and secret delivery are handled by **Trustee**, CoCo's attestation s
 - [Red Hat OpenShift sandboxed containers 1.12 and Red Hat build of Trustee 1.1 bring confidential computing to bare metal and AI workloads](https://www.redhat.com/en/blog/red-hat-openshift-sandboxed-containers-112-and-red-hat-build-trustee-11-bring-confidential-computing-bare-metal-and-ai-workloads) (Apr 13,2026)
 - [Confidential Containers workshop on Microsoft Azure Red Hat OpenShift: Learn interactively](https://www.redhat.com/en/blog/confidential-containers-workshop-microsoft-azure-red-hat-openshift-learn-interactively) (Apr 17, 2026)
 - [An overview of confidential containers on OpenShift bare metal](https://developers.redhat.com/articles/2026/06/04/overview-confidential-containers-openshift-bare-metal) (Jun 4, 2026)
+- [Deploying confidential containers](https://docs.redhat.com/en/documentation/openshift_sandboxed_containers/latest/#Deploying%20confidential%20containers)

@@ -1,9 +1,8 @@
 {{ $name := .Get "name" }}
-{{ if not $name }}{{ errorf "coffee-shop: name is required" }}{{ end }}
 {{ $address := .Get "address" | default (.Get "location") }}
 {{ $url := .Get "url" }}
 {{ $image := .Get "image" }}
-{{ $anchor := anchorize $name }}
+{{ $anchor := cond (ne $name "") (anchorize $name) "" }}
 {{ $isFr := eq .Page.Lang "fr" }}
 {{ $btnLabel := cond $isFr "Site web" "Website" }}
 {{ $disableImageOptimization := .Site.Params.disableImageOptimization | default false }}
@@ -63,10 +62,12 @@
 {{ end }}
 
 <div class="not-prose coffee-shop-card my-10 rounded-2xl p-8">
+  {{ with $name }}
   <h3 class="brewery relative group mt-0 mb-4 text-3xl font-bold leading-tight text-neutral-800">
-    {{ $name }}
+    {{ . }}
     <div id="{{ $anchor }}" class="anchor"></div>
   </h3>
+  {{ end }}
 
   {{ with $desc }}
     <div class="coffee-shop-content mb-4 max-w-prose text-base leading-relaxed text-neutral-700">
@@ -103,7 +104,7 @@
           <img
             class="my-0 max-h-96 object-contain mx-auto rounded-2xl"
             src="{{ $resource.RelPermalink }}"
-            alt="{{ $name }}"
+            alt="{{ with $name }}{{ . }}{{ else }}image{{ end }}"
             loading="lazy"
             decoding="async" />
         {{ else }}
@@ -111,7 +112,7 @@
           <img
             class="my-0 max-h-96 object-contain mx-auto rounded-2xl"
             src="{{ $img.RelPermalink }}"
-            alt="{{ $name }}"
+            alt="{{ with $name }}{{ . }}{{ else }}image{{ end }}"
             width="{{ $img.Width }}"
             height="{{ $img.Height }}"
             loading="lazy"

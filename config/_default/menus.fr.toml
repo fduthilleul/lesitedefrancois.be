@@ -50,16 +50,22 @@
   weight = 3
 
 [[main]]
+  name = "Événements"
+  parent = "Sorties"
+  pageRef = "sorties/evenements"
+  weight = 4
+
+[[main]]
   name = "Bières Artisanales"
   parent = "Sorties"
   pageRef = "sorties/craft-beer"
-  weight = 4
+  weight = 5
 
 [[main]]
   name = "Café de spécialité"
   parent = "Sorties"
   pageRef = "sorties/cafe-de-specialite"
-  weight = 5
+  weight = 6
 
 [[main]]
   name = "Tech"
