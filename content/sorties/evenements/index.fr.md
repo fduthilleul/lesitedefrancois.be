@@ -62,8 +62,8 @@ Chaque été, le parc du Château de Rixensart se transforme en théâtre en ple
 
 ## 🌙 Nocturnes du Château de Beloeil
 
-{{< coffee-shop location="Château de Beloeil, Rue du Château 11, 7970 Beloeil" url="https://www.chateaudebeloeil.com/" >}}
-Spectacle son et lumière grandiose dans les jardins à la française du Château de Beloeil (le "Versailles belge"). Chaque été, une nouvelle production théâtrale en plein air — avec cascades, effets pyrotechniques et mise en scène monumentale — est présentée sur le miroir d'eau du parc. En 2025 : *Le Livre de la Jungle*. Une soirée magique à vivre en famille ou entre amis, à combiner avec un pique-nique dans les jardins avant le spectacle.
+{{< coffee-shop location="Château de Beloeil, Rue du Château 11, 7970 Beloeil" url="https://www.nocturnales.be/spectacles/" >}}
+Spectacle son et lumière grandiose dans les jardins à la française du Château de Beloeil (le "Versailles belge"). Chaque été, une nouvelle production théâtrale en plein air — avec cascades, effets pyrotechniques et mise en scène monumentale — est présentée sur le miroir d'eau du parc. En 2026 : *Le Livre de la Jungle*. Une soirée magique à vivre en famille ou entre amis, à combiner avec un pique-nique dans les jardins avant le spectacle.
 
 **Période :** Été (généralement août, plusieurs représentations)
 **Ouverture des réservations :** Printemps — les meilleures places partent vite

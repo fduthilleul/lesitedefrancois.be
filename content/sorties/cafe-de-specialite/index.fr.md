@@ -56,6 +56,10 @@ Torréfacteur contemporain bruxellois qui source, torréfie et sert des cafés d
 Institution lilloise depuis 2013 : espresso bar, salon de thé et torréfacteur artisanal certifié bio (Ludovic Fiers). Petits-déjeuners, brunchs du samedi, pâtisseries maison, matcha et chocolats chauds dans un coffee shop cosy du centre-ville.
 {{< /coffee-shop >}}
 
+{{< coffee-shop name="Liperli" location="33 Rue de Douai, 75009 Paris" url="https://liperli.fr/" image="images/liperli.jpeg" >}}
+Torréfacteur de café de spécialité parisien ouvert depuis septembre 2023, niché dans le 9e arrondissement. Liperli sélectionne exclusivement des cafés scorés au-dessus de 84 SCA, torréfiés sur place, et propose régulièrement des micro-lots et nano-lots éphémères impossibles à reproduire. Machine Kees van der Westen pour des espressos précis, extractions douces (V60) et boissons créatives. Ambiance chaleureuse, sélection musicale soignée et pâtisseries artisanales — un vrai coup de cœur.
+{{< /coffee-shop >}}
+
 ## 🇨🇦 Canada
 
 {{< coffee-shop name="Café Différance" location="449 Avenue Viger Ouest, Montréal" url="https://www.instagram.com/cafedifferance/" >}}
