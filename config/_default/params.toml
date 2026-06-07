@@ -13,6 +13,7 @@ mainSections = ["voyages", "sorties", "divers"]
 disableImageOptimization = false
 highlightCurrentMenuArea = true
 smartTOC = true
+smartTOCHideUnfocusedChildren = true
 
 [header]
   layout = "fixed"
