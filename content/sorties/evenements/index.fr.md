@@ -253,7 +253,7 @@ Chaque été, le Palais Royal — résidence administrative et lieu de travail d
 **Réservation :** Obligatoire en ligne (même pour les entrées gratuites) — ouverture le 1er juin
 {{< /coffee-shop >}}
 
-## Août (4)
+## Août (7)
 
 ### 🌸 Tapis de Fleurs de Bruxelles
 
@@ -297,6 +297,42 @@ Spectacle-promenade musical unique dans les ruines de l'abbaye de Villers-la-Vil
 **Ouverture des réservations :** Printemps — réservation obligatoire (assurance météo disponible)
 
 **Durée :** ~6h de spectacle-promenade
+{{< /coffee-shop >}}
+
+### 🎶 Ronquières Festival
+
+{{< coffee-shop location="Plan Incliné de Ronquières, Braine-le-Comte" url="https://ronquieresfestival.be/" >}}
+Festival de musique au pied de l'impressionnant Plan Incliné de Ronquières — un cadre unique en Belgique où les concerts sont rythmés par le passage des péniches. Trois scènes (Tribord, Colline, Babord Club) et un espace couvert de 10.000 m² pour 3 jours de pop, rock, électro et chanson française. Après 13 éditions et 450.000 festivaliers, le Ronquières Festival s'est imposé comme une référence de l'été belge — nommé aux European Festival Awards. Parkings gratuits avec navettes, accessible en train (gare de Braine-le-Comte).
+
+**Période :** 7-9 août 2026
+
+**Tarifs :** 69 € la journée / 159 € le pass 3 jours
+
+**Ouverture des réservations :** Janvier — tarif résident disponible à l'Office du Tourisme de Braine-le-Comte
+{{< /coffee-shop >}}
+
+### 🎪 Festival de Chassepierre
+
+{{< coffee-shop location="Chassepierre, 6824 Florenville (Gaume)" url="https://www.chassepierre.be/" >}}
+Le plus ancien festival d'arts de la rue en Europe — un rendez-vous incontournable depuis plus de 45 ans dans le petit village gaumais de 200 âmes, entre Orval et Bouillon. Quelque 50 compagnies professionnelles venues du monde entier investissent les rues, champs, places et berges de la Semois pour des spectacles de théâtre, cirque, danse, musique, marionnettes et arts plastiques. Ambiance familiale, marché artisanal et agroalimentaire, pieds dans l'herbe ou dans l'eau de la rivière.
+
+**Période :** 15-16 août 2026
+
+**Accès :** Payant — billetterie en ligne
+
+**Ambiance :** Familiale, en plein air
+{{< /coffee-shop >}}
+
+### 🎸 Pukkelpop
+
+{{< coffee-shop location="Kempische Steenweg, Kiewit (Hasselt)" url="https://www.pukkelpop.be/" >}}
+L'un des plus grands festivals de musique de Belgique — 4 jours de rock, indie, électro, hip-hop et metal à Kiewit (Hasselt). Line-up international de premier plan (Tyler the Creator, Florence + The Machine, Deftones, Soulwax, Turnstile…) sur plusieurs scènes dans un cadre boisé. Ambiance jeune et éclectique, camping festif et transports en commun inclus dans le ticket (train SNCB). Combi tickets sold out en quelques heures chaque année.
+
+**Période :** 20-23 août 2026
+
+**Tarifs :** 134 € la journée / combi sold out — VIP 225 €/jour
+
+**Ouverture des réservations :** Février — inscription préalable recommandée
 {{< /coffee-shop >}}
 
 ## Novembre – Janvier (2)

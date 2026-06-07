@@ -46,7 +46,7 @@
 [[main]]
   name = "Theatre"
   parent = "Outings"
-  pageRef = "sorties/theatres-de-paris"
+  pageRef = "sorties/theatre"
   weight = 3
 
 [[main]]
@@ -56,10 +56,16 @@
   weight = 4
 
 [[main]]
+  name = "Parks"
+  parent = "Outings"
+  pageRef = "sorties/parcs"
+  weight = 5
+
+[[main]]
   name = "Craft Beer"
   parent = "Outings"
   pageRef = "sorties/craft-beer"
-  weight = 5
+  weight = 6
 
 [[main]]
   name = "Speciality Coffee"
