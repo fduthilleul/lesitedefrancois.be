@@ -5,7 +5,6 @@
 
 [[main]]
   name = "Voyages"
-  pageRef = "voyages"
   weight = 10
 
 [[main]]
@@ -28,7 +27,6 @@
 
 [[main]]
   name = "Sorties"
-  pageRef = "sorties"
   weight = 20
 
 [[main]]
@@ -38,44 +36,31 @@
   weight = 1
 
 [[main]]
-  name = "Resto"
-  parent = "Sorties"
-  pageRef = "sorties/resto"
-  weight = 2
-
-[[main]]
   name = "Théâtre"
   parent = "Sorties"
   pageRef = "sorties/theatre"
-  weight = 3
+  weight = 2
 
 [[main]]
   name = "Événements"
   parent = "Sorties"
   pageRef = "sorties/evenements"
-  weight = 4
+  weight = 3
 
 [[main]]
   name = "Parcs"
   parent = "Sorties"
   pageRef = "sorties/parcs"
+  weight = 4
+
+[[main]]
+  name = "Boire & Manger"
+  parent = "Sorties"
+  pageRef = "sorties/boire-manger"
   weight = 5
 
 [[main]]
-  name = "Bières Artisanales"
-  parent = "Sorties"
-  pageRef = "sorties/craft-beer"
-  weight = 6
-
-[[main]]
-  name = "Café de spécialité"
-  parent = "Sorties"
-  pageRef = "sorties/cafe-de-specialite"
-  weight = 7
-
-[[main]]
   name = "Tech"
-  url = "/en/security/"
   weight = 30
 
 [[main]]

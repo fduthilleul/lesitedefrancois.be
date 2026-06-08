@@ -68,6 +68,11 @@
   {{ range .Site.Menus.main }}
     {{ $submenuId := printf "fullscreen-submenu-%s" (.Identifier | default .Name | anchorize) }}
     <div class="px-2">
+      {{ if and .HasChildren (not .URL) }}
+      <div
+        {{ with or .Name .Pre }}aria-label="{{ . }}"{{ end }}
+        class="flex items-center gap-4 group text-neutral-700 dark:text-neutral-200">
+      {{ else }}
       <a
         href="{{ .URL }}"
         {{ with or .Name .Pre }}aria-label="{{ . }}"{{ end }}
@@ -75,6 +80,7 @@
           target="_blank"
         {{ end }}
         class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+      {{ end }}
         {{ if .Pre }}
           <span class="flex items-center justify-center h-8 w-8 text-2xl">
             {{ partial "icon.html" .Pre }}
@@ -90,7 +96,11 @@
             {{ partial "icon.html" "chevron-down" }}
           </label>
         {{ end }}
+      {{ if and .HasChildren (not .URL) }}
+      </div>
+      {{ else }}
       </a>
+      {{ end }}
 
       {{ if .HasChildren }}
         <input checked type="checkbox" id="{{ $submenuId }}" autocomplete="off" class="hidden peer/full">
