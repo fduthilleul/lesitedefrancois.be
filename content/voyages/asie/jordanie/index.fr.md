@@ -23,7 +23,7 @@ On nous a dit tant de bien sur la Jordanie que nous avons décidé d'aller visit
 
 ![Premier Logement](images/day1.jpeg)
 
-## Jour 2: Umm Qais & As-Salt
+## Jour 2: Umm Qais
 
 - **Umm Qais** au matin – 1h50 de route depuis la villa
 - Problème de GPS indiquant Le Caire ou aéroport de Beyrouth (guerre Israël-Palestine).
@@ -44,6 +44,7 @@ On nous a dit tant de bien sur la Jordanie que nous avons décidé d'aller visit
 
 - **Jerash** au matin — l'antique **Gerasa**, deuxième site le plus visité de Jordanie après Pétra, et l'une des cités gréco-romaines les mieux conservées hors d'Italie. Membre de la **Décapole** (ligue de dix cités semi-autonomes sous protection romaine), elle a prospéré grâce aux routes commerciales qui reliaient la Méditerranée à l'Arabie et aux échanges avec les Nabatéens de Pétra. Au sommet de sa splendeur au IIe siècle, la ville comptait jusqu'à 20 000 habitants.
 - On entre par l'**arc d'Hadrien**, érigé en 129 apr. J.-C. pour célébrer la visite de l'empereur — vestige d'une époque où Jerash rivalisait avec les plus grandes cités de l'Empire.
+{{< figure src="images/day3-arc-hadrien.jpeg" alt="Arc Hadirn" caption="L'arc d'Hadrien" >}}
 - La **place ovale** (forum unique au monde par sa forme elliptique), le **cardo** (artère principale dont les ornières des chars sont encore visibles dans le pavé), deux théâtres, les temples de Zeus et d'Artémis et l'hippodrome : on se promène deux heures dans une ville romaine presque intacte, envahie par les oliviers sauvages.
 - Tente de nous vendre des **keffieh** et des voiles. On est tous déguisés… Le **keffieh** (ou *shemagh* en Jordanie) est un foulard carré en coton, rouge et blanc à carreaux, porté depuis des siècles par les Bédouins pour se protéger du soleil et du sable ; en Jordanie, il est devenu un symbole national, porté notamment par la Légion arabe dès les années 1930.
 - Dîner au restaurant Um Khalil : tabouleh, mattoubal (caviar d'aubergines au tahini), shanklish (fromage fermenté en boules enrobées d'épices).

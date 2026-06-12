@@ -39,6 +39,20 @@ Tous les 3 ans, Gand s'illumine avec des œuvres d'artistes nationaux et interna
 **Fréquence :** Tous les 3 ans
 {{< /coffee-shop >}}
 
+### 🎭 Carnaval de Binche
+
+{{< coffee-shop location="Centre-ville, 7130 Binche" url="https://www.carnavaldebinche.be/" >}}
+L'un des carnavals les plus extraordinaires au monde, inscrit au patrimoine culturel immatériel de l'UNESCO depuis 2003. Le clou du spectacle : les **Gilles**, personnages emblématiques en costume brodé et chapeau à plumes d'autruche de 3 kg, qui défilent au son des tambours et lancent des oranges dans la foule (porter du rouge pour être privilégié !). Tout commence dès le dimanche du carnaval avec le bal des Gilles à l'aube, suivi de trois jours de festivités : le Dimanche Gras, le Lundi Gras et surtout le **Mardi Gras**, apothéose du carnaval où quelque 1.000 Gilles envahissent les rues. Une tradition ancestrale qui remonte au XVe siècle, transmise de père en fils — être Gille est un honneur réservé aux hommes nés à Binche.
+
+**Période :** Dimanche, lundi et mardi précédant le mercredi des Cendres (15-17 février 2026, apothéose le mardi 17)
+
+**Accès :** Gratuit dans les rues — tribunes payantes disponibles (~15-25 €)
+
+**Bon à savoir :** Arriver tôt, la ville est envahie — prévoir le train (gare de Binche depuis La Louvière)
+
+**Fréquence :** Annuel
+{{< /coffee-shop >}}
+
 ## Mars (1)
 
 ### 🏛️ BANAD Festival
@@ -81,6 +95,20 @@ Chaque printemps, les Serres Royales de Laeken ouvrent exceptionnellement leurs 
 **Visites nocturnes :** Vendredis, samedis et dimanches en soirée
 {{< /coffee-shop >}}
 
+### 🌸 Festival des jacinthes du Hallerbos
+
+{{< coffee-shop location="Hogebermweg, 1500 Halle (Hallerbos)" url="https://www.hallerbos.be/" >}}
+Nulle part en Flandre on ne trouve autant de jacinthes sauvages que dans le Bois de Hal. Entre la mi-avril et le début du mois de mai, ces fleurs printanières créent un magnifique tapis violet sur plusieurs hectares de forêt — un spectacle unique et éphémère à ne pas manquer. Pendant la période de floraison, des navettes gratuites sont mises à disposition entre la gare de Hal et le bois, plusieurs week-ends de suite. À combiner avec une visite du centre historique de Hal.
+
+**Période :** Mi-avril à début mai (floraison variable selon la météo)
+
+**Accès :** Gratuit — pas de billet d'entrée requis
+
+**Navettes gratuites :** Depuis la gare de Hal, les week-ends de floraison
+
+**Dépliant du parcours :** Disponible à l'office du tourisme de Hal ou en téléchargement sur [visithalle.be](https://www.visithalle.be/fr/festival-des-jacinthes)
+{{< /coffee-shop >}}
+
 ### 🍺 Les Saveurs de Silly
 
 {{< coffee-shop location="Silly, Hainaut, Belgique" url="https://www.silly.be/" >}}
@@ -89,6 +117,20 @@ Festival gastronomique annuel organisé dans la commune de Silly, mettant à l'h
 **Période :** Printemps (généralement avril-mai)
 
 **Ouverture des réservations :** Début avril — entrée libre, mais certaines activités nécessitent une inscription
+{{< /coffee-shop >}}
+
+### 🎪 Namur en Mai
+
+{{< coffee-shop location="Centre-ville, 5000 Namur" url="https://namurenmai.org/" >}}
+Festival des arts de rue, de cirque, de magie et des univers forains qui envahit le centre de Namur pendant trois jours. Une programmation ambitieuse et thématisée, spécialement conçue pour émerveiller grands et petits : créatures magiques, contes murmurés dans une cabane, ballets acrobatiques, cabarets déjantés et spectacles au hasard d'un coin de rue. Plus de la moitié des spectacles sont gratuits. Projet de l'asbl Pastoo, également à l'origine de LaSemo et Bucolic Brussels.
+
+**Période :** 14-16 mai 2026
+
+**Accès :** Gratuit pour plus de la moitié des spectacles — entrées Article 27 disponibles pour les spectacles payants
+
+**Billetterie :** [tickets.namurenmai.org](https://tickets.namurenmai.org/da28c8673b084085859aea0fb1a03467/pass)
+
+**Fréquence :** Annuel
 {{< /coffee-shop >}}
 
 ### 🐉 La Ducasse de Mons (Doudou)
@@ -251,6 +293,22 @@ Chaque été, le Palais Royal — résidence administrative et lieu de travail d
 **Tarifs :** 10 € (13 ans et +), gratuit pour les -13 ans
 
 **Réservation :** Obligatoire en ligne (même pour les entrées gratuites) — ouverture le 1er juin
+{{< /coffee-shop >}}
+
+### 🌽 Le Labyrinthe
+
+{{< coffee-shop location="Chemin du Hasard, 6940 Durbuy (Ardennes)" url="https://www.lelabyrinthe.be/" >}}
+En 2026, *Mission Interstellar Ella* : rejoignez la famille Rider, crashée en plein champ de maïs lors de son voyage vers Vénus, pour une mission de sauvetage cosmique en plein air. Sur un site de 11 hectares et 6 km de sentiers, spectacles immersifs avec comédiens et robots télécommandés, énigmes, simulateur de vol astronaute. Le soir, place à l'*Escape Mystery* — un escape game géant en plein air. Parking gratuit sur site. Ouvert par mauvais temps (installations couvertes disponibles). Poussette tout terrain recommandée (chemins boueux). Chiens non autorisés. Pique-nique interdit — restauration sur place.
+
+**Période :** 4 juillet – 4 octobre 2026
+
+**Horaires en journée :** Juillet–août : tous les jours de 10h à 15h30 · Septembre–octobre : week-ends de 10h à 15h30
+
+**Horaires en soirée :** Juillet–août : mer–sam de 17h à 20h · Septembre–octobre : mar–ven de 11h à 15h, sam de 16h à 18h
+
+**Tarifs :** -3 ans gratuit · Enfant (-12 ans) 18 € online / 19 € sur place · À partir de 12 ans 19 € online / 20 € sur place · -10 % sur présentation de la carte Prof
+
+**Réservation :** Recommandée via [booking.lelabyrinthe.be](https://booking.lelabyrinthe.be/#!/dates)
 {{< /coffee-shop >}}
 
 ## Août (7)
