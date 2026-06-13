@@ -45,9 +45,26 @@ On nous a dit tant de bien sur la Jordanie que nous avons décidé d'aller visit
 - **Jerash** au matin — l'antique **Gerasa**, deuxième site le plus visité de Jordanie après Pétra, et l'une des cités gréco-romaines les mieux conservées hors d'Italie. Membre de la **Décapole** (ligue de dix cités semi-autonomes sous protection romaine), elle a prospéré grâce aux routes commerciales qui reliaient la Méditerranée à l'Arabie et aux échanges avec les Nabatéens de Pétra. Au sommet de sa splendeur au IIe siècle, la ville comptait jusqu'à 20 000 habitants.
 - On entre par l'**arc d'Hadrien**, érigé en 129 apr. J.-C. pour célébrer la visite de l'empereur — vestige d'une époque où Jerash rivalisait avec les plus grandes cités de l'Empire.
 {{< figure src="images/day3-arc-hadrien.jpeg" alt="Arc Hadirn" caption="L'arc d'Hadrien" >}}
+{{< gallery >}}
+  {{< figure src="images/day3-we-love-jordan.jpeg" alt="" caption="On aime la Jordanie" figureClass="grid-w50" >}}
+  {{< figure src="images/day3-hippodrome.jpeg" alt="" caption="L'hippodrome" figureClass="grid-w50" >}}
+{{< /gallery >}}
 - La **place ovale** (forum unique au monde par sa forme elliptique), le **cardo** (artère principale dont les ornières des chars sont encore visibles dans le pavé), deux théâtres, les temples de Zeus et d'Artémis et l'hippodrome : on se promène deux heures dans une ville romaine presque intacte, envahie par les oliviers sauvages.
+{{< gallery >}}
+  {{< figure src="images/day3-entree-site.jpeg" alt="Entrée du site" caption="Entrée du site" figureClass="grid-w50" >}}
+  {{< figure src="images/day3-theatre-nord.jpeg" alt="Jerash Theatre Nord" caption="Théâtre Nord" figureClass="grid-w50" >}}
+  {{< figure src="images/day3-cardo.jpeg" alt="Cardo" caption="La Cardo" figureClass="grid-w50" >}}
+  {{< figure src="images/day3-temple-artemis.jpeg" alt="Temple d'Artemis" caption="Entrée du temple d'Artémis" figureClass="grid-w50" >}}
+  {{< figure src="images/day3-theatre-sud.jpeg" alt="Jerash Theatre Sud" caption="Théâtre Sud" figureClass="grid-w66" >}}
+{{< /gallery >}}
 - Tente de nous vendre des **keffieh** et des voiles. On est tous déguisés… Le **keffieh** (ou *shemagh* en Jordanie) est un foulard carré en coton, rouge et blanc à carreaux, porté depuis des siècles par les Bédouins pour se protéger du soleil et du sable ; en Jordanie, il est devenu un symbole national, porté notamment par la Légion arabe dès les années 1930.
 - Dîner au restaurant Um Khalil : tabouleh, mattoubal (caviar d'aubergines au tahini), shanklish (fromage fermenté en boules enrobées d'épices).
+
+{{< gallery >}}
+  {{< figure src="images/day3-um-khalil-1.jpeg" alt="Plats au restaurant Um Khalil" caption="Um Khalil" figureClass="grid-w50" >}}
+  {{< figure src="images/day3-um-khalil-2.jpeg" alt="Table au restaurant Um Khalil" caption="Um Khalil" figureClass="grid-w50" >}}
+{{< /gallery >}}
+
 - Château **Aljoun** l'après-midi : forteresse ayyoubide du XIIe siècle édifiée par les troupes de Saladin pour contrer les croisés — visite rapide, stands de jus. Piscine.
 
 ## Jour 4: Salt & Amman
