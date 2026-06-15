@@ -9,14 +9,20 @@ featureimage: /images/paris.jpeg
 
 Quelques bons plans pour visiter Paris…
 
-## Transport / Logistique
+## Comment s'y rendre ?
+
+Depuis Ath, deux options s'offrent à vous pour rejoindre Paris : la voiture ou le train via Lille. Nous préférons nettement la seconde, même si elle n'est pas forcément la plus économique. On roule jusqu'à Lille (environ 45 minutes), on laisse la voiture au parking Euralille (notre choix : plus de places et plus pratique que Lille Europe, tout en étant juste à côté de la gare TGV), puis on rejoint la gare en 10 minutes maximum à pied. Un TGV vous dépose à la Gare du Nord en environ 1 h. Au total, compter environ 2 h porte à porte et un peu moins de 30€ par jour de parking.
+
+La voiture jusqu'à Paris reste possible (environ 2 h 45 – 3 h selon le trafic), mais on évite ainsi la fatigue du long trajet, le stress de la route, les péages et surtout la galère du stationnement à Paris. On arrive reposés, les bagages à la main, et le métro nous attend à la sortie de la gare.
+
+## Comment se déplacer ?
 
 - L'application [Citymapper](https://citymapper.com/?lang=fr) pour la navigation dans la ville.
 - Création d'une **carte Navigo** sur le téléphone via l'application [Bonjour RATP](https://www.bonjour-ratp.fr/) : **import dans l'Apple Wallet** sur iPhone, paiement **sans contact**, ce qui évite les **files aux distributeurs** du métro.
 - **Bagages** : [Bounce](https://bounce.com/fr) ou [Nannybag](https://www.nannybag.com/fr). À la **Gare du Nord**, prudence avec la **consigne des bagages** : il y a des **risques** (dont des **alertes à la bombe** ont déjà perturbé ou bloqué le service).
 - [Batobus](https://www.batobus.com/fr) : **hop-on hop-off**, **9 stations** sur la Seine — **alternative agréable au métro** pour voir **Paris depuis la rivière**.
 
-## Logements
+## Où loger ?
 
 - **Privilégier Airbnb dans Paris** : [Appartement près de Montmartre](https://fr.airbnb.be/rooms/1252846256859669443), [Appartement près de la Gare du Nord](https://fr.airbnb.be/rooms/25155031), [Autre appartement Gare du Nord](https://fr.airbnb.be/rooms/41576801).
 - **Hotels**: [Hotel Le Nest by Sweet](https://www.sweett.com/en/paris/batignolles/building_le-nest)
