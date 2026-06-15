@@ -53,7 +53,7 @@ On nous a dit tant de bien sur la Jordanie que nous avons décidé d'aller visit
 {{< gallery >}}
   {{< figure src="images/day3-entree-site.jpeg" alt="Entrée du site" caption="Entrée du site" figureClass="grid-w50" >}}
   {{< figure src="images/day3-theatre-nord.jpeg" alt="Jerash Theatre Nord" caption="Théâtre Nord" figureClass="grid-w50" >}}
-  {{< figure src="images/day3-cardo.jpeg" alt="Cardo" caption="La Cardo" figureClass="grid-w50" >}}
+  {{< figure src="images/day3-cardo.jpeg" alt="Cardo" caption="Le Cardo" figureClass="grid-w50" >}}
   {{< figure src="images/day3-temple-artemis.jpeg" alt="Temple d'Artemis" caption="Entrée du temple d'Artémis" figureClass="grid-w50" >}}
   {{< figure src="images/day3-theatre-sud.jpeg" alt="Jerash Theatre Sud" caption="Théâtre Sud" figureClass="grid-w66" >}}
 {{< /gallery >}}

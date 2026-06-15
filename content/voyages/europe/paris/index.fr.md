@@ -19,6 +19,7 @@ Quelques bons plans pour visiter Paris…
 ## Logements
 
 - **Privilégier Airbnb dans Paris** : [Appartement près de Montmartre](https://fr.airbnb.be/rooms/1252846256859669443), [Appartement près de la Gare du Nord](https://fr.airbnb.be/rooms/25155031), [Autre appartement Gare du Nord](https://fr.airbnb.be/rooms/41576801).
+- **Hotels**: [Hotel Le Nest by Sweet](https://www.sweett.com/en/paris/batignolles/building_le-nest)
 - **Alternative** : loger **en dehors de Paris** (**moins cher**). Exemple : **Ibis Styles Paris Romainville**, à environ **300 m** de la **ligne 5** du métro pour rejoindre le centre.
 
 ## Musées & Monuments
@@ -58,5 +59,5 @@ Quelques bons plans pour visiter Paris…
 
 - [Google Maps](https://www.google.com/maps/) avec filtres, [Mapstr](https://mapstr.com/), [TripAdvisor](https://www.tripadvisor.fr/).
 - Guide **[Bib Gourmand](https://guide.michelin.com/fr/fr/ile-de-france/paris/restaurants/bib-gourmand)** pour des repas **qualité-prix** abordable.
-- **[Cantine De Sam](https://lacantinedesam.site.bykomdab.com/fr)** (près du Théâtre Fontaine) ou **[Baba](https://babarestaurant.fr)** juste à côté ; **[Afendi](https://afendi-paris.com/)** libanais (près du Théâtre Antoine) ; **[Eats Thyme](https://www.eatsthyme.com/)** libanais (près du Louvre / Palais Royal — livre *Ma Table Libanaise*) ; **[Lazzi](https://lazzi.fr/fr/)** avant le Théâtre Édouard VII (**entrée directe** au théâtre). Pour des **adresses plus insolites**, voir par exemple **[Topito](https://www.topito.com/)** (listes type top).
+- **[Cantine De Sam](https://lacantinedesam.site.bykomdab.com/fr)** (près du Théâtre Fontaine) ou **[Baba](https://babarestaurant.fr)** juste à côté ; **[Afendi](https://afendi-paris.com/)** libanais (près du Théâtre Antoine) ; **[Eats Thyme](https://www.eatsthyme.com/)** libanais (près du Louvre / Palais Royal — livre *Ma Table Libanaise*) ; **[Lazzi](https://lazzi.fr/fr/)** avant le Théâtre Édouard VII (**entrée directe** au théâtre).
 - **Toujours vérifier** que le restaurant existe encore et est ouvert aux dates voulues.
