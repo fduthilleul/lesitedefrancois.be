@@ -14,15 +14,27 @@ markup:
 
 Quelques bons plans pour visiter Paris…
 
-## Comment s'y rendre ?
+## Comment s'y rendre depuis Ath?
 
-Depuis Ath, deux options s'offrent à vous pour rejoindre Paris : la voiture ou le train via Lille. Le train est nettement préférable, même s'il n'est pas forcément le plus économique. On roule jusqu'à Lille (environ 45 minutes), on laisse la voiture au parking Euralille (conseillé : plus de places et plus pratique que Lille Europe, tout en étant juste à côté de la gare TGV), puis on rejoint la gare en 10 minutes maximum à pied. Un TGV vous dépose à la Gare du Nord en environ 1 h. Au total, compter environ 2 h porte à porte et un peu moins de 30€ par jour de parking.
+### ✅ Train
 
-La voiture jusqu'à Paris reste possible (environ 2 h 45 – 3 h selon le trafic), mais on évite ainsi la fatigue du long trajet, le stress de la route, les péages et surtout la galère du stationnement à Paris. Arrivée reposée, bagages à la main, le métro est à la sortie de la gare.
+- 🚗 **45 min** en voiture jusqu'à Lille — parking **Euralille** conseillé (plus de places, juste à côté de la gare TGV)
+- 🚶 **10 min** à pied jusqu'à la gare TGV
+- 🚄 TGV → Gare du Nord en **~1 h**
+- ⏱️ Total : **~2 h** porte à porte
+- 🅿️ Parking : **~30 €/jour**
+
+Arrivée reposée, bagages à la main — le métro est à la sortie de la gare.
+### 🚗 Voiture
+
+- ⏱️ **2 h 45 – 3 h** selon le trafic
+- 💸 Péages à prévoir
+- 😤 Stationnement difficile à Paris
+- 😓 Fatigue et stress du long trajet
 
 ## Comment se déplacer ?
 
-- L'application [Citymapper](https://citymapper.com/?lang=fr) pour la navigation dans la ville.
+- L'application [Citymapper](https://citymapper.com/?lang=fr) est très pratique pour la navigation dans la ville.
 - Création d'une **carte Navigo** sur le téléphone via l'application [Bonjour RATP](https://www.bonjour-ratp.fr/) : **import dans l'Apple Wallet** sur iPhone, paiement **sans contact**, ce qui évite les **files aux distributeurs** du métro.
 - **Bagages** : [Bounce](https://bounce.com/fr) ou [Nannybag](https://www.nannybag.com/fr). À la **Gare du Nord**, prudence avec la **consigne des bagages** : il y a des **risques** (dont des **alertes à la bombe** ont déjà perturbé ou bloqué le service).
 - [Batobus](https://www.batobus.com/fr) : **hop-on hop-off**, **9 stations** sur la Seine — **alternative agréable au métro** pour voir **Paris depuis la rivière**.
