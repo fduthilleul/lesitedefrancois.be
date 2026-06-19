@@ -74,3 +74,7 @@ Praia de Odeceixe. Phare de Sagres. Plage avec surf à Sagres. Arrivée au sixi�
 ## Jour 18: Retour en Belgique
 
 São Gonçalo de Lagos. Ponta da Piedade.
+
+## À faire lors de la prochaine visite
+Passadiço Barranco do Demo, Alferce, Monchique
+
