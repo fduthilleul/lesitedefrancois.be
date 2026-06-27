@@ -7,15 +7,27 @@ summary: "Quinze jours entre Santorin, Folegandros, Sifnos et Milos — vols via
 featureimage: /images/cyclades.jpeg
 ---
 
-Quinze jours dans les **Cyclades** : quatre îles, trois traversées en ferry et un aller-retour via **Athènes**. Santorin pour la caldeira et les villages perchés, Folegandros pour le charme discret, Sifnos pour la gastronomie et les plages, Milos pour les criques volcaniques et **Sarakiniko**.
+Deux semaines dans les **Cyclades** : quatre îles - Santorin pour la caldeira et les villages perchés, Folegandros pour le charme discret, Sifnos pour la gastronomie et les plages, Milos pour les criques volcaniques et le paysage lunaire de **Sarakiniko**. 
 
 ## Jour 1: Bruxelles → Santorin
 
 **Santorin** (Thira) est l'île la plus emblématique des Cyclades : une caldeira volcanique aux villages blancs et bleus accrochés à la falaise, avec **Oia** et ses couchers de soleil, **Fira** pour la vie nocturne et les musées, et des plages de lave comme la **Plage Rouge**. L'éruption qui a façonné la caldeira, vers 1600 av. J.-C., reste au cœur de l'identité de l'île.
 
-- Vol Bruxelles **11h15** (A3621 Aegean Airlines) — escale Athènes **1h55** — arrivée Santorin **18h00** (A3358)
-- Récupération **Citroën C4** chez **[CarHub](https://carhub.gr/)** — **210 €**, représentant à l'aéroport avec pancarte à votre nom
-- Installation à **[Aura Marina Apartments](https://www.aura-marina.com/?lang=en)** — check-in entre **15h et 20h**
+- Vol Bruxelles - Santorin avec escale à Athènes
+- Récupération de la voiture de location à l'aéroport
+- Installation à **[Aura Marina Apartments](https://www.aura-marina.com/?lang=en)** 
+- Détente autour et dans la piscine avec vue sur la caldeira
+- Balade dans les ruelles d'Akrotiri avec vue sur son chateau
+- Restaurant dans la ville 
+
+Specialités de l'île: 
+- les tomatokeftedes: beignets de tomates cerises locales, frits et assaisonnés avec de la menthe et des herbes
+- la fava: purée de pois cassés jaunes (issue de la plante Lathyrus clymenum). Bénéficiant d'une Appellation d'Origine Protégée (AOP), elle se distingue par sa texture veloutée et son goût naturellement doux et sucré.
+- l'aubergine blanche: délicate et pauvre en graines, qui n’absorbe presque pas d’huile lorsqu’elle est frite, délicieuse en caviar (melitzanosalata)
+- le chloro: fromage de chèvre frais et crémeux produit de manière artisanale 
+
+Liste d'activité sur l'île:
+- 
 
 ## Jour 2: Santorin
 
