@@ -26,10 +26,10 @@ Deux semaines dans les **Cyclades** : quatre îles - la mythique **Santorin** po
 - Restaurant dans la ville 
 
 Specialités de l'île: 
-- les tomatokeftedes: beignets de tomates cerises locales, frits et assaisonnés avec de la menthe et des herbes
-- la fava: purée de pois cassés jaunes (issue de la plante Lathyrus clymenum). Bénéficiant d'une Appellation d'Origine Protégée (AOP), elle se distingue par sa texture veloutée et son goût naturellement doux et sucré.
-- l'aubergine blanche: délicate et pauvre en graines, qui n’absorbe presque pas d’huile lorsqu’elle est frite, délicieuse en caviar (melitzanosalata)
-- le chloro: fromage de chèvre frais et crémeux produit de manière artisanale 
+- **les tomatokeftedes**: beignets de tomates cerises locales, frits et assaisonnés avec de la menthe et des herbes
+- **la fava**: purée de pois cassés jaunes (issue de la plante Lathyrus clymenum). Bénéficiant d'une Appellation d'Origine Protégée (AOP), elle se distingue par sa texture veloutée et son goût naturellement doux et sucré.
+- **l'aubergine blanche**: délicate et pauvre en graines, qui n’absorbe presque pas d’huile lorsqu’elle est frite, délicieuse en caviar (melitzanosalata)
+- **le chloro**: fromage de chèvre frais et crémeux produit de manière artisanale 
 
 ## Jour 2: Santorin
 
