@@ -2,7 +2,7 @@
 title: "Les Cyclades"
 date: 2026-06-27
 categories: ["Voyages", "Europe"]
-tags: ["Grèce", "Cyclades", "Santorin", "Folegandros", "Sifnos", "Milos", "2026"]
+tags: ["Grèce", "Cyclades", "Santorin", "Folegandros", "Sifnos", "Milos", "2022"]
 summary: "Quinze jours entre Santorin, Folegandros, Sifnos et Milos — vols via Athènes, ferries Seajets et road trip insulaire."
 featureimage: /images/cyclades.jpeg
 showTableOfContents: true
@@ -102,7 +102,7 @@ Specialités de l'île:
 ## Jour 15: Milos → Bruxelles
 
 - Restitution voiture Extreme Rentals à l'**aéroport de Milos à 12h30**
-- Vol Milos **14h30** (A37037 Olympic Air) — escale Athènes **1h30** — arrivée Bruxelles **19h05** (A3622 Aegean Airlines)
+- Vol Milos **14h30** (Olympic Air) — escale Athènes **1h30** — arrivée Bruxelles **19h05** (Aegean Airlines)
 
 ## Infos pratiques
 
@@ -110,19 +110,19 @@ Specialités de l'île:
 
 **Aller — Bruxelles → Santorin (jour 1)**
 
-| Étape | Départ | Arrivée | Vol | Compagnie | Appareil |
+| Étape | Départ | Arrivée | Durée | Compagnie | Appareil |
 |---|---|---|---|---|---|
-| 1 | **11h15** Bruxelles-National | **15h15** Athènes El. Venizelos | A3621 (3h00) | Aegean Airlines | Airbus A321neo |
+| 1 | **11h15** Bruxelles-National | **15h15** Athènes El. Venizelos | 3h00 | Aegean Airlines | Airbus A321neo |
 | Transfert à Athènes | | **1h55** | | | |
-| 2 | **17h10** Athènes El. Venizelos | **18h00** Santorin | A3358 (0h50) | Aegean Airlines | Airbus A320 |
+| 2 | **17h10** Athènes El. Venizelos | **18h00** Santorin | 0h50 | Aegean Airlines | Airbus A320 |
 
 **Retour — Milos → Bruxelles (jour 15)**
 
-| Étape | Départ | Arrivée | Vol | Compagnie | Appareil |
+| Étape | Départ | Arrivée | Durée | Compagnie | Appareil |
 |---|---|---|---|---|---|
-| 1 | **14h30** Milos | **15h10** Athènes El. Venizelos | A37037 (0h40) | Olympic Air | ATR 42 |
+| 1 | **14h30** Milos | **15h10** Athènes El. Venizelos | 0h40 | Olympic Air | ATR 42 |
 | Transfert à Athènes | | **1h30** | | | |
-| 2 | **16h40** Athènes El. Venizelos | **19h05** Bruxelles-National | A3622 (3h25) | Aegean Airlines | Airbus A321neo |
+| 2 | **16h40** Athènes El. Venizelos | **19h05** Bruxelles-National | 3h25 | Aegean Airlines | Airbus A321neo |
 
 ### Ferries (Seajets)
 
@@ -141,7 +141,7 @@ Réservation possible sur [Seajets](https://www.seajets.com/), [Ferryhopper](htt
 | Santorin | [CarHub](https://carhub.gr/) | Citroën C4 manuelle ou similaire | — | **210 €** (taxes et assurance tiers incluses) | Aéroport — représentant avec pancarte | — |
 | Folegandros | [Kountoris Car Rentals](https://kountouriscarrentals.gr/) | Renault Kadjar ou similaire | 3 jours | **240 €** (assurance de base) — paiement à la livraison | Port — panneau blanc Kountoris, contrat pré-rempli | — |
 | Sifnos | [Loukataris](https://loukatarisrentals.gr/) (Michael) | — | Jours 8–12 | **320 €** — confirmé WhatsApp | Port de **Kamares**, **17h20** (jour 8) | Port de **Kamares**, **10h00** (jour 12) |
-| Milos | [Extreme Rentals](https://milos-extreme-rentals.com/) | Opel Corsa ou similaire (groupe B, manuelle) | 13–16 juillet 2026 | — | Port de Milos, **11h00** (13 juil.) | Aéroport de Milos, **12h30** (16 juil.) |
+| Milos | [Extreme Rentals](https://milos-extreme-rentals.com/) | Opel Corsa ou similaire (groupe B, manuelle) | Jours 12–15 | — | Port de Milos, **11h00** (jour 12) | Aéroport de Milos, **12h30** (jour 15) |
 
 ### Logements
 
@@ -190,9 +190,9 @@ Réservation possible sur [Seajets](https://www.seajets.com/), [Ferryhopper](htt
 
 #### Restaurants & tables avec vue
 
-- **[Selene](https://www.selenerestaurant.gr/)** (Pyrgos) — haute gastronomie locale, produits de l'île ; réserver longtemps à l'avance
-- **[Metaxi Mas](https://www.metaximas.com/)** (Exo Gonia, près de Pyrgos) — cuisine créto-cycladique, terrasse avec vue
-- **[Aktaion](https://www.aktaion-restaurant.gr/)** (Akrotiri) — poissons et mezze ; proche du site archéologique et de la base
+- **[Selene](https://selene.gr/)** (Pyrgos) — haute gastronomie locale, produits de l'île ; réserver longtemps à l'avance
+- **[Metaxi Mas](https://santorini-metaximas.gr/en)** (Exo Gonia, près de Pyrgos) — cuisine créto-cycladique, terrasse avec vue
+- **[Aktaion](https://www.aktaionsantorini.com/)** (Akrotiri) — poissons et mezze ; proche du site archéologique et de la base
 - **Tavernes d'Amoudi** — pieds dans l'eau, poisson grillé ; coucher de soleil depuis la terrasse
 
 ### Folegandros
