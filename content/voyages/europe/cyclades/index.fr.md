@@ -53,6 +53,12 @@ Specialités de l'île:
 - Récupération **Renault Kadjar** chez **[Kountoris Car Rentals](https://kountouriscarrentals.gr/)** — **240 €** / 3 jours (assurance de base) ; panneau blanc au port, contrat pré-rempli
 - Installation aux **[Lithia Villas](https://www.lithia-folegandros.gr/)** — trois villas avec piscine partagée face à la mer
 
+Specialités de l'île:
+- **la matsata**: pâtes fraîches artisanales, roulées à la main et séchées au soleil, traditionnellement servies avec un ragoût de lapin ou de coq mijoté aux herbes sauvages
+- **le soufiko**: poêlée de légumes d'été (aubergines, courgettes, poivrons, tomates) cuisinée à l'huile d'olive, version locale de la ratatouille grecque
+- **le miel de thym**: produit sur les collines sauvages et arides de l'île, réputé pour son arôme intense et ses notes florales prononcées
+- **le kakavia**: soupe de pêcheur mijotée avec les poissons du jour, pommes de terre et huile d'olive, recette transmise de génération en génération
+
 ## Jour 6: Folegandros
 
 - Journée sur Folegandros : Chora, plages, balades côtières
@@ -69,6 +75,12 @@ Specialités de l'île:
 - Ferry **Seajets** Folegandros → Sifnos **15h25–17h20**
 - Récupération voiture chez **[Loukataris](https://loukatarisrentals.gr/)** au port de **Kamares à 17h20** — **320 €** (confirmé WhatsApp)
 - Installation à **[Villa Irini](https://sifnosvillairini.gr/fr/index.html)** — à 300 m de la plage de Platis Gialos, piscine et petit-déjeuner au bord de l'eau
+
+Specialités de l'île:
+- **la revithada**: soupe de pois chiches cuite lentement toute une nuit dans un plat en céramique vernissée (la skepastaria) au four du boulanger du village — plat emblématique de l'île, berceau reconnu de la gastronomie grecque
+- **le mastelo**: agneau ou chevreau mariné au vin rouge et à l'aneth, cuit à l'étouffée dans un pot en argile scellé, fondant et parfumé
+- **la melopita**: tarte sucrée à base de myzithra fraîche locale et de miel de thym, légère et crémeuse, spécialité incontournable des fêtes pascales
+- **les amygdalota**: petits gâteaux moelleux aux amandes pilées, façonnés à la main et parfumés à l'eau de rose ou à la fleur d'oranger
 
 ## Jour 9: Sifnos
 
@@ -90,6 +102,12 @@ Specialités de l'île:
 - Ferry **Seajets** Sifnos → Milos **10h25–11h10**
 - Récupération **Opel Corsa** (groupe B, manuelle) chez **[Extreme Rentals](https://milos-extreme-rentals.com/)** — bureau du **port de Milos à 11h00**
 - Installation au **[Petra Residence Mini Pool & Spa](https://www.booking.com/hotel/gr/petra-residence-mini-pool-spa.fr.html)
+
+Specialités de l'île:
+- **les pitarakia**: petits chaussons en demi-lune frits, garnis de fromage frais local et d'herbes aromatiques — street food traditionnel vendu dans les fours et boulangeries de l'île
+- **la ladenia**: focaccia généreuse garnie de tomates fraîches, d'oignons et d'huile d'olive, sans fromage — spécialité typiquement milienne à déguster tiède
+- **les câpres de Milos**: récoltées à la main sur les falaises volcaniques, elles développent une saveur plus intense et saline que les câpres ordinaires, utilisées dans de nombreux plats locaux
+- **la kakavia milienne**: version locale de la soupe de pêcheur, enrichie de safran sauvage et caractérisée par le goût minéral des poissons pêchés dans les eaux volcaniques entourant l'île
 
 ## Jour 13: Milos
 
