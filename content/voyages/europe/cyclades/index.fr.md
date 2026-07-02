@@ -53,6 +53,8 @@ Specialités de l'île:
 - Récupération **Renault Kadjar** chez **[Kountoris Car Rentals](https://kountouriscarrentals.gr/)** — **240 €** / 3 jours (assurance de base) ; panneau blanc au port, contrat pré-rempli
 - Installation aux **[Lithia Villas](https://www.lithia-folegandros.gr/)** — trois villas avec piscine partagée face à la mer
 
+Site officiel: [https://www.folegandros.gr/](https://www.folegandros.gr/en/)
+
 Specialités de l'île:
 - **la matsata**: pâtes fraîches artisanales, roulées à la main et séchées au soleil, traditionnellement servies avec un ragoût de lapin ou de coq mijoté aux herbes sauvages
 - **le soufiko**: poêlée de légumes d'été (aubergines, courgettes, poivrons, tomates) cuisinée à l'huile d'olive, version locale de la ratatouille grecque
