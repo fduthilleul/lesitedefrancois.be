@@ -12,96 +12,131 @@ markup:
     endLevel: 4
 ---
 
-Two weeks in the **Cyclades**: four islands — legendary **Santorini** for the caldera and cliff-top villages, **Folegandros** for its understated charm, **Sifnos** for food and beaches, **Milos** for volcanic coves and the lunar landscape of Sarakiniko.
+Two weeks in the **Cyclades**: four islands — legendary **Santorini** for the caldera and cliff-top villages, **Folegandros** for its understated charm, **Sifnos** for food and beaches, **Milos** for volcanic coves and the lunar landscape of **Sarakiniko**.
 
 ## Day 1: Brussels → Santorini
 
-**Santorini** (Thira) is the most iconic island in the Cyclades: a volcanic caldera with white-and-blue villages clinging to the cliffs, **Oia** and its sunsets, **Fira** for nightlife and museums, and lava beaches like **Red Beach**. The eruption that shaped the caldera, around 1600 BC, remains at the heart of the island's identity.
+**Santorini** (Thira) is the most iconic island in the Cyclades: a volcanic caldera with white-and-blue villages clinging to the cliffs. The eruption that shaped it, around 1600 BC, remains at the heart of its identity.
 
-- Flight Brussels → Santorini with a layover in Athens
-- Pick up the rental car at the airport
-- Check in at **[Aura Marina Apartments](https://www.aura-marina.com/?lang=en)**
-- Relax by and in the pool with caldera views
-- Stroll through the lanes of Akrotiri with views of its castle
-- Dinner in town
+Flight via Athens, arrival a little later than planned. Pick up the rental car at the airport, then check in at **[Aura Marina Apartments](https://www.aura-marina.com/?lang=en)** — warm welcome from Georges, pool facing the caldera.
+
+First evening in **Akrotiri**, a village in the south of the island, quieter than Fira or Oia: white lanes, a Venetian castle above, and the neighbouring archaeological site (the « Pompeii of the Aegean ») close by. Dinner at restaurant **Mitseli**.
 
 Island specialities:
-- **tomatokeftedes**: fritters of local cherry tomatoes, fried and seasoned with mint and herbs
-- **fava**: yellow split-pea purée (from the plant *Lathyrus clymenum*). With Protected Designation of Origin (PDO) status, known for its velvety texture and naturally sweet, mild flavour
-- **white eggplant**: delicate and low in seeds, absorbs almost no oil when fried — excellent as melitzanosalata
-- **chloro**: fresh, creamy artisan goat's cheese
+- **tomatokeftedes** — local cherry-tomato fritters with mint and herbs
+- **fava** — yellow split-pea purée (PDO), velvety and naturally mild
+- **white eggplant** — low in seeds, almost no oil when fried; excellent as melitzanosalata
+- **chloro** — fresh, creamy artisan goat's cheese
 
-## Day 2: Santorini
+## Day 2: Santorini — Fira → Oia
 
-- Second day on the island — caldera, villages and beaches
+Breakfast at the village café in Akrotiri, then the classic caldera hike: **Fira → Oia** (~10 km). **Fira**, the administrative capital, stretches along the cliff with shops and museums; the path leaves from there, sea on the left, white villages in the distance, as far as **Oia**, the postcard village of the Cyclades — blue domes, cave houses and legendary sunsets. Better to arrive mid-afternoon than at *sunset* hour if you still want room to breathe.
 
-## Day 3: Santorini
+Stop at **Chilled Box** before heading back. Buses are flagged down at the stop — ticket **€2.20**.
 
-- Third day on Santorini
+## Day 3: Santorini — Ancient Thera
 
-## Day 4: Santorini
+To **Kamari**, east-coast resort with black pebbles and a developed seafront. From there, climb to **Ancient Thera**, a Hellenistic city perched on **Mesa Vouno**: temples, agora, theatre and plunging views over both bays — Kamari on one side, Perissa on the other. Entry **€10** (free for under-18s and students).
 
-- Last full day on Santorini before the ferry
-- Lodging: Aura Marina — check-out the next morning (**8 a.m.–11 a.m.**)
+Down to **Perissa**, Kamari's longer twin, same black sand, a freer atmosphere. Boat Perissa → Kamari and a swim. Lunch at **Corner Food Diner** (Greek omelette and more).
+
+## Day 4: Santorini — Oia, Vlychada & Pyrgos
+
+Morning pool and terrace coffee at **Daily Coffee**. Back to **Oia**: Sunset parking if the free one is full. Walk through the village, then down to **Amoudi**, the small harbour at the foot of the cliff — feet-in-the-water tavernas, fishing boats, and a few rocks for a swim away from the crowds. Lunch near the windmills at **Ellenika** — vine leaves, anchovies, octopus salad, souvlaki and a glass of **Vinsanto**.
+
+Afternoon at **Vlychada**: the **Tomato Museum**, a former industrial site reimagined, tells how the island lived from canning before tourism. Just beside it, the long black-sand beach under ochre cliffs — the same colour as the old factory chimney. Quieter than Kamari or Perissa, a bit more swell, cooler water.
+
+End of the day in **Pyrgos**, the island's former capital, on a hill in the centre of Santorini. Park below (the upper lot fills up) and climb to the **Castro** after greeting three colourful donkeys — great view from a little square where you can sip a drink. A windy *meltemi* Sunday: shops in Pyrgos and Megalochori closed; a Carrefour Express in **Emborio**, a medieval village of narrow lanes, saves the day for bruschetta and Greek salad at the apartment.
 
 ## Day 5: Santorini → Folegandros
 
-**Folegandros** is a small, well-preserved island, often compared to Santorini before mass tourism: a medieval **Chora** perched 200 m above the sea, paved lanes, three churches including **Panagia**, and beaches like **Agali** and **Livadaki**. A more intimate pace, ideal for slowing down.
+Last morning in Akrotiri: walk up to the Venetian castle, coffee at **Café Akri** (open only two weeks, lovely Cycladic décor — cappuccino, orange juice, and the classic *freddo espresso* / *freddo cappuccino*). Attempt at **Red Beach**, a cove of red pebbles under lava cliffs: packed car parks, too tight before returning the car — we skip it.
 
-- Check-out Aura Marina (**8 a.m.–11 a.m.**)
-- **Seajets** ferry Santorini → Folegandros **2:30–3:15 p.m.**
-- Pick up **Renault Kadjar** from **[Kountoris Car Rentals](https://kountouriscarrentals.gr/)** — **€240** / 3 days (basic insurance); white sign at the port, pre-filled contract
-- Check in at **[Lithia Villas](https://www.lithia-folegandros.gr/)** — three villas with shared pool facing the sea
+To **Athinios** port, Santorini's « new » harbour tucked into the caldera. The Seajets runs a little late; peaceful crossing to **Folegandros**, a small, well-preserved island often compared to Santorini before mass tourism.
 
-## Day 6: Folegandros
+At the harbour, the white Nissan from **[Kountouris](https://kountouriscarrentals.gr/)** is waiting. Check-in at **Levanda** house, **[Lithia Villas](https://www.lithia-folegandros.gr/)** (~1.5 km from Chora) — fruit, water and breakfast in the fridge, tips from Hari, pool with sea views.
 
-- Day on Folegandros: Chora, beaches, coastal walks
+Evening in **Ano Meria**, farming hamlet in the west: low houses, dry-stone walls, far from postcard scenery. Mezze at taverna **Irini**, then up to **Panagia** monastery above **Chora** — the medieval capital, Venetian Kastro, paved lanes and church squares. Outstanding sunset from Panagia. Stroll through Chora, dinner at **To Zik**.
 
-## Day 7: Folegandros
+Useful links: [folegandros.gr](https://www.folegandros.gr/en/) and trails at [routes.folegandros.gr](https://routes.folegandros.gr/home).
 
-- Second full day on the island
+Island specialities:
+- **matsata** — handmade fresh pasta, often with rabbit or rooster stew
+- **soufiko** — summer vegetable stew in olive oil
+- **thyme honey** — from the island's dry hills
+- **kakavia** — fisherman's soup of the day
+
+## Day 6: Folegandros — Livadaki
+
+Breakfast on the Cycladic-coloured terrace. Hike **Ano Meria → Livadaki** on the *monopatia* — follow **FL** signs and blue dots. **Livadaki** is an enclosed cove, turquoise water, mainly reached on foot: the descent is rewarded with a swim almost alone. Climb back and lunch at taverna **Irini** (marsala chicken, Greek salad, aubergine, courgette, lemon-sauce meatballs…).
+
+Pool time, then evening in **Chora**: visit the **Kastro**, the fortified core where houses still form a rampart, dinner at **To Spitiko** in a quiet lane.
+
+## Day 7: Folegandros — Agali
+
+Hike towards **Fira** and **Agali** beaches via **Christos** church. **Fira** (not to be confused with Santorini's) is a small, almost empty pebble beach; **Agali**, lower down, is the main sandy bay on the south coast, with tavernas and easier access — the contrast is worth it. Swim at Fira almost alone; at Agali we save the swim for later with the whole family.
+
+Afternoon snack in Ano Meria at **Chrisospila Honey Coffee & Shop**, then back to Agali together — swim and a short climb towards **Agios Giorgios**, a chapel above the bay. Evening in Chora: dinner at **Eva's Garden** (courtyard garden), then *watermelon pie* and ice cream at **Parasagas**.
 
 ## Day 8: Folegandros → Sifnos
 
-**Sifnos** is renowned for Cycladic **cuisine** (revithada, mastelo, amigdalota) and **pottery** — the island still has around twenty workshops. Villages like **Apollonia**, **Artemonas** and the fortified **Kastro** sit alongside sandy beaches such as **Platis Gialos**, **Vathi** and **Chrissopigi**.
+Quiet morning in Chora (photos without the crowds), bread at **Pascalis Bakery**, last pool session. Part of the group stays at **Karavostasis**, the island's port — sandy beach, Anemomilos windmills nearby, more village than resort. The others hike to **Katergo** (~30 min return): pebble beach under cliffs, very clear water, few people even in season — a boat drops a few passengers, but the cove stays far from crowded.
 
-- **Seajets** ferry Folegandros → Sifnos **3:25–5:20 p.m.**
-- Pick up car from **[Loukataris](https://loukatarisrentals.gr/)** at **Kamares** port **at 5:20 p.m.** — **€320** (confirmed via WhatsApp)
-- Check in at **[Villa Irini](https://sifnosvillairini.gr/fr/index.html)** — 300 m from Platis Gialos beach, pool and breakfast by the water
+Excellent mezze on the beach at **I Pardalo**. Return the car, Seajets a little late, stop at Milos before **Sifnos**, island of Cycladic gastronomy and potters.
 
-## Day 9: Sifnos
+Pick up the car at **Kamares**, the main harbour in a crescent bay, groceries at AB supermarket, check-in at **[Villa Irini](https://sifnosvillairini.gr/fr/index.html)** in **Platis Gialos** — long southern sandy beach, seafront restaurants, pool at the apartment.
 
-- Day on Sifnos: villages, beaches, pottery
+Island specialities:
+- **revithada** — chickpeas slow-cooked overnight in the village oven
+- **mastelo** — lamb or kid with red wine and dill in a clay pot
+- **melopita** — fresh myzithra and thyme-honey pie
+- **amygdalota** — soft almond cakes
 
-## Day 10: Sifnos
+Trails: [Sifnos Trails](https://sifnostrails.com/fr/).
 
-- Second day on the island
+## Day 9: Sifnos — Apollonia, Artemonas & Kastro
 
-## Day 11: Sifnos
+Walk on foot: **Apollonia**, Sifnos's capital, is built around « steno » lanes of shops and tavernas; then **Artemonas**, a more residential area with neoclassical mansions and gardens; then **Kastro**, a medieval fortified village clinging to the cliff — churches tucked into the walls, labyrinth lanes, sea views everywhere. Drink and visit, coffee near the bus stop, bus back to Apollonia (**€2.20**/person).
 
-- Last full day on Sifnos
+Pool and beach in the afternoon. Dinner in **Faros**, a small south-east harbour, at **Ammos** — open for a month, very good.
+
+## Day 10: Sifnos — Faros & Chrysopigi
+
+Beach morning and **paddle** rental at Platis Gialos (life jacket required). Then hike **Faros → Chrysopigi monastery** (~35 min, well-maintained path): the white monastery sits on a thin spit between two coves, **Glyfo** and **Apokofto** — one of Sifnos's most photographed views. Option to jump from the rocks near the monastery. Snack stop at Ammos (Django ice cream, Greek *halva*). Evening in **Artemonas**.
+
+## Day 11: Sifnos — Vathi & Kastro
+
+Morning in **Vathi** bay, a peaceful fjord on the west of the island: calm water, potters still at work, restaurants on the sand. Lunch at the beach restaurant.
+
+Afternoon walk **Kastro → Agia Ti Poulati** from the car park: white Byzantine church facing the sea, one of Sifnos's finest viewpoints. Then on to the **Chapel of the Seven Martyrs**, a tiny white church stuck to the rock at the end of Kastro — postcard cliché, but earned. Ice cream at **Way Cup Coffee** and **Julius** in Platis Gialos.
 
 ## Day 12: Sifnos → Milos
 
-**Milos** is a volcanic island with spectacular scenery: more than **70 beaches** in varied colours, the lunar white rocks of **Sarakiniko**, the **Kleftiko** sea caves (reachable by boat), the village of **Plaka** and the ancient **Catacombs** site. Less exposed than Santorini, it offers a unique mix of raw nature and Cycladic villages.
+Coffee at Way Cup, then Seajets to **Milos**, a volcanic island with more than 70 beaches in varied colours. Pick up the car, first look at the fishing harbours: **Mandrakia** and **Firopotamos**, with their *syrmata* — brightly painted boat shelters glued to the cliff at water level. Quick stop at **Sarakiniko**, the lunar bay of white rocks sculpted by wind and sea — already a little in the shade; we will come back early morning. Dinner near the lodging at **Alivromelos**.
 
-- Return Loukataris car at **Kamares** port **at 10:00 a.m.**
-- **Seajets** ferry Sifnos → Milos **10:25–11:10 a.m.**
-- Pick up **Opel Corsa** (group B, manual) from **[Extreme Rentals](https://milos-extreme-rentals.com/)** — **Milos** port office **at 11:00 a.m.**
-- Check in at **[Petra Residence Mini Pool & Spa](https://www.booking.com/hotel/gr/petra-residence-mini-pool-spa.fr.html)**
+Island specialities:
+- **pitarakia** — fried half-moon pastries with fresh cheese
+- **ladenia** — tomato, onion and olive-oil focaccia
+- **Milos capers** — hand-picked from volcanic cliffs
+- **Milos kakavia** — fisherman's soup with a mineral edge
 
-## Day 13: Milos
+## Day 13: Milos — Fyriplaka, Paleochori & Plaka
 
-- Day on Milos: Sarakiniko, beaches, villages
+Breakfast at **Katrami** and bakery **Artepimata… Kai Alla** (*watermelon pie*, croissants…).
 
-## Day 14: Milos
+To **Fyriplaka**, a large sand-and-pebble beach under ochre and red cliffs: one of the most accessible on the south coast, with SUP, kayak (to neighbouring **Tsigrado**, a dramatic enclosed cove) or boat without a licence. Then **Paleochori**, a little further east: longer beach, turquoise water, coloured cliffs — we reach the sand via the cliff path from the upper car park rather than the lower one.
 
-- Last full day on the island
+Groceries in Apollonia, pool time, then sunset from **Plaka castle**. **Plaka**, hilltop village and « capital » of Milos, is a maze of white lanes; from the castle the view takes in Adamas, the bay and, on a clear day, neighbouring islands.
+
+## Day 14: Milos — Kleftiko by catamaran
+
+Day at sea with **Odysseus** (Milos & Poliegos). The plan shifts because of the wind: three stops. **Kleftiko**, a corridor of white cliffs, arches and caves where pirates once hid — swim in unreal blue water, reachable only by boat. **Gerakas**, a wilder, lesser-known cove. A final beach to finish.
+
+Dinner at **Rizes** in **Trypiti**, the village next to Plaka above Klima: early Christian catacombs, ancient theatre, and the spot where the **Venus de Milo** was found. Then **Loukoumades** in Plaka for honey-fried doughnuts.
 
 ## Day 15: Milos → Brussels
 
-- Return Extreme Rentals car at **Milos airport at 12:30 p.m.**
-- Flight Milos **2:30 p.m.** (Olympic Air) — layover Athens **1 h 30** — arrive Brussels **7:05 p.m.** (Aegean Airlines)
+Early return to **Sarakiniko** just after 8 a.m. — still quiet, the white light on the volcanic rock is worth it before the cruise coaches. Drinks at **Ice Monkey** in **Adamas**, Milos's main port, with a sea view. Picnic from **Artemis** bakery, then the tiny Milos airport and the flight via Athens.
 
 ## Practical information
 
@@ -127,28 +162,28 @@ Island specialities:
 
 | Day | Route | Departure | Arrival |
 |---|---|---|---|
-| 5 | Santorini → Folegandros | 2:30 p.m. | 3:15 p.m. |
-| 8 | Folegandros → Sifnos | 3:25 p.m. | 5:20 p.m. |
-| 12 | Sifnos → Milos | 10:25 a.m. | 11:10 a.m. |
+| 5 | Santorini → Folegandros | ~2:40 p.m. | — |
+| 8 | Folegandros → Sifnos | ~3:50 p.m. | via Milos |
+| 12 | Sifnos → Milos | morning | — |
 
-Book on [Seajets](https://www.seajets.com/), [Ferryhopper](https://www.ferryhopper.com/) or [Ferryscanner](https://www.ferryscanner.com/).
+Book on [Seajets](https://www.seajets.com/), [Ferryhopper](https://www.ferryhopper.com/) or [Ferryscanner](https://www.ferryscanner.com/). Timetables can shift on the day.
 
 ### Car rental
 
 | Island | Company | Vehicle | Duration | Price | Pick-up | Drop-off |
 |---|---|---|---|---|---|---|
-| Santorini | [CarHub](https://carhub.gr/) | Citroën C4 manual or similar | — | **€210** (taxes and third-party insurance included) | Airport — representative with name sign | — |
-| Folegandros | [Kountoris Car Rentals](https://kountouriscarrentals.gr/) | Renault Kadjar or similar | 3 days | **€240** (basic insurance) — pay on delivery | Port — white Kountoris sign, pre-filled contract | — |
-| Sifnos | [Loukataris](https://loukatarisrentals.gr/) (Michael) | — | Days 8–12 | **€320** — confirmed via WhatsApp | **Kamares** port, **5:20 p.m.** (day 8) | **Kamares** port, **10:00 a.m.** (day 12) |
-| Milos | [Extreme Rentals](https://milos-extreme-rentals.com/) | Opel Corsa or similar (group B, manual) | Days 12–15 | — | Milos port, **11:00 a.m.** (day 12) | Milos airport, **12:30 p.m.** (day 15) |
+| Santorini | [CarHub](https://carhub.gr/) | Fiat or similar | Days 1–5 | **€210** (taxes and third-party insurance) | Airport | Athinios port / airport |
+| Folegandros | [Kountouris Car Rentals](https://kountouriscarrentals.gr/) | Nissan | 3 days | **€240** (basic insurance) | Port | Port |
+| Sifnos | [Loukataris](https://loukatarisrentals.gr/) | Peugeot 208 or similar | Days 8–12 | **€320** | **Kamares** port | **Kamares** port |
+| Milos | [Extreme Rentals](https://milos-extreme-rentals.com/) | Group B manual | Days 12–15 | — | Milos port | Milos airport |
 
 ### Accommodation
 
-| Island | Lodging | Check-in / Check-out |
+| Island | Lodging | Notes |
 |---|---|---|
-| Santorini | [Aura Marina Apartments](https://www.aura-marina.com/?lang=en) | 3–8 p.m. / 8–11 a.m. |
-| Folegandros | [Lithia Villas](https://www.lithia-folegandros.gr/) | — |
-| Sifnos | [Villa Irini](https://sifnosvillairini.gr/fr/index.html) | — |
+| Santorini | [Aura Marina Apartments](https://www.aura-marina.com/?lang=en) | Akrotiri, caldera pool — Georges |
+| Folegandros | [Lithia Villas](https://www.lithia-folegandros.gr/) (Levanda house) | ~1.5 km from Chora, sea view — Hari |
+| Sifnos | [Villa Irini](https://sifnosvillairini.gr/fr/index.html) | Platis Gialos, pool |
 | Milos | [Petra Residence Mini Pool & Spa](https://www.booking.com/hotel/gr/petra-residence-mini-pool-spa.fr.html) | — |
 
 ## Activity list
