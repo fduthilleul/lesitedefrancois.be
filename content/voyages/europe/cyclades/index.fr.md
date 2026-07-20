@@ -28,19 +28,19 @@ Spécialités de l'île :
 - **aubergine blanche** — pauvre en graines, presque sans huile à la friture ; excellente en melitzanosalata
 - **chloro** — fromage de chèvre frais et crémeux, artisanal
 
-## Jour 2: Santorin — Fira → Oia
+## Jour 2: Santorin
 
 Petit déjeuner au café du village d'Akrotiri, puis la randonnée mythique de la caldeira : **Fira → Oia** (~10 km). **Fira**, capitale administrative, s'étire le long de la falaise avec ses boutiques et ses musées ; le sentier part de là, mer à gauche, villages blancs en filigrane, jusqu'à **Oia**, le village postcard des Cyclades — dômes bleus, cave houses et coucher de soleil légendaire. Mieux vaut y arriver en milieu de journée plutôt qu'à l'heure du *sunset* si l'on veut encore respirer.
 
 Pause chez **Chilled Box** avant de redescendre. Le bus se prend à l'arrêt en levant la main — ticket à **2,20 €**.
 
-## Jour 3: Santorin — Ancient Thira
+## Jour 3: Santorin
 
 Direction **Kamari**, station balnéaire de la côte est, plage de galets noirs et front de mer aménagé. De là, montée vers **Ancient Thira**, cité hellénistique perchée sur le **Mesa Vouno** : temples, agora, théâtre et vue plongeante sur les deux baies — Kamari d'un côté, Perissa de l'autre. Entrée **10 €** (gratuit pour les moins de 18 ans et les étudiants).
 
 Descente sur **Perissa**, jumelle plus étirée de Kamari, même sable noir, ambiance un peu plus libre. Bateau Perissa → Kamari et baignade. Pause déjeuner au **Corner Food Diner** (omelette grecque et compagnie).
 
-## Jour 4: Santorin — Oia, Vlychada & Pyrgos
+## Jour 4: Santorin
 
 Matinée piscine et café en terrasse au **Daily Coffee**. Retour à **Oia** : parking Sunset si le gratuit est plein. Balade dans le village, puis descente à **Amoudi**, le petit port au pied de la falaise — tavernes pieds dans l'eau, barques de pêcheurs, et quelques rochers pour se baigner à l'abri du village. Déjeuner près des moulins chez **Ellenika** — feuilles de vigne, anchois, salade de poulpe, souvlaki et un verre de **Vinsanto**.
 
@@ -66,13 +66,13 @@ Spécialités de l'île :
 - **miel de thym** — des collines arides de l'île
 - **kakavia** — soupe de pêcheur du jour
 
-## Jour 6: Folegandros — Livadaki
+## Jour 6: Folegandros
 
 Petit déjeuner sur la terrasse aux couleurs cycladiques. Randonnée **Ano Meria → Livadaki** sur les *monopati* — suivre les indications **FL** et les points bleus. **Livadaki** est une crique encaissée, eau turquoise, accès surtout à pied : l'effort de la descente se paie en baignade presque seuls. Remontée et déjeuner à la taverne **Irini** (poulet marsala, salade grecque, aubergines, courgettes, boulettes sauce citron…).
 
 Retour piscine, puis soirée à **Chora** : visite du **Kastro**, noyau fortifié du village où les maisons forment encore un rempart, souper au **To Spitiko** dans une ruelle calme.
 
-## Jour 7: Folegandros — Agali
+## Jour 7: Folegandros
 
 Randonnée vers les plages de **Fira** et d'**Agali** en passant par l'église de **Christos**. **Fira** (à ne pas confondre avec celle de Santorin) est une petite plage de galets quasi déserte ; **Agali**, plus bas, est la grande baie sableuse de la côte sud, avec tavernes et accès plus facile — le contraste entre les deux vaut le détour. Baignade à Fira quasiment seuls ; à Agali, on garde la baignade pour plus tard avec toute la famille.
 
@@ -94,17 +94,17 @@ Spécialités de l'île :
 
 Sentiers : [Sifnos Trails](https://sifnostrails.com/fr/).
 
-## Jour 9: Sifnos — Apollonia, Artemonas & Kastro
+## Jour 9: Sifnos
 
 Balade à pied : **Apollonia**, capitale de Sifnos, s'organise autour de ruelles « steno » où boutiques et tavernes se succèdent ; on rejoint ensuite **Artemonas**, quartier plus résidentiel aux demeures néoclassiques et jardins, puis **Kastro**, village fortifié médiéval collé à la falaise — églises encastrées, ruelles en labyrinthe, vue mer partout. Verre et visite du village, café près de l'arrêt, bus retour vers Apollonia (**2,20 €**/pers.).
 
 Piscine et plage l'après-midi. Souper à **Faros**, petit port de la côte sud-est, chez **Ammos** — restaurant ouvert depuis un mois, très bon.
 
-## Jour 10: Sifnos — Faros & Chrysopigi
+## Jour 10: Sifnos
 
 Matinée plage et location de **paddle** à Platis Gialos (gilet de sauvetage obligatoire). Puis randonnée **Faros → monastère de Chrysopigi** (~35 min, chemin aménagé) : le monastère blanc est posé sur une fine langue de terre entre deux criques, **Glyfo** et **Apokofto** — l'une des images les plus photographiées de Sifnos. Possibilité de sauter des rochers près du monastère. Pause goûter chez Ammos (glaces Django, *halva* grec). Soirée à **Artemonas**.
 
-## Jour 11: Sifnos — Vathi & Kastro
+## Jour 11: Sifnos
 
 Matinée dans la baie de **Vathi**, fjord paisible à l'ouest de l'île : eau calme, potiers encore actifs, restaurants pieds dans le sable. Dîner au restaurant sur la plage.
 
@@ -120,7 +120,7 @@ Spécialités de l'île :
 - **câpres de Milos** — récoltées sur les falaises volcaniques
 - **kakavia milienne** — soupe de pêcheur aux accents minéraux
 
-## Jour 13: Milos — Fyriplaka, Paleochori & Plaka
+## Jour 13: Milos
 
 Petit déjeuner chez **Katrami** et boulangerie **Artepimata… Kai Alla** (*watermelon pie*, croissants…).
 
@@ -128,7 +128,7 @@ Direction **Fyriplaka**, grande plage de sable et de galets sous des falaises au
 
 Courses à Apollonia, piscine, puis coucher de soleil depuis le **kastro de Plaka**. **Plaka**, village perché et « capitale » de Milos, est un labyrinthe de ruelles blanches ; depuis le château, la vue embrasse Adamas, la baie et, par beau temps, jusqu'aux îles voisines.
 
-## Jour 14: Milos — Kleftiko en catamaran
+## Jour 14: Milos
 
 Journée en mer avec **Odysseus** (Milos & Poliegos). Le programme change à cause du vent : trois arrêts. **Kleftiko**, allée de falaises blanches, arches et grottes où se cachaient autrefois les pirates — baignade dans une eau d'un bleu irréel, accessible uniquement par bateau. **Gerakas**, crique plus sauvage, moins connue. Une dernière plage pour finir.
 
