@@ -18,9 +18,11 @@ Deux semaines dans les **Cyclades** : quatre îles — la mythique **Santorin** 
 
 **Santorin** (Thira) est l'île la plus emblématique des Cyclades : une caldeira volcanique aux villages blancs et bleus accrochés à la falaise. L'éruption qui l'a façonnée, vers 1600 av. J.-C., reste au cœur de son identité.
 
-Vol via Athènes, arrivée un peu plus tard que prévu. Récupération de la voiture à l'aéroport, puis installation à **[Aura Marina Apartments](https://www.aura-marina.com/?lang=en)** — accueil chaleureux de Georges, piscine face à la caldeira.
+Une fois n'est pas coutume, cette année, nous décidons de prendre le train puisque l'avion décolle seulement vers 11h. Vol vers Santorin via Athènes, arrivée un peu plus tard que prévu. Récupération de la voiture à l'aéroport, puis installation à **[Aura Marina Apartments](https://www.aura-marina.com/?lang=en)** à Akrotiri (à environ 20 minutes en voiture) — accueil chaleureux de Georges, piscine face à la caldeira.
 
-Première soirée à **Akrotiri**, village du sud de l'île, plus tranquille que Fira ou Oia : ruelles blanches, château vénitien en hauteur, et le site archéologique voisin (la « Pompei de l'Égée ») à deux pas. Souper au restaurant **Mitseli**.
+{{< figure src="images/aura-apartment.jpeg" alt="Vue sur la caldeira depuis l'appartement" caption="Vue sur la caldeira au coucher du soleil depuis l'appartement" >}}
+
+Première soirée à **Akrotiri**, village du sud de l'île, plus tranquille que Fira ou Oia : ruelles blanches, château vénitien en hauteur, et le site archéologique voisin (la « Pompei de l'Égée ») à deux pas. Souper au restaurant **[Mitseli](https://mistelirestaurant.com/)**.
 
 Spécialités de l'île :
 - **tomatokeftedes** — beignets de tomates cerises locales, frits à la menthe et aux herbes
@@ -30,9 +32,13 @@ Spécialités de l'île :
 
 ## Jour 2: Santorin
 
-Petit déjeuner au café du village d'Akrotiri, puis la randonnée mythique de la caldeira : **Fira → Oia** (~10 km). **Fira**, capitale administrative, s'étire le long de la falaise avec ses boutiques et ses musées ; le sentier part de là, mer à gauche, villages blancs en filigrane, jusqu'à **Oia**, le village postcard des Cyclades — dômes bleus, cave houses et coucher de soleil légendaire. Mieux vaut y arriver en milieu de journée plutôt qu'à l'heure du *sunset* si l'on veut encore respirer.
+Petit déjeuner au café **[Akrothiri](https://akrothiri.gr/)** du village du même nom (il est à moins de 10 minutes à pied de l'appartement), puis la randonnée mythique de la caldeira : **Fira → Oia** (~10 km). On se gare dans un [parking gratuit](https://maps.app.goo.gl/jFmK9ToipA3mmi2H7) à Imerovigli un peu plus bas que l'arrêt de bus. **Fira**, capitale administrative, s'étire le long de la falaise avec ses boutiques et ses musées ; le [sentier](https://maps.app.goo.gl/SmFdMXL8PC1wW7CY8) part de là, mer à gauche, villages blancs en filigrane, jusqu'à **Oia**, le village postcard des Cyclades — dômes bleus, cave houses et coucher de soleil légendaire. Mieux vaut y arriver en milieu de journée plutôt qu'à l'heure du *sunset* si l'on veut encore respirer.
 
-Pause chez **Chilled Box** avant de redescendre. Le bus se prend à l'arrêt en levant la main — ticket à **2,20 €**.
+{{< figure src="images/imerovigli.jpeg" alt="Début de la randonnée" caption="Début de la randonnée de Fira à Oia" >}}
+
+{{< figure src="images/tortue.jpeg" alt="On croise même des tortues" caption="On croise même des tortues lors de la randonnée" >}}
+
+Pause glace avec topping pour les enfants chez [ChillBox](https://chillbox.gr/en/) avant de redescendre. Le bus se prend à l'arrêt en levant la main — ticket à **2,20 €**.
 
 ## Jour 3: Santorin
 
