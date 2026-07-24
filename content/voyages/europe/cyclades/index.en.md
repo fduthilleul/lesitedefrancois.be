@@ -2,7 +2,7 @@
 title: "The Cyclades"
 date: 2026-06-27
 categories: ["Travels", "Europe"]
-tags: ["Greece", "Cyclades", "Santorini", "Folegandros", "Sifnos", "Milos", "2022"]
+tags: ["Greece", "Cyclades", "Santorini", "Folegandros", "Sifnos", "Milos", "2026"]
 summary: "Fifteen days across Santorini, Folegandros, Sifnos and Milos — flights via Athens, Seajets ferries and an island-hopping road trip."
 featureimage: /images/cyclades.jpeg
 showTableOfContents: true
@@ -18,9 +18,11 @@ Two weeks in the **Cyclades**: four islands — legendary **Santorini** for the 
 
 **Santorini** (Thira) is the most iconic island in the Cyclades: a volcanic caldera with white-and-blue villages clinging to the cliffs. The eruption that shaped it, around 1600 BC, remains at the heart of its identity.
 
-Flight via Athens, arrival a little later than planned. Pick up the rental car at the airport, then check in at **[Aura Marina Apartments](https://www.aura-marina.com/?lang=en)** — warm welcome from Georges, pool facing the caldera.
+For once, we take the train this year — the flight only leaves around 11 a.m. Flight to Santorini via Athens, arrival a little later than planned. Pick up the rental car at the airport, then check in at **[Aura Marina Apartments](https://www.aura-marina.com/?lang=en)** in Akrotiri (about a 20-minute drive) — warm welcome from Georges, pool facing the caldera.
 
-First evening in **Akrotiri**, a village in the south of the island, quieter than Fira or Oia: white lanes, a Venetian castle above, and the neighbouring archaeological site (the « Pompeii of the Aegean ») close by. Dinner at restaurant **Mitseli**.
+{{< figure src="images/aura-apartment.jpeg" alt="Caldera view from the apartment" caption="Sunset caldera view from the apartment" >}}
+
+First evening in **Akrotiri**, a village in the south of the island, quieter than Fira or Oia: white lanes, a Venetian castle above, and the neighbouring archaeological site (the « Pompeii of the Aegean ») close by. Dinner at restaurant **[Mitseli](https://mistelirestaurant.com/)**.
 
 Island specialities:
 - **tomatokeftedes** — local cherry-tomato fritters with mint and herbs
@@ -28,19 +30,23 @@ Island specialities:
 - **white eggplant** — low in seeds, almost no oil when fried; excellent as melitzanosalata
 - **chloro** — fresh, creamy artisan goat's cheese
 
-## Day 2: Santorini — Fira → Oia
+## Day 2: Santorini
 
-Breakfast at the village café in Akrotiri, then the classic caldera hike: **Fira → Oia** (~10 km). **Fira**, the administrative capital, stretches along the cliff with shops and museums; the path leaves from there, sea on the left, white villages in the distance, as far as **Oia**, the postcard village of the Cyclades — blue domes, cave houses and legendary sunsets. Better to arrive mid-afternoon than at *sunset* hour if you still want room to breathe.
+Breakfast at café **[Akrothiri](https://akrothiri.gr/)** in the village of the same name (less than a 10-minute walk from the apartment), then the classic caldera hike: **Fira → Oia** (~10 km). We park in a [free car park](https://maps.app.goo.gl/jFmK9ToipA3mmi2H7) in Imerovigli, a little below the bus stop. **Fira**, the administrative capital, stretches along the cliff with shops and museums; the [path](https://maps.app.goo.gl/SmFdMXL8PC1wW7CY8) leaves from there, sea on the left, white villages in the distance, as far as **Oia**, the postcard village of the Cyclades — blue domes, cave houses and legendary sunsets. Better to arrive mid-afternoon than at *sunset* hour if you still want room to breathe.
 
-Stop at **Chilled Box** before heading back. Buses are flagged down at the stop — ticket **€2.20**.
+{{< figure src="images/imerovigli.jpeg" alt="Start of the hike" caption="Start of the Fira to Oia hike" >}}
 
-## Day 3: Santorini — Ancient Thera
+{{< figure src="images/tortue.jpeg" alt="We even meet tortoises" caption="We even meet tortoises along the trail" >}}
+
+Ice-cream stop with toppings for the kids at [ChillBox](https://chillbox.gr/en/) before heading back. Buses are flagged down at the stop — ticket **€2.20**.
+
+## Day 3: Santorini
 
 To **Kamari**, east-coast resort with black pebbles and a developed seafront. From there, climb to **Ancient Thera**, a Hellenistic city perched on **Mesa Vouno**: temples, agora, theatre and plunging views over both bays — Kamari on one side, Perissa on the other. Entry **€10** (free for under-18s and students).
 
 Down to **Perissa**, Kamari's longer twin, same black sand, a freer atmosphere. Boat Perissa → Kamari and a swim. Lunch at **Corner Food Diner** (Greek omelette and more).
 
-## Day 4: Santorini — Oia, Vlychada & Pyrgos
+## Day 4: Santorini
 
 Morning pool and terrace coffee at **Daily Coffee**. Back to **Oia**: Sunset parking if the free one is full. Walk through the village, then down to **Amoudi**, the small harbour at the foot of the cliff — feet-in-the-water tavernas, fishing boats, and a few rocks for a swim away from the crowds. Lunch near the windmills at **Ellenika** — vine leaves, anchovies, octopus salad, souvlaki and a glass of **Vinsanto**.
 
@@ -66,13 +72,13 @@ Island specialities:
 - **thyme honey** — from the island's dry hills
 - **kakavia** — fisherman's soup of the day
 
-## Day 6: Folegandros — Livadaki
+## Day 6: Folegandros
 
 Breakfast on the Cycladic-coloured terrace. Hike **Ano Meria → Livadaki** on the *monopatia* — follow **FL** signs and blue dots. **Livadaki** is an enclosed cove, turquoise water, mainly reached on foot: the descent is rewarded with a swim almost alone. Climb back and lunch at taverna **Irini** (marsala chicken, Greek salad, aubergine, courgette, lemon-sauce meatballs…).
 
 Pool time, then evening in **Chora**: visit the **Kastro**, the fortified core where houses still form a rampart, dinner at **To Spitiko** in a quiet lane.
 
-## Day 7: Folegandros — Agali
+## Day 7: Folegandros
 
 Hike towards **Fira** and **Agali** beaches via **Christos** church. **Fira** (not to be confused with Santorini's) is a small, almost empty pebble beach; **Agali**, lower down, is the main sandy bay on the south coast, with tavernas and easier access — the contrast is worth it. Swim at Fira almost alone; at Agali we save the swim for later with the whole family.
 
@@ -94,17 +100,17 @@ Island specialities:
 
 Trails: [Sifnos Trails](https://sifnostrails.com/fr/).
 
-## Day 9: Sifnos — Apollonia, Artemonas & Kastro
+## Day 9: Sifnos
 
 Walk on foot: **Apollonia**, Sifnos's capital, is built around « steno » lanes of shops and tavernas; then **Artemonas**, a more residential area with neoclassical mansions and gardens; then **Kastro**, a medieval fortified village clinging to the cliff — churches tucked into the walls, labyrinth lanes, sea views everywhere. Drink and visit, coffee near the bus stop, bus back to Apollonia (**€2.20**/person).
 
 Pool and beach in the afternoon. Dinner in **Faros**, a small south-east harbour, at **Ammos** — open for a month, very good.
 
-## Day 10: Sifnos — Faros & Chrysopigi
+## Day 10: Sifnos
 
 Beach morning and **paddle** rental at Platis Gialos (life jacket required). Then hike **Faros → Chrysopigi monastery** (~35 min, well-maintained path): the white monastery sits on a thin spit between two coves, **Glyfo** and **Apokofto** — one of Sifnos's most photographed views. Option to jump from the rocks near the monastery. Snack stop at Ammos (Django ice cream, Greek *halva*). Evening in **Artemonas**.
 
-## Day 11: Sifnos — Vathi & Kastro
+## Day 11: Sifnos
 
 Morning in **Vathi** bay, a peaceful fjord on the west of the island: calm water, potters still at work, restaurants on the sand. Lunch at the beach restaurant.
 
@@ -120,7 +126,7 @@ Island specialities:
 - **Milos capers** — hand-picked from volcanic cliffs
 - **Milos kakavia** — fisherman's soup with a mineral edge
 
-## Day 13: Milos — Fyriplaka, Paleochori & Plaka
+## Day 13: Milos
 
 Breakfast at **Katrami** and bakery **Artepimata… Kai Alla** (*watermelon pie*, croissants…).
 
@@ -128,7 +134,7 @@ To **Fyriplaka**, a large sand-and-pebble beach under ochre and red cliffs: one 
 
 Groceries in Apollonia, pool time, then sunset from **Plaka castle**. **Plaka**, hilltop village and « capital » of Milos, is a maze of white lanes; from the castle the view takes in Adamas, the bay and, on a clear day, neighbouring islands.
 
-## Day 14: Milos — Kleftiko by catamaran
+## Day 14: Milos
 
 Day at sea with **Odysseus** (Milos & Poliegos). The plan shifts because of the wind: three stops. **Kleftiko**, a corridor of white cliffs, arches and caves where pirates once hid — swim in unreal blue water, reachable only by boat. **Gerakas**, a wilder, lesser-known cove. A final beach to finish.
 
