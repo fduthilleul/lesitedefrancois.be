@@ -38,7 +38,14 @@ Petit déjeuner au café **[Akrothiri](https://akrothiri.gr/)** du village du m�
 
 {{< figure src="images/tortue.jpeg" alt="On croise même des tortues" caption="On croise même des tortues lors de la randonnée" >}}
 
+{{< carousel images="{images/oia-1.jpeg,images/oia-2.jpeg}" aspectRatio="3-2" duration="500" ride="false" >}}
+
+Arrivée à Oia et église d’Agios Giorgios
+
 Pause glace avec topping pour les enfants chez [ChillBox](https://chillbox.gr/en/) avant de redescendre. Le bus se prend à l'arrêt en levant la main — ticket à **2,20 €**.
+
+{{< figure src="images/fira-imerovigli.jpeg" alt="Dôme et clocher typique des Cyclades" caption="Dôme et clocher typique des Cyclades lors du retour vers le parking" >}}
+
 
 ## Jour 3: Santorin
 

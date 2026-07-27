@@ -38,7 +38,13 @@ Breakfast at café **[Akrothiri](https://akrothiri.gr/)** in the village of the 
 
 {{< figure src="images/tortue.jpeg" alt="We even meet tortoises" caption="We even meet tortoises along the trail" >}}
 
+{{< carousel images="{images/oia-1.jpeg,images/oia-2.jpeg}" aspectRatio="3-2" duration="500" ride="false" >}}
+
+Arrival in Oia and Agios Giorgios church
+
 Ice-cream stop with toppings for the kids at [ChillBox](https://chillbox.gr/en/) before heading back. Buses are flagged down at the stop — ticket **€2.20**.
+
+{{< figure src="images/fira-imerovigli.jpeg" alt="Typical Cycladic dome and bell tower" caption="Typical Cycladic dome and bell tower on the way back to the car park" >}}
 
 ## Day 3: Santorini
 
