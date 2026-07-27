@@ -25,7 +25,7 @@ The addresses below are places I have tried on my travels, sorted by country.
 An open laboratory and neighbourhood roastery in Ixelles, where Xavier Beressy and his team roast specialty coffees on-site. Simple, lively atmosphere, standout filter coffees and barista workshops. Belgian Aeropress Champion 2024.
 {{< /coffee-shop >}}
 
-{{< coffee-shop name="DRACHE Specialty Coffee Bar" location="Quai au Bois à Brûler 11, 1000 Brussels" url="https://www.instagram.com/drache.bxl/" >}}
+{{< coffee-shop name="DRACHE Specialty Coffee Bar" location="Quai au Bois à Brûler 11, 1000 Brussels" url="https://www.instagram.com/drache.bxl/" image="images/drache.jpeg" >}}
 A cosy coffee shop on the fish market quay (Vismet), known for a creative menu: classic espressos, cold brew, and signature lattes (butterfly pea, beetroot, ube, black sesame…). Small pastry selection with vegan options.
 {{< /coffee-shop >}}
 
@@ -33,7 +33,7 @@ A cosy coffee shop on the fish market quay (Vismet), known for a creative menu: 
 Belgian micro-roastery south of Brussels, founded by Tanguy in 2020. Seasonal, traceable and ethical coffees, roasted to highlight each origin's clarity and character. Online shop and subscriptions from the roastery.
 {{< /coffee-shop >}}
 
-{{< coffee-shop name="Jolicoeur" location="Rue d'Enghien 3, 7000 Mons" url="https://jolicoeurcoffee.be/" >}}
+{{< coffee-shop name="Jolicoeur" location="Rue d'Enghien 3, 7000 Mons" url="https://jolicoeurcoffee.be/" image="images/jolicoeur.jpeg" >}}
 A warm little coffee shop near Mons' Grand-Place, run by Ludovic Pirrera — a globe-trotting barista who roasts his own beans in Ghlin. Bold espresso, V60 and Aeropress, beans for sale and cupping workshops. Traceable cooperative sourcing.
 {{< /coffee-shop >}}
 
@@ -55,6 +55,18 @@ A contemporary Brussels roaster sourcing, roasting and serving exceptional coffe
 
 {{< coffee-shop name="Coffee Makers" location="151 Rue Pierre Mauroy, 59800 Lille" url="https://coffeemakers.fr/" >}}
 A Lille institution since 2013: espresso bar, tea room and certified organic artisan roaster (Ludovic Fiers). Breakfast, Saturday brunch, homemade pastries, matcha and hot chocolate in a cosy city-centre coffee shop.
+{{< /coffee-shop >}}
+
+{{< coffee-shop name="Liperli" location="33 Rue de Douai, 75009 Paris" url="https://liperli.fr/" image="images/liperli.jpeg" >}}
+Paris specialty coffee roaster open since September 2023, nestled in the 9th arrondissement. Liperli selects only coffees scored above 84 SCA, roasted on-site, and regularly offers ephemeral micro-lots and nano-lots that can't be repeated. Kees van der Westen machine for precise espressos, gentle extractions (V60) and creative drinks. Warm atmosphere, carefully curated playlist and artisan pastries — a real favourite.
+{{< /coffee-shop >}}
+
+## 🇬🇷 Greece
+
+{{< coffee-shop name="Way Cup Roaster" location="Platis Gialos, Sifnos (Cyclades)" url="https://waycuproaster.com/en/about-us/" image="images/waycup.jpeg" >}}
+Sifnos-based roaster founded by Isavella Venaki, born on the island, with Konstantinos Tsekouras as head barista — awarded in Italy in 2015 for his coffee work. They've been in coffee since 2010; roasting took shape after that prize, first on trial at a Platis Gialos beach café, then with a mill in Chrysopigi since 2019 (their *Summer Spot* runs in the summer months).
+
+At Platis Gialos I of course had to try a **flat white** — and it delivered. They also sell **ice cream** and, of course, their **coffee** (beans and Nespresso-compatible capsules). A welcome stop beyond the classic Greek *freddo* on a Cycladic trip.
 {{< /coffee-shop >}}
 
 ## 🇨🇦 Canada

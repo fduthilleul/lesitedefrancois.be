@@ -32,7 +32,7 @@ Coffee shop cosy au bord du Marché aux Poissons (Vismet), connu pour sa carte c
 Micro-torréfacteur belge au sud de Bruxelles, fondé par Tanguy en 2020. Cafés saisonniers, traçables et éthiques, torréfiés pour révéler clarté et caractère de chaque origine — sans les standardiser. Vente en ligne et abonnements depuis la roasterie.
 {{< /coffee-shop >}}
 
-{{< coffee-shop name="Jolicoeur" location="Rue d'Enghien 3, 7000 Mons" url="https://jolicoeurcoffee.be/" >}}
+{{< coffee-shop name="Jolicoeur" location="Rue d'Enghien 3, 7000 Mons" url="https://jolicoeurcoffee.be/" image="images/jolicoeur.jpeg" >}}
 Petit coffee shop chaleureux près de la Grand-Place de Mons, tenu par Ludovic Pirrera : barista globe-trotter qui torréfie lui-même ses grains dans son atelier de Ghlin. Espresso corsé, V60 et Aeropress, grains en vente et ateliers cupping. Grains sourcés auprès de coopératives traceables.
 {{< /coffee-shop >}}
 
@@ -58,6 +58,14 @@ Institution lilloise depuis 2013 : espresso bar, salon de thé et torréfacteur 
 
 {{< coffee-shop name="Liperli" location="33 Rue de Douai, 75009 Paris" url="https://liperli.fr/" image="images/liperli.jpeg" >}}
 Torréfacteur de café de spécialité parisien ouvert depuis septembre 2023, niché dans le 9e arrondissement. Liperli sélectionne exclusivement des cafés scorés au-dessus de 84 SCA, torréfiés sur place, et propose régulièrement des micro-lots et nano-lots éphémères impossibles à reproduire. Machine Kees van der Westen pour des espressos précis, extractions douces (V60) et boissons créatives. Ambiance chaleureuse, sélection musicale soignée et pâtisseries artisanales — un vrai coup de cœur.
+{{< /coffee-shop >}}
+
+## 🇬🇷 Grèce
+
+{{< coffee-shop name="Way Cup Roaster" location="Platis Gialos, Sifnos (Cyclades)" url="https://waycuproaster.com/en/about-us/" image="images/waycup.jpeg" >}}
+Torréfacteur sifniote fondé par Isavella Venaki, native de l’île, avec Konstantinos Tsekouras en head barista — récompensé en Italie en 2015 pour son travail sur le café. L’aventure a commencé en 2010 ; la torréfaction a pris forme après ce prix, d’abord en test sur la plage de Platis Gialos, puis avec un moulin à Chrysopigi depuis 2019 (leur *Summer Spot* ouvre l’été).
+
+Sur place à Platis Gialos, j’ai bien sûr voulu tester un **flat white** — et c’était réussi. Ils vendent aussi des **glaces** et, évidemment, leur **café** (grains et capsules Nespresso-compatibles). Une belle adresse pour prolonger un séjour cycladique autrement qu’au freddo classique.
 {{< /coffee-shop >}}
 
 ## 🇨🇦 Canada
