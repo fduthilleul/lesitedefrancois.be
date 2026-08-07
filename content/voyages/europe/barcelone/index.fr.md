@@ -13,17 +13,15 @@ Envie d'un peu de ciel bleu à la Toussaint. Destination Barcelone pour un city 
 
 - Départ de Bruxelles Charleroi Sud (08:25)
 - Arrivée à l'aéroport de Barcelone El-Prat
-- Aerobus A2 vers Gran Comte Borrell
-- Appartement Aspasios Market Balconies (juste en face du Mercada San Antoni)
-- Antic Hospital de la Creu
-- Traversée El Raval
-- Rambla del Ravel
-- Chat Botero
-- Marche de la Boqueria
+- Le bus Aerobus est très pratique pour rejoindre le centre ville de Barcelone. On prend l'Aerobus A2 vers Gran Via - Borrell. Plus d'informations (prix, arréts, horaires en temps réel,...) sur le site [Aerobus](https://aerobusbarcelona.es/fr/)
+- L'appartement [Aspasios Market Balconies](https://www.aspasios.com/fr/destination/barcelone/market-balconies-apartments) se situe juste en face du Mercada San Antoni et pas très loin de l'arrêt de bus. Nous sommes trop tót pour déposer nos valises à l'appartement mais nous pouvons accéder dans l'intérieur de l'immeuble où un espace de casiers est disponible: très pratique pour commencer à visiter Barcelone les mains vides.
+- On se dirige vers le quartier du Raval via la Carrer de Sant Antoni Abat et la Carrer de l'Hospital. On s'arrête sur la Rambla del Raval (pas la Rambla super touristique que tout le monde connait) pour observer une des sculptures de Botero (le chat de Botero). 
+- On continue notre balade à pied et on entre dans la cour du [vieil hopital de la Santa Creu](https://www.barcelona.cat/en/discoverbcn/pics/el-antiguo-hospital-de-la-santa-creu-92086008748)
+- On débouche sur la fameuse Rambla au niveau du métro Liceu et de la Plaça Boquerio. On remonte la Rambla pour passer devant le marché de la Boqueria.
 - Incursion dans la Barri Gotic
-- Place del Pi, facade rose
-- Pont El Brisbe
-- Place del Rei
+- On se laisse tenter par un premier arrêt tapas au [El Pintxos de Petrixol](https://elpintxodepetritxol.es/) dans la rue du même nom. Nous ne sortons pas convaincus du restaurant nous sommes probablement déjà trop près du centre touristique et la qualité est assez moyenne. Cela permet néanmoins de se mettre dans l'ambiance de la capitale catalane.
+- On redescend la rue jusqu'à la Place del Pi qui fait face à la [basilique de la Santa Maria del Pi](https://basilicadelpi.cat/en/home/). Le terme "del Pi" fait référence au pin qui s'y trouve. C'est une jolie petite placette piétionne avec de belles facades dans les tons roses. On entre dans la basilique à la rosace impressionante.
+- On continue de découvrir la vieille ville et le quartier gothique. On passe en dessous du Pont El Brisbe situé à proximitè de la [place del Rei](https://thisisbarcelona.com/fr/architecture/espaces-et-elements-urbains/placa-del-rei)(la place du Roi).
 - Quartier El Born et excellent café chez Xilotera
 - Visite du Palais de la musique catalane
 - Arc de Triomphe
