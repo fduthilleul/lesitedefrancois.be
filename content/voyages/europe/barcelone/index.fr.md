@@ -21,9 +21,9 @@ Envie d'un peu de ciel bleu à la Toussaint. Destination Barcelone pour un city 
 - Incursion dans la Barri Gotic
 - On se laisse tenter par un premier arrêt tapas au [El Pintxos de Petrixol](https://elpintxodepetritxol.es/) dans la rue du même nom. Nous ne sortons pas convaincus du restaurant nous sommes probablement déjà trop près du centre touristique et la qualité est assez moyenne. Cela permet néanmoins de se mettre dans l'ambiance de la capitale catalane.
 - On redescend la rue jusqu'à la Place del Pi qui fait face à la [basilique de la Santa Maria del Pi](https://basilicadelpi.cat/en/home/). Le terme "del Pi" fait référence au pin qui s'y trouve. C'est une jolie petite placette piétionne avec de belles facades dans les tons roses. On entre dans la basilique à la rosace impressionante.
-- On continue de découvrir la vieille ville et le quartier gothique. On passe en dessous du Pont El Brisbe situé à proximitè de la [place del Rei](https://thisisbarcelona.com/fr/architecture/espaces-et-elements-urbains/placa-del-rei)(la place du Roi).
-- Quartier El Born et excellent café chez Xilotera
-- Visite du Palais de la musique catalane
+- On continue de découvrir la vieille ville et le quartier gothique. On passe en dessous du Pont El Brisbe situé à proximitè de la [place del Rei](https://thisisbarcelona.com/fr/architecture/espaces-et-elements-urbains/placa-del-rei) (la place du Roi).
+- On quitte tout doucement le Barri Gotic pour entrer dans le quartier du Born (El Born) via la Carrer de la Bòria. On s'arrête chez [Xiloteca](https://www.instagram.com/xiloteca.bcn/) un café de spécialité à emporter qui vend des produits (miel, chocolat, sardines, cidre, tasses colorées,...) appréciés du propriétaire des lieux.
+- Direction le magnifique [Palais de la musique catalane](https://www.palaumusica.cat/en/) pour une visite libre. Le batiment est de toute beauté. On peut s'asseoir dans la salle pour écouter les répétitions des musiciens et sortit sur la terrasse de palais. On continue de flaner dans le Born en passant devant un joli magasin de poteries "Working in the redwoods". On s'engage dans le Passatge de Sant Benet et on passe devant un très beau streetart. Au bout de cette rue se trouve l'[Hotel REC](https://www.instagram.com/hotelrecbcn/?hl=en).
 - Arc de Triomphe
 - Parc de la Citadelle
 - Descente vers la plage de La Barceloneta
@@ -82,3 +82,6 @@ Envie d'un peu de ciel bleu à la Toussaint. Destination Barcelone pour un city 
 - Boulangerie Turris juste à côté
 - Aérobus A2 vers le Terminal 2
 - Dernier bain de soleil avant d'embarquer
+
+## Ce qu'on n'a pas eu l'occasion de faire
+- [La Fontaine Magique de Montjuic](https://www.barcelona.cat/en/what-to-do-in-bcn/magic-fountain/magic-fountains-show-times): spectacle gratuit du mercredi au dimanche de début juin à fin septembre de 21h30 à 22h30. Deux parties de 30 minutes. On peut consulter la programmation des chorégraphies sur le [site](https://www.barcelona.cat/en/what-to-do-in-bcn/magic-fountain/choreographies-magic-fountain).
