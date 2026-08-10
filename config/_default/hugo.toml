@@ -1,5 +1,5 @@
 theme = "blowfish"
-baseURL = "https://fduthilleul.github.io/lesitedefrancois.be/"
+baseURL = "https://lesitedefrancois.be/"
 defaultContentLanguage = "fr"
 
 enableRobotsTXT = true

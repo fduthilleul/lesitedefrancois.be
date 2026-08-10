@@ -44,6 +44,7 @@ Barcelone n'est pas une ville qu'on visite d'un bloc. C'est une mosaïque de vil
 **À voir.** La plage bien sûr, le marché couvert du quartier, l'église Sant Miquel del Port, et la promenade qui longe le port jusqu'au W Barcelona, la « voile » qui ferme l'horizon côté mer.
 
 **Anecdote.** Le quartier n'existait pas avant le XVIIIe siècle : il a été construit pour reloger les habitants du quartier de la Ribera, rasé pour faire place à la citadelle militaire voulue par Philippe V après le siège de 1714. Le plan en damier si particulier de la Barceloneta est donc, à l'origine, un plan conçu par des ingénieurs militaires.
+
 ### L'Eixample — la démesure modernista
 
 **Ambiance.** De larges avenues, des immeubles cossus aux angles arrondis (les fameux « xamfrans » du plan Cerdà) et une profusion de détails Art nouveau à chaque coin de rue. On lève constamment le nez.
@@ -103,6 +104,7 @@ De quoi construire un city trip sur mesure selon l'énergie du jour : ruelles et
 - Départ de Bruxelles Charleroi Sud (08:25)
 - Arrivée à l'aéroport de Barcelone El-Prat
 - Le bus Aerobus est très pratique pour rejoindre le centre ville de Barcelone. On prend l'Aerobus A2 vers Gran Via - Borrell. Plus d'informations (prix, arréts, horaires en temps réel,...) sur le site [Aerobus](https://aerobusbarcelona.es/fr/)
+- **Bon à savoir:** L'arrêt de l'Aerobus vers l'aéroport (lignes A1 et A2) à la Plaça de Catalunya se trouve juste devant le grand magasin El Corte Inglés. Attention : il y a un arrêt distinct pour chacune des deux lignes Aerobus (A1 pour le Terminal 1, A2 pour le Terminal 2) — vérifiez bien le panneau du bus avant de monter. Ryanair opère depuis le Terminal 2 (T2) de l'aéroport de Barcelone-El Prat donc il faut prendre la ligne A2. Je recommande ce [site](https://monbarcelone.com/aerobus/) en complément du site officiel pour disposer de toutes les informations utiles (photos, endroits des arrêts, conseils pour l'achat des billets,...). 
 - L'appartement [Aspasios Market Balconies](https://www.aspasios.com/fr/destination/barcelone/market-balconies-apartments) se situe juste en face du Mercada San Antoni et pas très loin de l'arrêt de bus. Nous sommes trop tót pour déposer nos valises à l'appartement mais nous pouvons accéder dans l'intérieur de l'immeuble où un espace de casiers est disponible: très pratique pour commencer à visiter Barcelone les mains vides.
 - On se dirige vers le quartier du Raval via la Carrer de Sant Antoni Abat et la Carrer de l'Hospital. On s'arrête sur la Rambla del Raval (pas la Rambla super touristique que tout le monde connait) pour observer une des sculptures de Botero (le chat de Botero). 
 - On continue notre balade à pied et on entre dans la cour du [vieil hopital de la Santa Creu](https://www.barcelona.cat/en/discoverbcn/pics/el-antiguo-hospital-de-la-santa-creu-92086008748)
@@ -113,10 +115,9 @@ De quoi construire un city trip sur mesure selon l'énergie du jour : ruelles et
 - On continue de découvrir la vieille ville et le quartier gothique. On passe en dessous du Pont El Brisbe situé à proximitè de la [place del Rei](https://thisisbarcelona.com/fr/architecture/espaces-et-elements-urbains/placa-del-rei) (la place du Roi).
 - On quitte tout doucement le Barri Gotic pour entrer dans le quartier du Born (El Born) via la Carrer de la Bòria. On s'arrête chez [Xiloteca](https://www.instagram.com/xiloteca.bcn/) un café de spécialité à emporter qui vend des produits (miel, chocolat, sardines, cidre, tasses colorées,...) appréciés du propriétaire des lieux.
 - Direction le magnifique [Palais de la musique catalane](https://www.palaumusica.cat/en/) pour une visite libre. Le batiment est de toute beauté. On peut s'asseoir dans la salle pour écouter les répétitions des musiciens et sortit sur la terrasse de palais. On continue de flaner dans le Born en passant devant un joli magasin de poteries "Working in the redwoods". On s'engage dans le Passatge de Sant Benet et on passe devant un très beau streetart. Au bout de cette rue se trouve l'[Hotel REC](https://www.instagram.com/hotelrecbcn/?hl=en).
-- Arc de Triomphe
-- Parc de la Citadelle
-- Descente vers la plage de La Barceloneta
-- Plus de 26,000 pas pour cette premiere journee
+- On passe sour l'Arc de Triomf, porte d’entrée néo-mudéjar en brique rouge conçue par Josep Vilaseca pour l’Exposition universelle de 1888 — un arc civil, pas militaire, qui ouvre le Passeig de Lluís Companys vers le Parc de la Ciutadella. Ce parc est aménagé sur l’emplacement de la citadelle de Philippe V, site de l’Exposition universelle de 1888, avec sa Cascada Monumentale (à laquelle un jeune Gaudí a collaboré) et le Parlement de Catalogne. 
+- On continue jusqu'à la plage de la Barceloneta; plage urbaine du vieux quartier de pêcheurs, entièrement ouverte sur la mer pour les JO de 1992, devenue le poumon balnéaire du centre-ville.
+- Belle mise en jambes avec plus de 26,000 pas pour cette premiere journée.
 
 ## Jour 2: Montjuic
 
@@ -166,10 +167,11 @@ De quoi construire un city trip sur mesure selon l'énergie du jour : ruelles et
 
 ## Jour 5: Retour en Belgique
 
-- Petit-déjeuner à l'appartement
-- Boulangerie Turris juste à côté
-- Aérobus A2 vers le Terminal 2
+- Notre séjour dans la belle capitale catalane touche à sa fin. Dernier petit-déjeuner à l'appartement. Une chance qu'il soit juste à côté d'une boulangerie Turris. 
+- Turris est une célèbre chaîne de boulangeries-pâtisseries artisanales en Espagne, fondée à Barcelone par le boulanger Xavier Barriga. L'enseigne est reconnue pour la qualité de ses pains au levain, ses baguettes, ses viennoiseries et ses spécialités locales. La boulangerie ouvre à 8h. Vous pouvez découvrir leurs produits sur le [site officiel](https://turris.es/).
+- Retour à pied vers l'arrêt Gran Via - Comte Borrell pour reprendre l'aérobus A2 vers le Terminal 2 pour notre vol retour
 - Dernier bain de soleil avant d'embarquer
 
 ## Ce qu'on n'a pas eu l'occasion de faire
 - [La Fontaine Magique de Montjuic](https://www.barcelona.cat/en/what-to-do-in-bcn/magic-fountain/magic-fountains-show-times): spectacle gratuit du mercredi au dimanche de début juin à fin septembre de 21h30 à 22h30. Deux parties de 30 minutes. On peut consulter la programmation des chorégraphies sur le [site](https://www.barcelona.cat/en/what-to-do-in-bcn/magic-fountain/choreographies-magic-fountain).
+- Assister à un concert au stade olympique de Montjuic. Plus d'informations pour comment s'y rendre sur le site [Estadio Olimpic de Montjuic](https://estadiolimpic.barcelona/en/getting-to-estadi-olimpic-barcelona)
