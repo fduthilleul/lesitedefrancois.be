@@ -6,7 +6,7 @@ enableSearch = true
 enableCodeCopy = false
 
 logo = "images/logo.jpg"
-defaultSocialImage = "images/social.jpg"
+defaultSocialImage = "images/social-share.jpg"
 disableTextInHeader = true
 
 mainSections = ["voyages", "sorties", "divers"]
