@@ -81,15 +81,22 @@ Spécialités de l'île :
 
 ## Jour 6: Folegandros
 
-Petit déjeuner sur la terrasse aux couleurs cycladiques. Randonnée **Ano Meria → Livadaki** sur les *monopati* — suivre les indications **FL** et les points bleus. **Livadaki** est une crique encaissée, eau turquoise, accès surtout à pied : l'effort de la descente se paie en baignade presque seuls. Remontée et déjeuner à la taverne **Irini** (poulet marsala, salade grecque, aubergines, courgettes, boulettes sauce citron…).
+Lever très matinal pour assister au match de 1/8ème de finale entre la Belgique et les États-Unis avec la famille presque au complet. Victoire 1-4 des Diables Rouges. Petit déjeuner sur la terrasse aux couleurs cycladiques. Randonnée **Ano Meria → Livadaki** sur les *monopati* — suivre les indications **FL** et les points bleus. On se gare entre le café Chrisospila Honey Coffee & Shop et l'arrêt de bus. **Livadaki** est une crique encaissée, eau turquoise, accès surtout à pied : l'effort de la descente se paie en baignade presque seuls. Remontée et déjeuner à la taverne **Irini** (poulet marsala, salade grecque, aubergines, courgettes, boulettes sauce citron…). La taverne est une institution sur l'île car il est ouvert depuis 1952.
 
 Retour piscine, puis soirée à **Chora** : visite du **Kastro**, noyau fortifié du village où les maisons forment encore un rempart, souper au **To Spitiko** dans une ruelle calme.
+
+{{< figure src="images/piscine-lithia-villa.jpeg" alt="La superbe piscine de Lithia Villas idéale pour se rafraichir après une randonnée" caption="La superbe piscine de Lithia Villas idéale pour se rafraichir après une randonnée" >}}
+
 
 ## Jour 7: Folegandros
 
 Randonnée vers les plages de **Fira** et d'**Agali** en passant par l'église de **Christos**. **Fira** (à ne pas confondre avec celle de Santorin) est une petite plage de galets quasi déserte ; **Agali**, plus bas, est la grande baie sableuse de la côte sud, avec tavernes et accès plus facile — le contraste entre les deux vaut le détour. Baignade à Fira quasiment seuls ; à Agali, on garde la baignade pour plus tard avec toute la famille.
 
-Goûter à Ano Meria chez **Chrisospila Honey Coffee & Shop**, puis retour à Agali en famille — baignade et petite montée vers **Agios Giorgios**, chapelle au-dessus de la baie. Soirée à Chora : souper chez **Eva's Garden** (jardin intérieur), puis *watermelon pie* et glaces chez **Parasagas**.
+{{< figure src="images/monopati.jpeg" alt="Le monopati (sentier) vers Fira et Agali" caption="Le monopati (sentier) vers Fira et Agali" >}}
+
+{{< figure src="images/fira-beach.jpeg" alt="Vue sur la plage de Fira avec Agali en toile de fond" caption="Vue sur la plage de Fira avec Agali en toile de fond" >}}
+
+Goûter à Ano Meria chez **Chrisospila Honey Coffee & Shop**, puis retour à Agali en famille en voiture — baignade et petite montée vers **Agios Giorgios**, chapelle au-dessus de la baie. Soirée à Chora : souper chez **Eva's Garden** (jardin intérieur), puis *watermelon pie* et glaces chez **Parasagas**.
 
 ## Jour 8: Folegandros → Sifnos
 
@@ -353,6 +360,6 @@ Réservation sur [Seajets](https://www.seajets.com/), [Ferryhopper](https://www.
 #### Restaurants & tables avec vue
 
 - **[Medusa](https://www.medusamilos.gr/)** (Mandrakia) — poissons grillés, tables les pieds dans l'eau dans les syrmata
-- **[Astakos](https://www.astakos-milos.gr/)** (Pollonia) — vue sur Pollonia, cuisine miliaque raffinée
-- **[Bariel](https://www.bariel-milos.gr/)** (Plaka) — terrasse panoramique, cuisine créative
+- **[Astakos](https://astakasmilos.gr/)** (Pollonia) — vue sur Pollonia, cuisine miliaque raffinée
+- **[Bariel](hhttps://www.barriello.com/)** (Plaka) — terrasse panoramique, cuisine créative
 - **Utopia** (Plaka) — coucher de soleil légendaire depuis la terrasse ; réserver pour le crépuscule

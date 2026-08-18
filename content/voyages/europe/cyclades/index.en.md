@@ -80,15 +80,22 @@ Island specialities:
 
 ## Day 6: Folegandros
 
-Breakfast on the Cycladic-coloured terrace. Hike **Ano Meria → Livadaki** on the *monopatia* — follow **FL** signs and blue dots. **Livadaki** is an enclosed cove, turquoise water, mainly reached on foot: the descent is rewarded with a swim almost alone. Climb back and lunch at taverna **Irini** (marsala chicken, Greek salad, aubergine, courgette, lemon-sauce meatballs…).
+Very early start to watch the round-of-16 match between Belgium and the United States with almost the whole family. Red Devils win 4–1. Breakfast on the Cycladic-coloured terrace. Hike **Ano Meria → Livadaki** on the *monopatia* — follow **FL** signs and blue dots. We park between Chrisospila Honey Coffee & Shop and the bus stop. **Livadaki** is an enclosed cove, turquoise water, mainly reached on foot: the descent is rewarded with a swim almost alone. Climb back and lunch at taverna **Irini** (marsala chicken, Greek salad, aubergine, courgette, lemon-sauce meatballs…). The taverna is an island institution — open since 1952.
 
 Pool time, then evening in **Chora**: visit the **Kastro**, the fortified core where houses still form a rampart, dinner at **To Spitiko** in a quiet lane.
+
+{{< figure src="images/piscine-lithia-villa.jpeg" alt="The superb Lithia Villas pool, perfect after a hike" caption="The superb Lithia Villas pool, perfect after a hike" >}}
+
 
 ## Day 7: Folegandros
 
 Hike towards **Fira** and **Agali** beaches via **Christos** church. **Fira** (not to be confused with Santorini's) is a small, almost empty pebble beach; **Agali**, lower down, is the main sandy bay on the south coast, with tavernas and easier access — the contrast is worth it. Swim at Fira almost alone; at Agali we save the swim for later with the whole family.
 
-Afternoon snack in Ano Meria at **Chrisospila Honey Coffee & Shop**, then back to Agali together — swim and a short climb towards **Agios Giorgios**, a chapel above the bay. Evening in Chora: dinner at **Eva's Garden** (courtyard garden), then *watermelon pie* and ice cream at **Parasagas**.
+{{< figure src="images/monopati.jpeg" alt="The monopati (trail) towards Fira and Agali" caption="The monopati (trail) towards Fira and Agali" >}}
+
+{{< figure src="images/fira-beach.jpeg" alt="View of Fira beach with Agali in the background" caption="View of Fira beach with Agali in the background" >}}
+
+Afternoon snack in Ano Meria at **Chrisospila Honey Coffee & Shop**, then back to Agali by car with the family — swim and a short climb towards **Agios Giorgios**, a chapel above the bay. Evening in Chora: dinner at **Eva's Garden** (courtyard garden), then *watermelon pie* and ice cream at **Parasagas**.
 
 ## Day 8: Folegandros → Sifnos
 
@@ -352,6 +359,6 @@ Book on [Seajets](https://www.seajets.com/), [Ferryhopper](https://www.ferryhopp
 #### Restaurants & views
 
 - **[Medusa](https://www.medusamilos.gr/)** (Mandrakia) — grilled fish, feet-in-the-water tables in the syrmata
-- **[Astakos](https://www.astakos-milos.gr/)** (Pollonia) — Pollonia views, refined Milos cuisine
-- **[Bariel](https://www.bariel-milos.gr/)** (Plaka) — panoramic terrace, creative cooking
+- **[Astakos](https://astakasmilos.gr/)** (Pollonia) — Pollonia views, refined Milos cuisine
+- **[Bariel](https://www.barriello.com/)** (Plaka) — panoramic terrace, creative cooking
 - **Utopia** (Plaka) — legendary sunset from the terrace; book for dusk
