@@ -11,7 +11,8 @@ featureimage: /images/sicile.jpeg
 
 - Arrivée à l'aéroport de Palerme à **18h40**
 - Train **Trinacria Express** vers le centre (gare centrale)
-- Dépose des valises à l'appartement (Via Vittorio Emanuele)
+{{< figure src="images/train-punta-raisi.jpeg" alt="Publicité pour le train vers Palerme" caption="Publicité pour le train vers Palerme" >}}
+- Dépose des valises à l'appartement ([Via Vittorio Emanuele](https://www.airbnb.com/rooms/24407404))
 - Observation des décorations lumineuses depuis le balcon
 - Visite à pied dans les rues à proximité du port
 - Découverte de la brioche **col tuppo** avec la glace sicilienne (**Gelateria La Kala**)
@@ -22,8 +23,10 @@ featureimage: /images/sicile.jpeg
 - **Pasticceria Costa** et découverte du cannoli
 - Sites : **Foro italico** – **Porta Felice** – **Piazza Marina** – **Corso Vittorio Emanuele** – **Piazza Pretoria** – **Quattro Canti** – **Ballarò**
 - Verre de « Sangue » (sang de Sicilien) à la **Taverna Azzura** (Vucciria) — vin doux typique entre le Marsala et le Zibibbo
-- Dîner et première **caponata**
-- Visite libre : **Villa Bonanno**
+- Dîner et première **caponata**. La caponata est un plat emblématique de la cuisine sicilienne célèbre pour sa saveur aigre-douce (agrodolce), généralement servi froid ou à température ambiante en entrée ou en accompagnement. Elle se compose principalement d'aubergines frites associées à du céleri, des oignons et de la tomate, le tout assaisonné d'un mélange subtil de vinaigre et de sucre puis agrémenté de câpres, d'olives vertes et de pignons de pin. Selon les régions de Sicile, cette recette traditionnelle se décline en diverses variantes intégrant parfois des poivrons, des cœurs d'artichauts ou même des produits de la mer comme l'espadon.
+- Visite libre : **Villa Bonanno**. Aménagé en 1904 au cœur de Palerme, la Villa Bonanno est un jardin monumental réputé pour ses sculptures, ses édifices de style Liberty et sa statue de Philippe V.
+Le parc abrite également un riche patrimoine archéologique, incluant une nécropole et deux domus romaines aux magnifiques mosaïques datant du IIe siècle av. J.-C. et du IIIe siècle apr. J.-C.
+{{< figure src="images/villa-bonanno.jpeg" alt="Visite de la Villa Bonanno à proximité de la cathédrale et de l'entrée monumentale de la Porta Nuova" caption="Visite de la Villa Bonanno à proximité de la cathédrale et de l'entrée monumentale de la Porta Nuova" >}}
 - Premier **granité** pour les enfants
 - Train vers l'aéroport pour voiture de location
 - Arrivée au logement à **Scopello** (Visicari)
@@ -40,6 +43,7 @@ featureimage: /images/sicile.jpeg
 
 - Matinée piscine
 - Délicieuse **caponata** préparée par la famille des propriétaires
+{{< figure src="images/caponata.jpeg" alt="Délicieuse caponata préparée par les propriétaires" caption="Délicieuse caponata préparée par les propriétaires" >}}
 - Visite du parc archéologique de **Segeste** : le temple et le théâtre hellénistique
 - Retour piscine et barbecue
 

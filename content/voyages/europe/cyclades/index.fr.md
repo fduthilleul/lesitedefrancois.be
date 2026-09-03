@@ -361,5 +361,5 @@ Réservation sur [Seajets](https://www.seajets.com/), [Ferryhopper](https://www.
 
 - **[Medusa](https://www.medusamilos.gr/)** (Mandrakia) — poissons grillés, tables les pieds dans l'eau dans les syrmata
 - **[Astakos](https://astakasmilos.gr/)** (Pollonia) — vue sur Pollonia, cuisine miliaque raffinée
-- **[Bariel](hhttps://www.barriello.com/)** (Plaka) — terrasse panoramique, cuisine créative
+- **[Bariel](https://www.barriello.com/)** (Plaka) — terrasse panoramique, cuisine créative
 - **Utopia** (Plaka) — coucher de soleil légendaire depuis la terrasse ; réserver pour le crépuscule
