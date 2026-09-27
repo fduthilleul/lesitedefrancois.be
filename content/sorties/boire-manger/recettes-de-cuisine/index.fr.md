@@ -65,6 +65,12 @@ Voici quelques recettes que nous avons déjà essayées:
 
 <https://toquedechoc.com/2019/08/tarte-poulet-coco-gingembre-facon-tartes-francoise/>
 
+## Salade estivale d'Orzo
+<https://www.markal.fr/recette/pdf/1697>
+
+## Butternut farcie à la viande hachée 
+<https://www.cuisineaz.com/recettes/butternut-farcie-a-la-viande-hachee-125417.aspx>
+
 ## Biscuits noix ou noisette
 **Ingrédients**
 - 75 gr. farine blanche
