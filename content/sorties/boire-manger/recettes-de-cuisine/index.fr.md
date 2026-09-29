@@ -68,6 +68,9 @@ Voici quelques recettes que nous avons déjà essayées:
 ## Salade estivale d'Orzo
 <https://www.markal.fr/recette/pdf/1697>
 
+## Pommes de terre à la grecque au four, au citron et à l’origan
+<https://www.papillesetpupilles.fr/2025/08/pommes-de-terre-au-four-a-la-grecque-citron-origan-et-soleil-dans-lassiette.html/>
+
 ## Butternut farcie à la viande hachée 
 <https://www.cuisineaz.com/recettes/butternut-farcie-a-la-viande-hachee-125417.aspx>
 

@@ -58,31 +58,3 @@
   parent = "Outings"
   pageRef = "sorties/boire-manger"
   weight = 5
-
-[[main]]
-  name = "Tech"
-  weight = 30
-
-[[main]]
-  name = "AI"
-  parent = "Tech"
-  pageRef = "ai/index"
-  weight = 1
-
-[[main]]
-  name = "Telco"
-  parent = "Tech"
-  pageRef = "telco/index"
-  weight = 2
-
-[[main]]
-  name = "Security"
-  parent = "Tech"
-  pageRef = "security/index"
-  weight = 3
-
-[[main]]
-  name = "Compliance"
-  parent = "Tech"
-  pageRef = "compliance/index"
-  weight = 4
