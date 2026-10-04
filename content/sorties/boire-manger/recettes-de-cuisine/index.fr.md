@@ -74,6 +74,12 @@ Voici quelques recettes que nous avons déjà essayées:
 ## Butternut farcie à la viande hachée 
 <https://www.cuisineaz.com/recettes/butternut-farcie-a-la-viande-hachee-125417.aspx>
 
+## Curry de butternut et épinards au lait de coco
+<https://www.papillesetpupilles.fr/2026/01/curry-de-butternut-et-epinards-au-lait-de-coco.html/>
+
+## Gratin d’aubergines à la tomate, boeuf haché et Parmesan
+<https://www.papillesetpupilles.fr/2024/08/gratin-daubergines-a-la-tomate-boeuf-hache-et-parmesan.html/>
+
 ## Biscuits noix ou noisette
 **Ingrédients**
 - 75 gr. farine blanche
