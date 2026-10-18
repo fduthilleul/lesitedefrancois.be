@@ -8,6 +8,9 @@ hero: /images/tajine.webp
 ---
 
 Voici quelques recettes que nous avons déjà essayées:
+## Curry rouge de poulet mariné au yaourt
+
+<https://www.delhaize.be/fr/recettes/recetteDetails/Curry-rouge-de-poulet-marine-au-yaourt/r/R00066613>
 
 ## Sauté de veau aux carottes, ras el hanout et citron confit
 
