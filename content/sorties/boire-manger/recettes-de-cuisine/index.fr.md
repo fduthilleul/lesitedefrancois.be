@@ -8,6 +8,7 @@ hero: /images/tajine.webp
 ---
 
 Voici quelques recettes que nous avons déjà essayées:
+
 ## Curry rouge de poulet mariné au yaourt
 
 <https://www.delhaize.be/fr/recettes/recetteDetails/Curry-rouge-de-poulet-marine-au-yaourt/r/R00066613>
@@ -105,3 +106,18 @@ Ajouter le chocolat et les noix
 Former les biscuits  
 
 **Cuisson:** 10 min à 180°
+
+## Mendiants 
+**Ingrédients**
+- des barres de chocolat blanc et noir Côte d'Or
+- des cerneaux de noix
+- des raisins secs
+
+**Recette**  
+- Couper chaque barre de chocolat en trois
+- Les placer sur une plaque de four sur un papier cuisson pour que les mendiants ne collent pas
+- Une fois ramolli, retirer la plaque du four et étaler chaque mendiant
+- Ajouter noix et raisins secs
+- Laisser refroidir à l'air libre ou au frigo
+
+**Cuisson:** 10-12 min à 50° (vérifier avec le dos d'une cuillère si le chocolat se ramollit )
