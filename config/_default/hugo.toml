@@ -33,10 +33,7 @@ ignoreFiles = ['content/divers/', 'content/les-incontournables']
   threshold = 0
   toLower = false
 
-    [[related.indices]]
-        name = "tags"
-        weight = 100
-
+    # Ranking within same-category results (hard filter is in layouts/partials/related.html)
     [[related.indices]]
         name = "categories"
         weight = 100
