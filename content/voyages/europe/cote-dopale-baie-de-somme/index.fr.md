@@ -2,8 +2,8 @@
 title: "Côte d'Opale et Baie de Somme"
 date: 2026-10-27
 categories: ["Voyages", "Europe"]
-tags: ["France", "Côte d'Opale", "Baie de Somme", "2026"]
-summary: "Carnet en construction — Côte d'Opale et Baie de Somme."
+tags: ["France", "Côte d'Opale", "Baie de Somme", "Deux-Caps", "2026"]
+summary: "Court séjour d'une nuit : randonnée Cap Gris-Nez → Cap Blanc-Nez, nuit à Mesnil-Val, balade à Criel puis sentier du littoral vers le Bois de Cise."
 showTableOfContents: true
 markup:
   tableOfContents:
@@ -11,16 +11,48 @@ markup:
     endLevel: 3
 ---
 
-Page en préparation. Des liens et le détail du séjour seront ajoutés progressivement.
+Court séjour d'**une nuit** entre **Côte d'Opale** et **Baie de Somme** : la grande randonnée entre les deux caps, une pause à **Wissant**, nuit côté **Mesnil-Val**, puis **Criel-sur-Mer** et le sentier du littoral vers le **Bois de Cise**. On avait déjà fait la rando des caps en **février** — ça nous avait bien plu, on est revenus.
 
-## Comment venir
+## Jour 1 : Cap Gris-Nez → Cap Blanc-Nez
+
+Réveil très matinal : il faut laisser la voiture au **parking du Cap Blanc-Nez** pour ne pas rater le **seul bus du matin** qui dépose au Cap Gris-Nez. Départ de Belgique vers **6 h 15** ; Waze nous envoie via **Poperinge** puis le long de la côte — route plutôt calme et agréable. Arrivée vers **8 h 30** pour le bus de **8 h 47**. Parking quasi vide, à part une voiture de gendarmerie.
+
+Le trajet en bus dure **20–25 minutes** (~**2 €**/pers.) ; peu de monde à bord. La descente depuis Blanc-Nez offre déjà une belle vue. On rejoint le **GR 120** (Sentier du Littoral), l'itinéraire principal du [Grand Site des Deux-Caps](https://www.lesdeuxcaps.fr/randonner-dun-cap-lautre) entre falaises de craie, dunes et plages.
+
+En chemin, un panneau indique un **sentier fermé** — pas toujours évident de retrouver le GR 120. Le site [Terre des 2 caps](https://terredes2capstourisme.fr/transports) / Deux-Caps montre que le tracé a été **modifié** : mieux vaut vérifier avant de partir. Arrivée près du **phare du Gris-Nez**, belvédères (dont le belvédère du vent et du détroit) : superbe randonnée.
+
+Pause déjeuner à **Wissant**. La fois précédente, un verre au **Tennis Club** sous le soleil — il ouvre à **midi**. Ce mercredi est **jour de marché** : un grand marché pour la taille du village (on nous dira même que c'est le plus grand de la Côte d'Opale) — vêtements, sacs, bijoux, fruits et légumes… Café de spécialité sur le marché chez **Marie et Dom** (food truck) : le **MUDA** avait attiré l'œil.
+
+Bon à savoir pour un prochain séjour : j'apprendrai après coup que **[Totemus](https://terredes2capstourisme.fr/laventure-totemus-continue-sur-la-terre-des-2-caps)** propose des chasses au trésor connectées sur la Terre des 2 caps, notamment *Wissant, perle sauvage d'Opale* — appli gratuite, énigmes dans le village.
+
+### Marée haute — le piège
+
+Surprise : **marée haute**, impossible de continuer sur la plage. C'est clairement indiqué sur le site des Deux-Caps — on n'y avait pas prêté attention. On cherche une alternative : tous les accès pour passer par la forêt semblent bloqués. On finit par trouver un chemin dans la forêt et on attend dans les **dunes** que la marée baisse. Une silhouette au loin ; environ **1 h après**, on redescend sur la plage en restant prudents, puis on rejoint le parking du Cap Blanc-Nez vers **16 h** — la dernière montée tire.
+
+### Soirée à Eu
+
+Direction **Mesnil-Val** et la chambre d'hôtes **La Villa**. La fois d'avant, on avait logé aux **Tourelles** au **Crotoy**, avec vue sur la baie — sympa pour récupérer (piscine). Ce soir, resto à **Eu** : **Le Mariamelia** — très agréable, et un clin d'œil d'histoire locale (on est en **Normandie** ici) : le nom fait référence à **Marie-Amélie de Bourbon-Siciles**, épouse de Louis-Philippe, qui séjournait régulièrement à Eu. Parking près du château / hôtel de ville.
+
+## Jour 2 : Criel-sur-Mer puis Bois de Cise
+
+Petit déjeuner à la maison d'hôtes, puis balade de Mesnil-Val vers la **plage de Criel** (possibilité de pousser jusqu'au **mont Jolibois**). Temps assez gris ; une portion du GR s'est affaissée, ce qui nous fait traverser un quartier résidentiel. On s'arrête à la plage pour observer les falaises, puis demi-tour. Balade nettement moins belle que celle des deux caps — ou que le sentier vers le Bois de Cise prévu l'après-midi.
+
+Route vers **Mers-les-Bains**. Jour de marché ; parking non payant en semaine à partir du **15 septembre**. Une habitante locale nous indique le parking **La Galiote** (~**500 places**, gratuit aussi en saison). Petit tour au marché pour faire le plein de pommes, puis le front de mer.
+
+On prend le [sentier du littoral](https://www.destination-letreport-mers.fr/offres/le-sentier-du-littoral-baie-de-somme-mers-les-bains-fr-2694962/) vers le **Bois de Cise**. Indiqué **~45 minutes** depuis Mers : en réalité **beaucoup plus long**. Très belle balade ; on atteint le Bois de Cise mais sans le temps de le visiter. **Prochaine fois** : se garer directement au Bois de Cise pour le découvrir et continuer éventuellement jusqu'à **Ault**.
+
+Retour au parking, puis route vers la Belgique — histoire de ne pas rentrer trop tard.
+
+## Liens utiles
+
+### Comment venir
 
 - [Transports — Terre des 2 caps Tourisme](https://terredes2capstourisme.fr/transports) (stationnement, bus, trains, taxis, mobilité douce…)
 - [Fiche horaire bus ligne 427 / 959 — Région Hauts-de-France](https://regionhdf.monbus.mobi/2clock/itineraires/fiche-horaire-ligne/959/A?n=3) (Calais – Site des 2 Caps – Boulogne-sur-Mer)
 
 ## Côte d'Opale
 
-- [Randonner d'un cap à l'autre — Les Deux Caps](https://www.lesdeuxcaps.fr/randonner-dun-cap-lautre) (Cap Blanc-Nez ↔ Cap Gris-Nez, Baie de Wissant)
+- [Randonner d'un cap à l'autre — Les Deux Caps](https://www.lesdeuxcaps.fr/randonner-dun-cap-lautre) (Cap Blanc-Nez ↔ Cap Gris-Nez, Baie de Wissant) — **vérifier marées et déviations du GR 120**
 
 ## Baie de Somme
 
@@ -50,7 +82,7 @@ Page en préparation. Des liens et le détail du séjour seront ajoutés progres
 - Itinéraires :
   - Crotoy → Saint-Quentin-en-Tourmont (Marquenterre) : **~16 km**
   - Saint-Valery ↔ Cayeux-sur-Mer (D940) : **~15 km**
-- Liens : [La Vélomaritime](https://www.lavelomaritime.fr/) · [Baiecyclette](https://www.baiecyclette.com/) · [Sillonner à pied et à vélo — OT Baie de Somme](https://www.tourisme-baiedesomme.fr/organiser/sillonner-a-pied-et-a-velo/)
+- Liens : [La Vélomaritime](https://www.lavelomaritime.fr/) · [Baiecyclette](https://www.baiecyclette.com/) · [Sillonner à pied et à vélo — OT Baie de Somme](https://www.tourisme-baiedesomme.fr/organiser/sillonner-a-pied-et-a-velo/) · [Vélorail de la Baie de Somme](https://www.velorail-baiedesomme.fr/)
 
 #### Train à vapeur — Chemin de Fer de la Baie de Somme
 
@@ -185,7 +217,3 @@ Liens : [Randonnées — Top 5 entre terre et mer](https://www.destination-letre
 
 - [Somme Tourisme](https://www.somme-tourisme.com/) (site officiel — hébergements, activités, idées de séjours)
 - [Brochures — OT Baie de Somme](https://www.tourisme-baiedesomme.fr/pratique/brochures/) (guides, cartes, plans à télécharger)
-
-## À planifier
-
-- …
